@@ -1,0 +1,21 @@
+Análise: 02/06/2017, 08:05:01 hs
+Campanha: Vem Conhecer Todas Novidades da Nossa Loja...[ 01-06-2017 16:12:50 ]
+Listas de inclusão: Colaboradores | Long Island, mailling consumidor final (novo) 01
+Listas de exclusão: nenhuma
+Segmentação: CONTATOS ATIVOS
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 72.0 (100.0%) - 65.0 (90.28%) usuários desconhecidos, 2.0 (2.78%) endereço(s) inativo(s), 5.0 (6.94%) erros de domínio desconhecido
+
+SPF: 2 OK e 0 Falha(s)
+DKIM: 0 OK e 2 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: B+
+Contatos base: 4.625
+Campanhas interrompidas no mês: 
+Interação 6 meses: 731
+Interação 12 meses: 876
+Nunca Interagiram: 3.447
+Media visualização 3 meses: 29.00%
+Media clicks 3 meses: 2.48%

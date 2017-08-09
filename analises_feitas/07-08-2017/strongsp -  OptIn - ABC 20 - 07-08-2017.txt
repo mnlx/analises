@@ -1,0 +1,21 @@
+Análise: 07/08/2017, 04:30:43 hs
+Campanha: OptIn - ABC 2017
+Listas de inclusão: Feiras e Eventos 2015 (conclusão 2016), Feiras e Eventos 2016 (conclusão 2016)
+Listas de exclusão: nenhuma
+Segmentação: Sem Interação
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 70.0 (97.22%) - 70.0 (100.0%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 0 (0%) erros de domínio desconhecido
+
+SPF: 12 OK e 0 Falha(s)
+DKIM: 12 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C+
+Contatos base: 141.256
+Campanhas interrompidas no mês: 
+Interação 6 meses: 30.622
+Interação 12 meses: 30.622
+Nunca Interagiram: 110.634
+Media visualização 3 meses: 26.78%
+Media clicks 3 meses: 2.87%

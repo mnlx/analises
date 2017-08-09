@@ -1,0 +1,21 @@
+Análise: 13/06/2017, 01:12:51 hs
+Campanha: Dia dos Namorados
+Listas de inclusão: nenhuma
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 98.0 (75.97%) - 89.0 (90.82%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 89.0 (90.82%) erros de domínio desconhecido
+
+SPF: 0 OK e 0 Falha(s)
+DKIM: 0 OK e 0 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 5.641
+Campanhas interrompidas no mês: 
+Interação 6 meses: 25
+Interação 12 meses: 25
+Nunca Interagiram: 5.616
+Media visualização 3 meses: 8.66%
+Media clicks 3 meses: 0.00%

@@ -1,0 +1,21 @@
+Análise: 03/08/2017, 06:06:54 hs
+Campanha: E se a vida te der uma nova chance?
+Listas de inclusão: GOVERNO, PRIVADO, TESTE
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 4
+Cancelamentos: 28
+Erros permanentes: 16.0 (5.44%) - 9.0 (56.25%) usuários desconhecidos, 5.0 (31.25%) endereço(s) inativo(s), 2.0 (12.5%) erros de domínio desconhecido
+
+SPF: 8 OK e 0 Falha(s)
+DKIM: 0 OK e 8 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 25.582
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.713
+Interação 12 meses: 2.713
+Nunca Interagiram: 22.869
+Media visualização 3 meses: 7.62%
+Media clicks 3 meses: 0.23%

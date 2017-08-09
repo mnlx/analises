@@ -1,0 +1,21 @@
+Análise: 18/06/2017, 16:14:30 hs
+Campanha: Rede super auto
+Listas de inclusão: POA - DOIS
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 2
+Erros permanentes: 76.0 (86.36%) - 71.0 (93.42%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 5.0 (6.58%) erros de domínio desconhecido
+
+SPF: 2 OK e 5 Falha(s)
+DKIM: 3 OK e 4 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: B
+Contatos base: 77.228
+Campanhas interrompidas no mês: 
+Interação 6 meses: 6.584
+Interação 12 meses: 6.584
+Nunca Interagiram: 70.644
+Media visualização 3 meses: 27.34%
+Media clicks 3 meses: 2.93%

@@ -1,0 +1,21 @@
+Análise: 09/08/2017, 04:47:17 hs
+Campanha: 80817-4
+Listas de inclusão: 05.Ago.17, 08.julho.17, 140117, 210117
+Listas de exclusão: nenhuma
+Segmentação: Contatos Ativos
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 57.0 (98.28%) - 56.0 (98.25%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 1.0 (1.75%) erros de domínio desconhecido
+
+SPF: 0 OK e 2 Falha(s)
+DKIM: 0 OK e 2 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 27.534
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.723
+Interação 12 meses: 2.055
+Nunca Interagiram: 23.503
+Media visualização 3 meses: 17.92%
+Media clicks 3 meses: 0.40%

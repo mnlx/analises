@@ -1,0 +1,21 @@
+Análise: 28/06/2017, 08:37:24 hs
+Campanha: IGDNews 493 - Ordenamento territorial em xeque com incêndio e inundação
+Listas de inclusão: 22c
+Listas de exclusão: nenhuma
+Segmentação: Emailmanager
+Denuncias: 1
+Cancelamentos: 3
+Erros permanentes: 12.0 (34.29%) - 9.0 (75.0%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 3.0 (25.0%) erros de domínio desconhecido
+
+SPF: 3 OK e 0 Falha(s)
+DKIM: 3 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B
+Contatos base: 55.249
+Campanhas interrompidas no mês: 
+Interação 6 meses: 19.546
+Interação 12 meses: 24.078
+Nunca Interagiram: 29.548
+Media visualização 3 meses: 20.63%
+Media clicks 3 meses: 1.52%

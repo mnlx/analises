@@ -1,0 +1,21 @@
+Análise: 08/06/2017, 07:47:35 hs
+Campanha: Questor Colabore! Conheça![ 07-06-2017 15:33:33 ]
+Listas de inclusão: GERAL OK
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 70.0 (87.5%) - 55.0 (78.57%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 15.0 (21.43%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: B-
+Contatos base: 3.233
+Campanhas interrompidas no mês: 
+Interação 6 meses: 445
+Interação 12 meses: 534
+Nunca Interagiram: 2.615
+Media visualização 3 meses: 35.63%
+Media clicks 3 meses: 0.14%

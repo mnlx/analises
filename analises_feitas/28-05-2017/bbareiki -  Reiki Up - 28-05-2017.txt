@@ -1,0 +1,22 @@
+Analista: 
+Análise: 28/05/2017, 11:10:35 hs
+Campanha: Reiki Up
+Listas de inclusão: CREA - PR (Vidros), Casa Place, CREA - PR (Construção), CREA - PR (Construtoras), CREA - PR (Esquadria), CREA SC (Construtoras), Engenheiros Paraná, IAB (Instituto de Arquitetura Do Brasil - Palhoça, Núcleo do Vale (Projetistas, Arquitetos), Site BBa
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 56.0 (84.85%) - 47.0(83.93%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 9.0(16.07%) erros de domínio desconhecido
+
+SPF: 2 OK e 0 Falha(s)
+DKIM: 2 OK e 0 Falha(s)
+Domínio próprio: 1 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 2.084
+Campanhas interrompidas no mês: 
+Interação 6 meses: 15
+Interação 12 meses: 15
+Nunca Interagiram: 2.069
+Media visualização 3 meses: 22.46%
+Media clicks 3 meses: 0.92%

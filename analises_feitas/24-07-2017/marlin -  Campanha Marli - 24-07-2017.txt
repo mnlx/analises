@@ -1,0 +1,21 @@
+Análise: 24/07/2017, 15:14:49 hs
+Campanha: Campanha Marlin de Teste - Testes automatizados
+Listas de inclusão: Teste Marlin
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 99.0 (77.34%) - 58.0 (58.59%) usuários desconhecidos, 1.0 (1.01%) endereço(s) inativo(s), 40.0 (40.4%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: N
+Contatos base: 6.904
+Campanhas interrompidas no mês: 
+Interação 6 meses: 4
+Interação 12 meses: 4
+Nunca Interagiram: 6.900
+Media visualização 3 meses: 2.83%
+Media clicks 3 meses: 0.00%

@@ -1,0 +1,21 @@
+Análise: 05/07/2017, 06:27:29 hs
+Campanha: Mudança de cargo SAMI!
+Listas de inclusão: clientes cadastrados do my suite
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 2
+Erros permanentes: 60.0 (92.31%) - 47.0 (78.33%) usuários desconhecidos, 1.0 (1.67%) endereço(s) inativo(s), 12.0 (20.0%) erros de domínio desconhecido
+
+SPF: 0 OK e 2 Falha(s)
+DKIM: 0 OK e 2 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B+
+Contatos base: 2.754
+Campanhas interrompidas no mês: 
+Interação 6 meses: 252
+Interação 12 meses: 252
+Nunca Interagiram: 2.502
+Media visualização 3 meses: 48.46%
+Media clicks 3 meses: 1.11%

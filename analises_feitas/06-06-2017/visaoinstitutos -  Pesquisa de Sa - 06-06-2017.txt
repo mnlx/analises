@@ -1,0 +1,21 @@
+Análise: 06/06/2017, 16:08:44 hs
+Campanha: Pesquisa de Satisfação Maio
+Listas de inclusão: Asa Sul maio, Taguatinga Maio
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 73.0 (89.02%) - 67.0 (91.78%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 6.0 (8.22%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 43.937
+Campanhas interrompidas no mês: 
+Interação 6 meses: 10.067
+Interação 12 meses: 12.546
+Nunca Interagiram: 23.630
+Media visualização 3 meses: 33.27%
+Media clicks 3 meses: 0.45%

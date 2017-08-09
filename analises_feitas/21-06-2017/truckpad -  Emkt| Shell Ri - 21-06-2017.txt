@@ -1,0 +1,21 @@
+Análise: 21/06/2017, 07:20:14 hs
+Campanha: Emkt| Shell Rimula | Carreta Shell | Base Toda - 100k
+Listas de inclusão: Base_Drivers_TruckPad_Versão inferior a 4.0
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 2
+Cancelamentos: 16
+Erros permanentes: 2228.0 (98.72%) - 2.175 (97.62%) usuários desconhecidos, 10.0 (0.45%) endereço(s) inativo(s), 43.0 (1.93%) erros de domínio desconhecido
+
+SPF: 1 OK e 1 Falha(s)
+DKIM: 1 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 138.361
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.294
+Interação 12 meses: 3.636
+Nunca Interagiram: 132.682
+Media visualização 3 meses: 33.92%
+Media clicks 3 meses: 1.19%

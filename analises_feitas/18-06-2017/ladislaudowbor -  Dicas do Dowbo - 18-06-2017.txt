@@ -1,0 +1,21 @@
+Análise: 18/06/2017, 16:27:36 hs
+Campanha: Dicas do Dowbor - Junho
+Listas de inclusão: Contatos
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 3
+Cancelamentos: 5
+Erros permanentes: 40.0 (38.83%) - 30.0 (75.0%) usuários desconhecidos, 10.0 (25.0%) endereço(s) inativo(s), 0 (0%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B
+Contatos base: 6.665
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.514
+Interação 12 meses: 1.958
+Nunca Interagiram: 3.558
+Media visualização 3 meses: 36.89%
+Media clicks 3 meses: 6.27%

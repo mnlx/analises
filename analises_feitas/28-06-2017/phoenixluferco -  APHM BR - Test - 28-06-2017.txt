@@ -1,0 +1,21 @@
+Análise: 28/06/2017, 17:36:36 hs
+Campanha: APHM BR - Testas Mailing
+Listas de inclusão: Revisado 27.04.17
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 78.0 (83.87%) - 65.0 (83.33%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 13.0 (16.67%) erros de domínio desconhecido
+
+SPF: 0 OK e 2 Falha(s)
+DKIM: 0 OK e 2 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: B
+Contatos base: 4.703
+Campanhas interrompidas no mês: 
+Interação 6 meses: 894
+Interação 12 meses: 894
+Nunca Interagiram: 3.809
+Media visualização 3 meses: 39.60%
+Media clicks 3 meses: 3.07%

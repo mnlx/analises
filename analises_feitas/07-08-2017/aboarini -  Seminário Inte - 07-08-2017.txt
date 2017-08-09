@@ -1,0 +1,21 @@
+Análise: 07/08/2017, 04:45:53 hs
+Campanha: Seminário Internacional
+Listas de inclusão: novalista
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 84.0 (93.33%) - 82.0 (97.62%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 2.0 (2.38%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: B-
+Contatos base: 3.937
+Campanhas interrompidas no mês: 
+Interação 6 meses: 168
+Interação 12 meses: 168
+Nunca Interagiram: 3.769
+Media visualização 3 meses: 22.06%
+Media clicks 3 meses: 0.14%

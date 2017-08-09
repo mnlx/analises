@@ -1,0 +1,21 @@
+Análise: 02/06/2017, 07:52:26 hs
+Campanha: Campanha_moleskine 31-05-2017 11:41:46 ]
+Listas de inclusão: e_mail_atalizada_2017, jeferson_teste
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 54.0 (76.06%) - 42.0 (77.78%) usuários desconhecidos, 2.0 (3.7%) endereço(s) inativo(s), 10.0 (18.52%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B-
+Contatos base: 5.869
+Campanhas interrompidas no mês: 
+Interação 6 meses: 679
+Interação 12 meses: 833
+Nunca Interagiram: 5.008
+Media visualização 3 meses: 28.22%
+Media clicks 3 meses: 1.35%

@@ -1,0 +1,21 @@
+Análise: 07/07/2017, 07:57:01 hs
+Campanha: Save The Date | 5º Fórum de TIC na Justiça
+Listas de inclusão: Mailing Geral , Mailing Judiciário 2016 (CONIP)
+Listas de exclusão: Exclusão!
+Segmentação: nenhuma
+Denuncias: 1
+Cancelamentos: 0
+Erros permanentes: 5.0 (55.56%) - 3.0 (60.0%) usuários desconhecidos, 1.0 (20.0%) endereço(s) inativo(s), 1.0 (20.0%) erros de domínio desconhecido
+
+SPF: 1 OK e 2 Falha(s)
+DKIM: 1 OK e 2 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 16.817
+Campanhas interrompidas no mês: 
+Interação 6 meses: 3.015
+Interação 12 meses: 3.015
+Nunca Interagiram: 13.802
+Media visualização 3 meses: 31.88%
+Media clicks 3 meses: 4.38%

@@ -1,0 +1,21 @@
+Análise: 27/07/2017, 05:52:22 hs
+Campanha: Boletim Julho 2017
+Listas de inclusão: Newsletter - Blog, Mala direta
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 1
+Cancelamentos: 2
+Erros permanentes: 396.0 (82.85%) - 352.0 (88.89%) usuários desconhecidos, 15.0 (3.79%) endereço(s) inativo(s), 29.0 (7.32%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: A
+Contatos base: 8.966
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.022
+Interação 12 meses: 1.302
+Nunca Interagiram: 7.506
+Media visualização 3 meses: 41.85%
+Media clicks 3 meses: 33.43%

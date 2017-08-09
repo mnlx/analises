@@ -1,0 +1,21 @@
+Análise: 28/07/2017, 06:43:16 hs
+Campanha:19 ]
+Listas de inclusão: Fabricantes - IBI, Aplicadores - IBI, Distribuidores, Aplicadores, Projetistas e Consultores de Impermeabilização, Distribuidores - IBI, Fabricantes, Projetistas - IBI, Estudantes, Representantes, Pessoas Físicas - IBI, Assessoria e Imprensa, Construtoras-Engenheiros-Arquitetos, Entidades e Associações, Estudantes_TCC, Universidades_Coordenadores, Varejo
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 74.0 (82.22%) - 64.0 (86.49%) usuários desconhecidos, 1.0 (1.35%) endereço(s) inativo(s), 9.0 (12.16%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: A+
+Contatos base: 1.772
+Campanhas interrompidas no mês: 
+Interação 6 meses: 200
+Interação 12 meses: 200
+Nunca Interagiram: 1.572
+Media visualização 3 meses: 116.52%
+Media clicks 3 meses: 5.21%

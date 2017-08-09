@@ -1,0 +1,21 @@
+Análise: 25/07/2017, 14:41:47 hs
+Campanha: email mkt 1 Farma Save-the-date (25/07)
+Listas de inclusão: 2017 MAILING FARMA CICLO 21/07
+Listas de exclusão: 2017 INSCRITOS ATÉ O MOMENTO TRANSPORTES 19/07
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 80.0 (52.63%) - 70.0 (87.5%) usuários desconhecidos, 2.0 (2.5%) endereço(s) inativo(s), 8.0 (10.0%) erros de domínio desconhecido
+
+SPF: 3 OK e 1 Falha(s)
+DKIM: 4 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 30.904
+Campanhas interrompidas no mês: 
+Interação 6 meses: 6.561
+Interação 12 meses: 6.561
+Nunca Interagiram: 24.343
+Media visualização 3 meses: 15.26%
+Media clicks 3 meses: 0.72%

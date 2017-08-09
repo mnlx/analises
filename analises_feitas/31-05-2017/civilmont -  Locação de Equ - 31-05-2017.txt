@@ -1,0 +1,21 @@
+Análise: 31/05/2017, 15:46:54 hs
+Campanha: Locação de Equipamentos e Serviços Especializad...[ 22-05-2017 10:48:23 ]
+Listas de inclusão: BELLA MORADA - PROPRIETARIOS, CONTATOS CM + CIESP E-MAIL, Eduardo, FEICCAD, FEICCAD_2016, FOLDER PART 1, GALLO IMÓVEIS, Linkedin
+Listas de exclusão: nenhuma
+Segmentação: Contatos com interação +novos (filtro ideal)
+Denuncias: 2
+Cancelamentos: 2
+Erros permanentes: 0 (0%) - 0 (0%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 0 (0%) erros de domínio desconhecido
+
+SPF: 2 OK e 0 Falha(s)
+DKIM: 0 OK e 2 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B-
+Contatos base: 6.189
+Campanhas interrompidas no mês: 
+Interação 6 meses: 4.713
+Interação 12 meses: 5.432
+Nunca Interagiram: 233
+Media visualização 3 meses: 22.73%
+Media clicks 3 meses: 0.29%

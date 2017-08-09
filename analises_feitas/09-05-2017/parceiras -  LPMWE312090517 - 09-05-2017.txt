@@ -1,0 +1,22 @@
+Analista: 
+Análise: 09/05/2017, 21:08:56 hs
+Campanha: LPMWE312090517_094602
+Listas de inclusão: LPMWE312090517_094602
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 3
+Erros permanentes: 0 (0%) - 0(0%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 0(0%) erros de domínio desconhecido
+
+SPF: 20 OK e 0 Falha(s)
+DKIM: 20 OK e 0 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: C+
+Contatos base: 403.453
+Campanhas interrompidas no mês: 
+Interação 6 meses: null
+Interação 12 meses: null
+Nunca Interagiram: null
+Media visualização 3 meses: 18.57%
+Media clicks 3 meses: 1.20%

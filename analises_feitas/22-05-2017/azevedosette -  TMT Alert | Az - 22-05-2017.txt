@@ -1,0 +1,22 @@
+Analista: 
+Análise: 22/05/2017, 00:52:01 hs
+Campanha: TMT Alert | Azevedo Sette Advogados | Ed. May 2017[ 19-05-2017 15:43:18 ]
+Listas de inclusão: Mailing Internacional
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 1
+Cancelamentos: 2
+Erros permanentes: 198.0 (42.13%) - 152.0(76.77%) usuários desconhecidos, 3.0(1.52%) endereço(s) inativo(s), 43.0(21.72%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 8.237
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.343
+Interação 12 meses: 2.541
+Nunca Interagiram: 5.526
+Media visualização 3 meses: 22.04%
+Media clicks 3 meses: 0.89%

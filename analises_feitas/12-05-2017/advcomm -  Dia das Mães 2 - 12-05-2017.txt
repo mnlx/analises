@@ -1,0 +1,22 @@
+Analista: 
+Análise: 12/05/2017, 19:15:46 hs
+Campanha: Dia das Mães 2017
+Listas de inclusão: Clientes, Contatos | Vinícius Felipe, Fornecedores, Funcionários
+Listas de exclusão: Contatos | Fausto Alves, Obras Brasil, Profissionais Cadastrados CBM | Bombeiros 1, Profissionais Cadastrados CBM | Bombeiros 2
+Segmentação: nenhuma
+Denuncias: 1
+Cancelamentos: 1
+Erros permanentes: 105.0 (70.0%) - 101.0(96.19%) usuários desconhecidos, 2.0(1.9%) endereço(s) inativo(s), 2.0(1.9%) erros de domínio desconhecido
+
+SPF: 3 OK e 1 Falha(s)
+DKIM: 0 OK e 4 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 18.607
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.217
+Interação 12 meses: 3.085
+Nunca Interagiram: 15.333
+Media visualização 3 meses: 12.84%
+Media clicks 3 meses: 0.54%

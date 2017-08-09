@@ -1,0 +1,22 @@
+Analista: 
+Análise: 09/05/2017, 20:58:11 hs
+Campanha: 360 Graus Representação Comercial Ltda
+Listas de inclusão: 360 Graus Representação Comercial Ltda.
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 2
+Erros permanentes: 0 (0%) - 0(0%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 0(0%) erros de domínio desconhecido
+
+SPF: 6 OK e 1 Falha(s)
+DKIM: 6 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 61.310
+Campanhas interrompidas no mês: 
+Interação 6 meses: 4.635
+Interação 12 meses: 7.296
+Nunca Interagiram: 54.011
+Media visualização 3 meses: 43.47%
+Media clicks 3 meses: 0.97%

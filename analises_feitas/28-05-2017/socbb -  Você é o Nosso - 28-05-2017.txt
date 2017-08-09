@@ -1,0 +1,22 @@
+Analista: 
+Análise: 28/05/2017, 10:56:11 hs
+Campanha: Você é o Nosso Convidado para ter uma...[...[ 26-05-2017 10:36:19 ]
+Listas de inclusão: Você é o Nosso Convidado
+Listas de exclusão: nenhuma
+Segmentação: Contatos Ativos
+Denuncias: 0
+Cancelamentos: 2
+Erros permanentes: 298.0 (94.6%) - 284.0(95.3%) usuários desconhecidos, 2.0(0.67%) endereço(s) inativo(s), 12.0(4.03%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C+
+Contatos base: 282.243
+Campanhas interrompidas no mês: 
+Interação 6 meses: 22.989
+Interação 12 meses: 30.708
+Nunca Interagiram: 179.480
+Media visualização 3 meses: 18.65%
+Media clicks 3 meses: 0.52%

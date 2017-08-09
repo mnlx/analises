@@ -1,0 +1,21 @@
+Análise: 13/07/2017, 07:02:05 hs
+Campanha: Campanha da Tornofer de 12/07/2017 (Hidráulica)
+Listas de inclusão: Tornofer (Lista completa), Tornofer (Lista parcial)
+Listas de exclusão: nenhuma
+Segmentação: Verificados
+Denuncias: 0
+Cancelamentos: 2
+Erros permanentes: 78.0 (88.64%) - 64.0 (82.05%) usuários desconhecidos, 1.0 (1.28%) endereço(s) inativo(s), 13.0 (16.67%) erros de domínio desconhecido
+
+SPF: 0 OK e 6 Falha(s)
+DKIM: 0 OK e 6 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 3.763
+Campanhas interrompidas no mês: 
+Interação 6 meses: 241
+Interação 12 meses: 401
+Nunca Interagiram: a
+Media visualização 3 meses: 44.38%
+Media clicks 3 meses: 0.87%

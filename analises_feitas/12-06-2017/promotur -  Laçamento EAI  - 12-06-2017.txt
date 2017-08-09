@@ -1,0 +1,21 @@
+Análise: 12/06/2017, 11:10:23 hs
+Campanha: Laçamento EAI _4
+Listas de inclusão: EAI - Lista 1
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 66.0 (77.65%) - 66.0 (100.0%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 0 (0%) erros de domínio desconhecido
+
+SPF: 16 OK e 3 Falha(s)
+DKIM: 16 OK e 3 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C+
+Contatos base: 23.416
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.597
+Interação 12 meses: 10.257
+Nunca Interagiram: 12.451
+Media visualização 3 meses: 27.06%
+Media clicks 3 meses: 0.16%

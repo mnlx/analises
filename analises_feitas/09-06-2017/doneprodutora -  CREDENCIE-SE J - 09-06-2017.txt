@@ -1,0 +1,21 @@
+Análise: 09/06/2017, 07:15:36 hs
+Campanha: CREDENCIE-SE JÁ! EVITE FILAS E APROVEITE O SHOWROOM DE UBERLÂNDIA!
+Listas de inclusão: CLIENTES SHOWROOM UBERLANDIA, EXPOSITORES SHOWROOM DE UBERLÂNDIA, FABRICANTES ZERO GRAU, FÁBRICAS SHOWROOM DE CALÇADOS DE CALÇADOS , LISTA DE ESPERA SHOWROOM DE UBERLÂNDIA , PATROCINADORES SHOWROOM DE CALÇADOS UDI - OUTONO-INVERNO 2017
+Listas de exclusão: nenhuma
+Segmentação: Contatos Novos + Interação
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 73.0 (96.05%) - 69.0 (94.52%) usuários desconhecidos, 2.0 (2.74%) endereço(s) inativo(s), 2.0 (2.74%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: B+
+Contatos base: 5.409
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.017
+Interação 12 meses: 2.262
+Nunca Interagiram: 2.988
+Media visualização 3 meses: 33.37%
+Media clicks 3 meses: 1.12%

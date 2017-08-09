@@ -1,0 +1,22 @@
+Analista: 
+Análise: 01/05/2017, 01:00:58 hs
+Campanha: SUPERAUTO FORD - TROCA DE ÓLEO
+Listas de inclusão: CLIENTES SUPERAUTO FORD
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 6
+Erros permanentes: 97.0 (92.38%) - 88.0(90.72%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 9.0(9.28%) erros de domínio desconhecido
+
+SPF: 0 OK e 3 Falha(s)
+DKIM: 1 OK e 2 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 20.735
+Campanhas interrompidas no mês: 
+Interação 6 meses: 3.492
+Interação 12 meses: 3.492
+Nunca Interagiram: 17.243
+Media visualização 3 meses: 33.39%
+Media clicks 3 meses: 0.86%

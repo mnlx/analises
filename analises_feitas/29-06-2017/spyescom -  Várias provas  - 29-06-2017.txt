@@ -1,0 +1,21 @@
+Análise: 29/06/2017, 05:59:20 hs
+Campanha: Várias provas 28-06-2017
+Listas de inclusão: Brasília-Goiânia , Dez Milhas 2016 - Espírito Santo, Eu Atleta Brasília, Funcionários Garoto, Funcionários Yescom, Meia do Rio 2016, Minas Gerais, Move 4C Rio
+Listas de exclusão: hotmail sem interação - Move 4C Rio, hotmail sem interação - Volta da União
+Segmentação: Com interação + novos (filtro ideal)
+Denuncias: 0
+Cancelamentos: 36
+Erros permanentes: 963.0 (73.74%) - 421.0 (43.72%) usuários desconhecidos, 6.0 (0.62%) endereço(s) inativo(s), 536.0 (55.66%) erros de domínio desconhecido
+
+SPF: 3 OK e 0 Falha(s)
+DKIM: 3 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B
+Contatos base: 446.933
+Campanhas interrompidas no mês: 
+Interação 6 meses: 28.779
+Interação 12 meses: 28.779
+Nunca Interagiram: 418.154
+Media visualização 3 meses: 20.34%
+Media clicks 3 meses: 2.38%

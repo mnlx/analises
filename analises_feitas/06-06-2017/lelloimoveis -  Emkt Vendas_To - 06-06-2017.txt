@@ -1,0 +1,21 @@
+Análise: 06/06/2017, 08:33:50 hs
+Campanha: Emkt Vendas_Top 5_02.06.17[ 05-06-2017 10:01:29 ]
+Listas de inclusão: FiadorAbril
+Listas de exclusão: nenhuma
+Segmentação: Ativos
+Denuncias: 0
+Cancelamentos: 2
+Erros permanentes: 95.0 (91.35%) - 84.0 (88.42%) usuários desconhecidos, 1.0 (1.05%) endereço(s) inativo(s), 10.0 (10.53%) erros de domínio desconhecido
+
+SPF: 5 OK e 0 Falha(s)
+DKIM: 5 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 238.801
+Campanhas interrompidas no mês: 
+Interação 6 meses: 12.629
+Interação 12 meses: 16.578
+Nunca Interagiram: 68.587
+Media visualização 3 meses: 21.30%
+Media clicks 3 meses: 1.21%

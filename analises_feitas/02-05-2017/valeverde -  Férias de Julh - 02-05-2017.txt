@@ -1,0 +1,22 @@
+Analista: 
+Análise: 02/05/2017, 18:34:33 hs
+Campanha: Férias de Julho Brasil 2017
+Listas de inclusão: Clientes Stur 2016
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 80.0 (89.89%) - 76.0(95.0%) usuários desconhecidos, 1.0(1.25%) endereço(s) inativo(s), 3.0(3.75%) erros de domínio desconhecido
+
+SPF: 0 OK e 3 Falha(s)
+DKIM: 0 OK e 3 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 44.043
+Campanhas interrompidas no mês: 
+Interação 6 meses: 166
+Interação 12 meses: 389
+Nunca Interagiram: 29.280
+Media visualização 3 meses: 26.52%
+Media clicks 3 meses: 3.41%

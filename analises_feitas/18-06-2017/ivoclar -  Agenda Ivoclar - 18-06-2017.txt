@@ -1,0 +1,21 @@
+Análise: 18/06/2017, 01:17:06 hs
+Campanha: Agenda Ivoclar Vivadent - Junho 2017
+Listas de inclusão: Maria Alice (Clínico), Maria Gisele Oliveira (Clínico), Anatilde Guarezi (Clínico), Bruna Torres (Clínico), Carlos Paes de Oliveira (Técnico), Carta de Recesso , Cong Bauru 2017, Evento COB (Clínico), Evento de Inauguração, Izilda Pacheco (Clínico e Técnico), Larissa Silva (Clínico), Márcia Oliveira (clínico), Mayra de la Vega (Clínico), Sandra Miranda (Clínico e Técnico), Solange Takaoka (Clínico), Thiago Leite da Silva (Clínico e técnico), Ameliza Brum Vinhas (Clínico), Bruna Maurente (clínico), Dayani Iguatemy (Clínico), Dhiego Oliosi (Técnico e Clínico), Evento CIO-RJ (Clínico), Mônica Rocha (Técnico), Maria Alice BA, Maria Gisele Nordeste, Melina Borba, Rejane Costa (Clínico), Atelie Oral (Clínico), Clientes CRM (Clínico e Técnico), Clientes Empress (técnico) , Clientes TOTUS (Clínico e Técnico), Clientes Totvs até junho 2017, Congresso Revista Clínica (Clínico), Cristiane Camargo (Clínico), Curso APDESP (Técnico), Cursos do ICDE (Técnico), Cursos no ICDE (Clínico), DENTAIS BR (Dentais), Evento CIO-SP (Clínico), Implanteperio (Clínico e Técnico), International Meeting IPS e.max (Clínico e Técnico), Kina (Clínico), Laboratórios (Técnico), Mailing GERAL (Clínico e técnico), Multilink N (Clínico), Odontopediatras (Clínico), Oral Line (Clínico), Promoção Matriz: Variolink Esthetic, Surya (Clínico), Usuários CEREC (Técnico), Usuários IPS Empress e IPS e.max (Técnico), Melina Borba (clínico), Ana Cristina da Silva - Amapá (Clínico), Ana Cristina da Silva (Técnico e Clínico), Evento CIO-DF (Clínico), Goiás (Clínico), Alexandre Pederneiras (Técnico e Clínico), Coachmann (Clínico e Técnico), Daniel Ribeiro (Clínico), Eliege Souza (Clínico), Priscila Soraya Garibaldi (Clínico), Rosângela Silveira (Clínico), Rosângela Silveira (Técnico e Clínico), Rosângela Silveira (Técnico), Funcionários (obrigatório em todos os envios), IPS e.max Cliente Fidelidade, IPS e.max Sistema Abril 2017
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 895.0 (88.26%) - 806.0 (90.06%) usuários desconhecidos, 2.0 (0.22%) endereço(s) inativo(s), 87.0 (9.72%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 22.753
+Campanhas interrompidas no mês: 
+Interação 6 meses: 6.315
+Interação 12 meses: 6.839
+Nunca Interagiram: 15.420
+Media visualização 3 meses: 20.54%
+Media clicks 3 meses: 0.93%

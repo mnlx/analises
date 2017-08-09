@@ -1,0 +1,21 @@
+Análise: 30/07/2017, 17:28:34 hs
+Campanha:59 ]
+Listas de inclusão: Inicial 3
+Listas de exclusão: Todos Contatos, Lista 1, Lista 2
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 74.0 (78.72%) - 62.0 (83.78%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 12.0 (16.22%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 4.379
+Campanhas interrompidas no mês: 
+Interação 6 meses: 215
+Interação 12 meses: 215
+Nunca Interagiram: 4.164
+Media visualização 3 meses: 11.98%
+Media clicks 3 meses: 0.24%

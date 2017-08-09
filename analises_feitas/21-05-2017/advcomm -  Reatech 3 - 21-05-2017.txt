@@ -1,0 +1,22 @@
+Analista: 
+Análise: 21/05/2017, 22:16:22 hs
+Campanha: Reatech 3
+Listas de inclusão: Obras Brasil
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 140.0 (85.89%) - 105.0(75.0%) usuários desconhecidos, 3.0(2.14%) endereço(s) inativo(s), 32.0(22.86%) erros de domínio desconhecido
+
+SPF: 3 OK e 1 Falha(s)
+DKIM: 0 OK e 4 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 20.697
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.386
+Interação 12 meses: 3.218
+Nunca Interagiram: 17.300
+Media visualização 3 meses: 8.66%
+Media clicks 3 meses: 0.66%

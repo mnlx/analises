@@ -1,0 +1,21 @@
+Análise: 07/08/2017, 04:40:34 hs
+Campanha: Maria Brasileira - Uberlândia - Sul
+Listas de inclusão: Uberlândia Sul - Clientes
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 1
+Cancelamentos: 1
+Erros permanentes: 54.0 (94.74%) - 45.0 (83.33%) usuários desconhecidos, 2.0 (3.7%) endereço(s) inativo(s), 7.0 (12.96%) erros de domínio desconhecido
+
+SPF: 5 OK e 0 Falha(s)
+DKIM: 5 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 11.633
+Campanhas interrompidas no mês: 
+Interação 6 meses: 810
+Interação 12 meses: 842
+Nunca Interagiram: 10.791
+Media visualização 3 meses: 14.40%
+Media clicks 3 meses: 0.82%

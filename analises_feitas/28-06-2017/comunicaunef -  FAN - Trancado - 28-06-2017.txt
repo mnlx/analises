@@ -1,0 +1,21 @@
+Análise: 28/06/2017, 17:00:05 hs
+Campanha: FAN - Trancados 2016.2 e 2017.1
+Listas de inclusão: FAN - Evadidos 161, 162, 171
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 70.0 (95.89%) - 69.0 (98.57%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 1.0 (1.43%) erros de domínio desconhecido
+
+SPF: 0 OK e 6 Falha(s)
+DKIM: 0 OK e 6 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 14.004
+Campanhas interrompidas no mês: 
+Interação 6 meses: 4.091
+Interação 12 meses: 4.326
+Nunca Interagiram: 9.678
+Media visualização 3 meses: 60.80%
+Media clicks 3 meses: 1.36%

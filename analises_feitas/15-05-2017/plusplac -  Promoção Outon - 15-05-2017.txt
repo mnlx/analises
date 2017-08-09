@@ -1,0 +1,22 @@
+Analista: 
+Análise: 15/05/2017, 18:36:58 hs
+Campanha: Promoção Outono 2017
+Listas de inclusão: Promoção Outono 2017
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 1
+Cancelamentos: 19
+Erros permanentes: 0 (0%) - 0(0%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 0(0%) erros de domínio desconhecido
+
+SPF: 6 OK e 1 Falha(s)
+DKIM: 6 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 65.467
+Campanhas interrompidas no mês: 
+Interação 6 meses: 5.634
+Interação 12 meses: 8.055
+Nunca Interagiram: 57.410
+Media visualização 3 meses: 35.95%
+Media clicks 3 meses: 0.44%

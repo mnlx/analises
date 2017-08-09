@@ -1,0 +1,22 @@
+Analista: 
+Análise: 17/05/2017, 21:33:54 hs
+Campanha: mdiceb-com17-sta
+Listas de inclusão: Formados ABC, Interessados ESAGS ABC, Formados Pós - Santo Andé (2013 - 28/04), Inscritos MBA - Santo André, Interessados MBA - Santo André, Interessados Pós - Santo André (2015), Matriculados MBA - Santo André (2015) , Matriculados Pós - Santo André (2015), OCW Santo André
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 1
+Cancelamentos: 8
+Erros permanentes: 1088.0 (98.11%) - 1.077(98.99%) usuários desconhecidos, 2.0(0.18%) endereço(s) inativo(s), 9.0(0.83%) erros de domínio desconhecido
+
+SPF: 11 OK e 0 Falha(s)
+DKIM: 11 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 118.297
+Campanhas interrompidas no mês: 
+Interação 6 meses: 18.494
+Interação 12 meses: 18.494
+Nunca Interagiram: 99.803
+Media visualização 3 meses: 23.04%
+Media clicks 3 meses: 1.75%

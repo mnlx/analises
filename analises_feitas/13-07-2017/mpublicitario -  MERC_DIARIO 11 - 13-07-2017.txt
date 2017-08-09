@@ -1,0 +1,21 @@
+Análise: 13/07/2017, 05:54:02 hs
+Campanha: MERC_DIARIO 11-07-2017
+Listas de inclusão: Carla Leite, Atualização 10.07.2017., BEM Verificada
+Listas de exclusão: Exclusão BEM
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 83.0 (83.0%) - 83.0 (100.0%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 0 (0%) erros de domínio desconhecido
+
+SPF: 7 OK e 1 Falha(s)
+DKIM: 6 OK e 2 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: A
+Contatos base: 2.157.918
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.831
+Interação 12 meses: 2.343
+Nunca Interagiram: null
+Media visualização 3 meses: 41.73%
+Media clicks 3 meses: 7.76%

@@ -1,0 +1,22 @@
+Analista: 
+Análise: 22/05/2017, 00:47:49 hs
+Campanha: Alteração GTIN Vidaza (azacitidina)
+Listas de inclusão: Contatos Comerciais Farmaceuticos, Enfermeiros etc., Teste 1
+Listas de exclusão: nenhuma
+Segmentação: Contatos novos mais interação
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 54.0 (84.38%) - 42.0(77.78%) usuários desconhecidos, 1.0(1.85%) endereço(s) inativo(s), 11.0(20.37%) erros de domínio desconhecido
+
+SPF: 3 OK e 0 Falha(s)
+DKIM: 3 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: A+
+Contatos base: 8.379
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.293
+Interação 12 meses: 1.866
+Nunca Interagiram: 6.513
+Media visualização 3 meses: 86.56%
+Media clicks 3 meses: 0.00%

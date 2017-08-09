@@ -1,0 +1,21 @@
+Análise: 13/07/2017, 05:49:19 hs
+Campanha: Meia Maratona de Curitiba 2017 - 06 de agosto - Museu Oscar Niemeyer
+Listas de inclusão: nenhuma
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 96.0 (68.57%) - 77.0 (80.21%) usuários desconhecidos, 1.0 (1.04%) endereço(s) inativo(s), 18.0 (18.75%) erros de domínio desconhecido
+
+SPF: 4 OK e 0 Falha(s)
+DKIM: 4 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 13.152
+Campanhas interrompidas no mês: 
+Interação 6 meses: 8.795
+Interação 12 meses: 11.147
+Nunca Interagiram: 2.005
+Media visualização 3 meses: 12.86%
+Media clicks 3 meses: 0.83%

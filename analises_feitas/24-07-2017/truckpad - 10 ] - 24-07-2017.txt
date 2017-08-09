@@ -1,0 +1,21 @@
+Análise: 24/07/2017, 13:17:46 hs
+Campanha:10 ]
+Listas de inclusão: Empresas - que mais lançavam cargas
+Listas de exclusão: nenhuma
+Segmentação: não receberam a última campanha
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 77.0 (88.51%) - 62.0 (80.52%) usuários desconhecidos, 2.0 (2.6%) endereço(s) inativo(s), 13.0 (16.88%) erros de domínio desconhecido
+
+SPF: 1 OK e 1 Falha(s)
+DKIM: 1 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 140.598
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.693
+Interação 12 meses: 4.035
+Nunca Interagiram: 134.512
+Media visualização 3 meses: 15.57%
+Media clicks 3 meses: 0.08%

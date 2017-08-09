@@ -1,0 +1,22 @@
+Analista: 
+Análise: 02/05/2017, 18:30:47 hs
+Campanha: Campanha Duallete
+Listas de inclusão: Lista completa Dualette
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 3
+Cancelamentos: 23
+Erros permanentes: 631.0 (88.5%) - 607.0(96.2%) usuários desconhecidos, 4.0(0.63%) endereço(s) inativo(s), 20.0(3.17%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: N
+Contatos base: 61.013
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.867
+Interação 12 meses: 1.867
+Nunca Interagiram: 59.147
+Media visualização 3 meses: 5.11%
+Media clicks 3 meses: 0.46%

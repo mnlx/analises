@@ -1,0 +1,21 @@
+Análise: 21/07/2017, 15:08:32 hs
+Campanha: Summit Saude 2017 6
+Listas de inclusão: Clinicas, Compradores Summit Saúde, Diretores, Diretoria Fehosp, GOV 31,6, GUIA MBA, Hospitais, Mailing Sumit Saude, Municipais, Presenças Roche, Rel. Estadao Saude tlmkt, Relatorio Final, Carolina e Dulce
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 676.0 (88.14%) - 583.0 (86.24%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 93.0 (13.76%) erros de domínio desconhecido
+
+SPF: 7 OK e 1 Falha(s)
+DKIM: 6 OK e 2 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B+
+Contatos base: 2.196.049
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.948
+Interação 12 meses: 2.449
+Nunca Interagiram: null
+Media visualização 3 meses: 41.14%
+Media clicks 3 meses: 7.35%

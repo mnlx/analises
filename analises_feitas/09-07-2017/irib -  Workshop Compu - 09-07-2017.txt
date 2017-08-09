@@ -1,0 +1,21 @@
+Análise: 09/07/2017, 14:08:04 hs
+Campanha: Workshop Computação Cognitiva e o Registro de Imóveis
+Listas de inclusão: Associados - Fevereiro de 2016, Associados - Março de 2016, Associados - Novembro de 2015, Associados - Registradores de Imóveis - Março 2017, Associados - Todas as classe - Março de 2017, Associados - Todas as Classes - Out/2016, Associados (todos) IRIBNET - Agosto de 2014, Associados Ativos - Junho 2014, Associados Ativos - Maio de 2014, Associados Ativos IRIBNet - Abril 2013, Associados de RI ativos - Fev - 2015, Associados IRIB, Associados MT, Associados Registradores Ativos - Out/2016, Inativos - abril, Assinantes do BE, Encontro de Aracaju, Encontro de Goiania 2016, Inscritos - XLII Encontro Nacional, Inscritos XL Encontro, Mailing Maranhão, MatoGrosso, Newsletter - cuiabá 3, Participantes Congresso | 16/08/2013, Participantes curso de tabelionato BA, Participantes do 34º Registro de Imóveis do IRIB, Participantes do Workshop SP 2016, Participantes do XL Encontro Nacional, Participantes do XLI Encontro Nacional, Participantes evento Cuiabá, Prospecção - Encontro Fortaleza, ANOREGS, Associados Temporários Bahia, Avulso, Blockchain - Lista para envio de vídeos, Cartórios de Notas e R.I, Cartórios que responderam a pesquisa (Informatização), Contatos, Contatos que não interagiram no comunicado urgente, CORI-MG, Lista Prospecção MG - 16/03/2016, Mailing estado, Mailing RN - Fev/2016, Natal 2013, Participantes no Encontro Nacional - 2017, Pesquisa Informatização - Pessoas que já participaram, Pesquisa Informatização - Pessoas que já participaram - 11/03/15, Regiao Sul, RO, Serventias, Sites Jurídicos, Tabelião - Setembro 2013, Teste cmpcrs, Usuários da Biblioteca, Usuários Kollemata, RI Bahia, RI Distrito Federal, RI Mato Grosso, RI Mato Grosso do Sul, RI Minas Gerais, RI Pará, RI Paraíba, RI Paraíba, RI Paraná, RI Pernambuco, RI Piauí, RI Rio Grande do Norte, RI Rio Grande do Sul, RI São Paulo, RI Sergipe, Cartórios de R.I - Julho de 2015, Cartórios de R.I - Maio de 2014, Cartórios de RI - Agosto de 2014, Cartórios do Brasil - maio de 2017, CNJ - Mato Grosso, registradores ativos, Registradores Ativos no IRIBNET - Novembro de 2013, Registradores da Bahia, Registradores de Imóveis - 3400 - Abril 2013, Registradores de imóveis - Abril 2015, Registradores de Imóveis - Abril de 2015, Registradores de imóveis - Consolidada, Registradores de Imóveis do Brasil, registradores inativos, Relação de cartórios de registro de imóveis - NOV/2013, Blockchain, Cartórios de R.I - Maio de 2017, Inscritos no XLIV
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 7
+Erros permanentes: 48.0 (30.0%) - 37.0 (77.08%) usuários desconhecidos, 8.0 (16.67%) endereço(s) inativo(s), 3.0 (6.25%) erros de domínio desconhecido
+
+SPF: 4 OK e 0 Falha(s)
+DKIM: 4 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B-
+Contatos base: 49.680
+Campanhas interrompidas no mês: 
+Interação 6 meses: 12.848
+Interação 12 meses: 14.178
+Nunca Interagiram: 26.937
+Media visualização 3 meses: 26.19%
+Media clicks 3 meses: 2.24%

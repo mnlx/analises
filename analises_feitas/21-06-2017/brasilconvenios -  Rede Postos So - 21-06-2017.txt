@@ -1,0 +1,21 @@
+Análise: 21/06/2017, 16:50:37 hs
+Campanha: Rede Postos Sol
+Listas de inclusão: Mailing SAC, Recarga de celular, LocalFarma
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 3
+Erros permanentes: 71.0 (55.91%) - 67.0 (94.37%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 4.0 (5.63%) erros de domínio desconhecido
+
+SPF: 0 OK e 3 Falha(s)
+DKIM: 0 OK e 3 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 2.323
+Campanhas interrompidas no mês: 
+Interação 6 meses: 756
+Interação 12 meses: 756
+Nunca Interagiram: 1.567
+Media visualização 3 meses: 10.98%
+Media clicks 3 meses: 0.30%

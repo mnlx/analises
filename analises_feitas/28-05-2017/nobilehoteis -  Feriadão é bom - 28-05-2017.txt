@@ -1,0 +1,22 @@
+Analista: 
+Análise: 28/05/2017, 11:14:58 hs
+Campanha: Feriadão é bom para descansar na Nobile
+Listas de inclusão: MAILING VIP NOBILE, NOBILE HOTEIS, NOBILE PESSOA FISICA (HOSPEDES), NOBILE VACATION CLUB, PESSOA FISICA DIVERSOS
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 4
+Cancelamentos: 24
+Erros permanentes: 42.0 (2.84%) - 38.0(90.48%) usuários desconhecidos, 2.0(4.76%) endereço(s) inativo(s), 2.0(4.76%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 57.271
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.245
+Interação 12 meses: 2.245
+Nunca Interagiram: 55.026
+Media visualização 3 meses: 68.21%
+Media clicks 3 meses: 0.07%

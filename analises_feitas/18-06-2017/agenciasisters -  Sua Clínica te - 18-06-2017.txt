@@ -1,0 +1,21 @@
+Análise: 18/06/2017, 16:10:11 hs
+Campanha: Sua Clínica tem mais potencial do que você imagina!
+Listas de inclusão: DENTISTAS
+Listas de exclusão: nenhuma
+Segmentação: interação + ultima alteração
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 151.0 (94.38%) - 150.0 (99.34%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 1.0 (0.66%) erros de domínio desconhecido
+
+SPF: 4 OK e 16 Falha(s)
+DKIM: 1 OK e 19 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: C+
+Contatos base: 71.376
+Campanhas interrompidas no mês: 
+Interação 6 meses: 3.558
+Interação 12 meses: 4.016
+Nunca Interagiram: 66.906
+Media visualização 3 meses: 45.41%
+Media clicks 3 meses: 0.30%

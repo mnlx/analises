@@ -1,0 +1,21 @@
+Análise: 09/08/2017, 01:10:17 hs
+Campanha: Mostra Viajar Consumidor 1
+Listas de inclusão: Visitantes Nacional
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 1
+Cancelamentos: 26
+Erros permanentes: 642.0 (77.16%) - 531.0 (82.71%) usuários desconhecidos, 20.0 (3.12%) endereço(s) inativo(s), 91.0 (14.17%) erros de domínio desconhecido
+
+SPF: 16 OK e 3 Falha(s)
+DKIM: 16 OK e 3 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 22.714
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.237
+Interação 12 meses: 9.293
+Nunca Interagiram: 11.763
+Media visualização 3 meses: 12.67%
+Media clicks 3 meses: 0.06%

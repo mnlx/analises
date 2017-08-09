@@ -1,0 +1,22 @@
+Analista: 
+Análise: 17/05/2017, 21:37:54 hs
+Campanha: 20170517-rotaryrun-vendas-48h
+Listas de inclusão: AR - Negativados, Associados + Site + Eventos, Associados Contadores, Associados Farmácia, Associados Indústria, Campanha de Natal - Consumidores, Certificado Digital, Contatos com nenhuma interação, Contatos que tiveram interações, Cursos e Palestras, Eleições 2016-Paneque-Centro, PDE, Prospects Comercial ACE, Registro de Marcas, Rotary Run Valdir, Sumome - Site ACE
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 146.0 (94.19%) - 128.0(87.67%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 18.0(12.33%) erros de domínio desconhecido
+
+SPF: 10 OK e 0 Falha(s)
+DKIM: 10 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 12.267
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.597
+Interação 12 meses: 3.270
+Nunca Interagiram: 8.629
+Media visualização 3 meses: 13.47%
+Media clicks 3 meses: 0.54%

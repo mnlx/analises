@@ -1,0 +1,21 @@
+Análise: 14/07/2017, 06:25:38 hs
+Campanha: Pós-feira
+Listas de inclusão: Consulfarma 2017, Fagron, Fagron Technologies
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 55.0 (93.22%) - 46.0 (83.64%) usuários desconhecidos, 1.0 (1.82%) endereço(s) inativo(s), 8.0 (14.55%) erros de domínio desconhecido
+
+SPF: 2 OK e 0 Falha(s)
+DKIM: 2 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 7.901
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.391
+Interação 12 meses: 2.650
+Nunca Interagiram: 5.251
+Media visualização 3 meses: 19.98%
+Media clicks 3 meses: 0.93%

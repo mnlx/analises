@@ -1,0 +1,21 @@
+Análise: 14/07/2017, 06:30:28 hs
+Campanha: Nicioli
+Listas de inclusão: Arkivo A, Nicioli
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 53.0 (89.83%) - 48.0 (90.57%) usuários desconhecidos, 1.0 (1.89%) endereço(s) inativo(s), 4.0 (7.55%) erros de domínio desconhecido
+
+SPF: 0 OK e 3 Falha(s)
+DKIM: 0 OK e 3 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 7.640
+Campanhas interrompidas no mês: 
+Interação 6 meses: 84
+Interação 12 meses: 84
+Nunca Interagiram: 7.556
+Media visualização 3 meses: 14.40%
+Media clicks 3 meses: 0.23%

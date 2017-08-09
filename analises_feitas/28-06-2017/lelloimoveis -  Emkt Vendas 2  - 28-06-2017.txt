@@ -1,0 +1,21 @@
+Análise: 28/06/2017, 08:50:10 hs
+Campanha: Emkt Vendas 2 Sul/Oeste_14.06[ 23-06-2017...[.....[ 23-06-2017 15:23:07 ]
+Listas de inclusão: FiadorAbril
+Listas de exclusão: nenhuma
+Segmentação: Ativos
+Denuncias: 0
+Cancelamentos: 6
+Erros permanentes: 152.0 (94.41%) - 142.0 (93.42%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 10.0 (6.58%) erros de domínio desconhecido
+
+SPF: 5 OK e 0 Falha(s)
+DKIM: 5 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B-
+Contatos base: 241.242
+Campanhas interrompidas no mês: 
+Interação 6 meses: 14.216
+Interação 12 meses: 18.215
+Nunca Interagiram: 69.484
+Media visualização 3 meses: 20.95%
+Media clicks 3 meses: 1.19%

@@ -1,0 +1,22 @@
+Analista: 
+Análise: 07/05/2017, 19:49:23 hs
+Campanha: COMPRE SEU FORD NA SUPERAUTO
+Listas de inclusão: CLIENTES SUPERAUTO FORD, PESQUISA - QUALIDADE SUPERAUTO PORTOALEGRE
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 124.0 (88.57%) - 111.0(89.52%) usuários desconhecidos, 1.0(0.81%) endereço(s) inativo(s), 12.0(9.68%) erros de domínio desconhecido
+
+SPF: 1 OK e 2 Falha(s)
+DKIM: 2 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 20.794
+Campanhas interrompidas no mês: 
+Interação 6 meses: 4.355
+Interação 12 meses: 4.355
+Nunca Interagiram: 16.439
+Media visualização 3 meses: 21.41%
+Media clicks 3 meses: 2.70%

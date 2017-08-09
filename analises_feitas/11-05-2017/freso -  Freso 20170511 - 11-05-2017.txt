@@ -1,0 +1,22 @@
+Analista: 
+Análise: 11/05/2017, 22:59:59 hs
+Campanha: Freso 20170511
+Listas de inclusão: Abrin, Apae, Arquitetos, Escolas, Feira Escolar, Remoção, Outlook Luis, Prefeituras, Secretaria de Educação, Site, Undime Nacional
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 131.0 (67.53%) - 0(0%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 0(0%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 5.076
+Campanhas interrompidas no mês: 
+Interação 6 meses: 647
+Interação 12 meses: 647
+Nunca Interagiram: 4.429
+Media visualização 3 meses: 19.56%
+Media clicks 3 meses: 0.70%

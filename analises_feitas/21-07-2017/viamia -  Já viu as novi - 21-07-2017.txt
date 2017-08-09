@@ -1,0 +1,21 @@
+Análise: 21/07/2017, 06:00:42 hs
+Campanha: Já viu as novidades?
+Listas de inclusão: Franquia Campinas
+Listas de exclusão: nenhuma
+Segmentação: Contatos novos + Interação
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 58.0 (100.0%) - 58.0 (100.0%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 0 (0%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: A+
+Contatos base: 185.110
+Campanhas interrompidas no mês: 
+Interação 6 meses: 5.762
+Interação 12 meses: 10.356
+Nunca Interagiram: 137.247
+Media visualização 3 meses: 75.39%
+Media clicks 3 meses: 2.44%

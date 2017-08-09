@@ -1,0 +1,21 @@
+Análise: 13/06/2017, 01:08:28 hs
+Campanha: pacotes ES
+Listas de inclusão: Argentina_Base, Bolivia_Hóspedes, Chile_Hóspedes, Colômbia_Hóspedes, Paraguai_Hóspedes, Peru_Hóspedes, Uruguai_Hóspedes
+Listas de exclusão: nenhuma
+Segmentação: Interações em 6 meses
+Denuncias: 5
+Cancelamentos: 23
+Erros permanentes: 24.0 (28.92%) - 22.0 (91.67%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 2.0 (8.33%) erros de domínio desconhecido
+
+SPF: 2 OK e 18 Falha(s)
+DKIM: 18 OK e 2 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B-
+Contatos base: 319.777
+Campanhas interrompidas no mês: 
+Interação 6 meses: 36.628
+Interação 12 meses: 44.101
+Nunca Interagiram: 249.472
+Media visualização 3 meses: 21.50%
+Media clicks 3 meses: 1.86%

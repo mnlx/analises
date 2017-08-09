@@ -1,0 +1,21 @@
+Análise: 10/07/2017, 16:37:28 hs
+Campanha: Várias provas
+Listas de inclusão: Brasília-Goiânia , Funcionários Garoto, Funcionários Yescom, Rio de Janeiro
+Listas de exclusão: hotmail sem interação - Move 4C Rio, hotmail sem interação - Volta da União
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 20
+Erros permanentes: 303.0 (61.71%) - 32.0 (10.56%) usuários desconhecidos, 1.0 (0.33%) endereço(s) inativo(s), 270.0 (89.11%) erros de domínio desconhecido
+
+SPF: 6 OK e 0 Falha(s)
+DKIM: 6 OK e 0 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 447.017
+Campanhas interrompidas no mês: 
+Interação 6 meses: 36.791
+Interação 12 meses: null
+Nunca Interagiram: 410.227
+Media visualização 3 meses: 11.20%
+Media clicks 3 meses: 0.99%

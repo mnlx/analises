@@ -1,0 +1,22 @@
+Analista: 
+Análise: 21/05/2017, 22:41:04 hs
+Campanha: Credencie-se na M&T Peças e Serviços
+Listas de inclusão: Clientes - Sobratema, Clientes - Sobratema, Clientes - Suzana - Daniel, Congresso 2013, Inscritos - M&T Expo Congresso 2015, Inscritos Construction Congresso 2013, M&T PS Congresso - Feira/Congresso, Participantes - M&T Expo Congresso 2015, CHN e OPUS, Construction Expo 2011 - Visitantes, Construction Expo 2013 - Visitantes, Contatos Braga - Toda a Comunicação, GC e OPUS, GC e Workshop, Inscritos + Correio, Lista Atualizada - Convite Construction Expo, Lista GC e Workshop, Teste - Mailing CHN e OPUS, Disparos Massivos, M&T - GUIA, Construtora_Concreteira_Cimenteira_Locadores - Marcio Almeida, Contatos - Fábio, Entidades - M&T Expo 2015, Expositores - M&T Expo 2012, Expositores - M&T Expo 2015, Expositores - M&T Expo Congresso, Inscritos - M&T Expo 2015, M&T Expo - Visitantes 2012, Mineração - Marcio Almeida, Expositores - M&T PS 2011, Expositores - M&T PS 2011 - atualizada, Expositores - M&T PS 2014 - Atualizada 2015, Lista M&T PS 2017 - M&T EXPO e MTPS 2016, M&T Peças e Serviços - Visitantes 2011, M&T PS 2011 - Atualizada I, VISITANTES - M&T PS 2014, VISITANTES - M&T PS 2014, VISITANTES - M&T PS 2014 - Daniel, Associados - Pessoa Jurídica, Grandes Construções - Parte 2, M&T - PARTE 1, Mailing - Prefeituras, Alunos Opus - Academy, Congresso - OPUS, Novo Mailing Opus 2014, Opus, Opus - Minas, Participantes - Tendências - Pesquisa II, Participantes - Tendências 2014, Participantes - Tendências 2015, Tendências - Inscritos, Tendências - Inscritos - Daniel, Tendencias 2016, Andrade Gutierrez, Anuário PINI da Construção, Bruno (teste), Construtoras Contato RH - SP
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 4
+Erros permanentes: 1366.0 (78.33%) - 1.283(93.92%) usuários desconhecidos, 4.0(0.29%) endereço(s) inativo(s), 79.0(5.78%) erros de domínio desconhecido
+
+SPF: 13 OK e 0 Falha(s)
+DKIM: 13 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B
+Contatos base: 303.437
+Campanhas interrompidas no mês: 
+Interação 6 meses: 11.829
+Interação 12 meses: 14.444
+Nunca Interagiram: 227.783
+Media visualização 3 meses: 30.41%
+Media clicks 3 meses: 1.90%

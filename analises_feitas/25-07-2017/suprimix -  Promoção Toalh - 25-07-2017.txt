@@ -1,0 +1,21 @@
+Análise: 25/07/2017, 14:47:32 hs
+Campanha: Promoção Toalha por 7,99
+Listas de inclusão: Todos Contatos
+Listas de exclusão: Inicial 1, Inicial 2
+Segmentação: nenhuma
+Denuncias: 1
+Cancelamentos: 2
+Erros permanentes: 211.0 (89.03%) - 175.0 (82.94%) usuários desconhecidos, 3.0 (1.42%) endereço(s) inativo(s), 33.0 (15.64%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 4.950
+Campanhas interrompidas no mês: 
+Interação 6 meses: 119
+Interação 12 meses: 120
+Nunca Interagiram: 4.831
+Media visualização 3 meses: 11.70%
+Media clicks 3 meses: 0.12%

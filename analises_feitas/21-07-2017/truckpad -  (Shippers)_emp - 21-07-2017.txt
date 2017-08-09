@@ -1,0 +1,21 @@
+Análise: 21/07/2017, 05:40:07 hs
+Campanha: (Shippers)_empresas_que_mais_lançavam_cargas
+Listas de inclusão: Empresas - que mais lançavam cargas
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 2
+Erros permanentes: 115.0 (77.7%) - 93.0 (80.87%) usuários desconhecidos, 1.0 (0.87%) endereço(s) inativo(s), 21.0 (18.26%) erros de domínio desconhecido
+
+SPF: 1 OK e 1 Falha(s)
+DKIM: 1 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 140.598
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.675
+Interação 12 meses: 4.018
+Nunca Interagiram: 134.530
+Media visualização 3 meses: 14.19%
+Media clicks 3 meses: 0.04%

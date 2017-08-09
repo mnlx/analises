@@ -1,0 +1,21 @@
+Análise: 02/06/2017, 08:09:03 hs
+Campanha: Confira a programação de junho da Estância![ 01-06-2017 16:15:01 ]
+Listas de inclusão: Insane + Estância, Programação
+Listas de exclusão: Boi no Rolete, Festa Junina, Funk (Cervejada Metô), Pagode/Funk (Cervejada Metô), Pagode/Funk (Festa da Trans), Pagode/Funk (Festa dos Putos), Sertanejo, Sertanejo (18 Anos Nativa), Sertanejo (Arraiá do EAS), Sertanejo (Bar das Coleguinhas), Sertanejo (Edson e Hudson), Sertanejo (Fernando e Sorocaba + Thaeme e Thiago), Sertanejo (Gusttavo Lima), Sertanejo (Gusttavo Lima), Sertanejo (Henrique e Juliano), Sertanejo (Jads e Jadson + Luan Santana), Sertanejo (Jorge e Matheus), Sertanejo (LOOP 360), Sertanejo (Marilia Mendonça e Maria Cecilia e Rodolfo), Sertanejo (Safadão + Dennis), Sertanejo (Safadão no Cabaré), Sertanejo (Simone e Simaria), Sertanejo (Suite 14), Sertanejo (Thaeme e Thiago), Sertanejo (Zé Neto & Cristiano e Maiara & Maraísa), Sertanejo/Eletrônica (Matheus e Kauan + Alok), Sexta Sertaneja
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 26
+Erros permanentes: 1288.0 (72.08%) - 1.242 (96.43%) usuários desconhecidos, 7.0 (0.54%) endereço(s) inativo(s), 39.0 (3.03%) erros de domínio desconhecido
+
+SPF: 4 OK e 1 Falha(s)
+DKIM: 4 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 178.366
+Campanhas interrompidas no mês: 
+Interação 6 meses: 19.152
+Interação 12 meses: 23.593
+Nunca Interagiram: 149.945
+Media visualização 3 meses: 10.11%
+Media clicks 3 meses: 0.73%

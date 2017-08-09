@@ -1,0 +1,22 @@
+Analista: 
+Análise: 11/05/2017, 22:46:57 hs
+Campanha: Gerador Honda com condições imperdíveis.
+Listas de inclusão: Potiguar 01
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 129.0 (96.99%) - 129.0(100.0%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 0(0%) erros de domínio desconhecido
+
+SPF: 0 OK e 4 Falha(s)
+DKIM: 0 OK e 4 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 10.991
+Campanhas interrompidas no mês: 
+Interação 6 meses: 377
+Interação 12 meses: 395
+Nunca Interagiram: 10.427
+Media visualização 3 meses: 74.00%
+Media clicks 3 meses: 40.66%

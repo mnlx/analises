@@ -1,0 +1,21 @@
+Análise: 25/06/2017, 22:37:20 hs
+Campanha: Várias provas Minas-Bsb 22-06-2017
+Listas de inclusão: Brasília-Goiânia , Eu Atleta Brasília, Volta da Pampulha 2016
+Listas de exclusão: Funcionários Yescom, hotmail sem interação - Move 4C Rio, hotmail sem interação - Volta da União, Visualizados Várias provas
+Segmentação: nenhuma
+Denuncias: 1
+Cancelamentos: 29
+Erros permanentes: 428.0 (69.48%) - 249.0 (58.18%) usuários desconhecidos, 5.0 (1.17%) endereço(s) inativo(s), 174.0 (40.65%) erros de domínio desconhecido
+
+SPF: 4 OK e 0 Falha(s)
+DKIM: 4 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B-
+Contatos base: 446.897
+Campanhas interrompidas no mês: 
+Interação 6 meses: 23.241
+Interação 12 meses: 23.241
+Nunca Interagiram: 423.656
+Media visualização 3 meses: 27.78%
+Media clicks 3 meses: 3.47%

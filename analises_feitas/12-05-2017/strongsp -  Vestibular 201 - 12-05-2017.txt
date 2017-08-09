@@ -1,0 +1,22 @@
+Analista: 
+Análise: 12/05/2017, 19:28:23 hs
+Campanha: Vestibular 2017 - ABC 3 tentativa
+Listas de inclusão: Vestibular ABC
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 60.0 (89.55%) - 55.0(91.67%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 5.0(8.33%) erros de domínio desconhecido
+
+SPF: 10 OK e 0 Falha(s)
+DKIM: 10 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 116.925
+Campanhas interrompidas no mês: 
+Interação 6 meses: 17.555
+Interação 12 meses: 17.555
+Nunca Interagiram: 99.370
+Media visualização 3 meses: 22.70%
+Media clicks 3 meses: 1.65%

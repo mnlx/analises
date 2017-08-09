@@ -1,0 +1,21 @@
+Análise: 01/08/2017, 05:59:33 hs
+Campanha: MMKT - 20170731
+Listas de inclusão: 03/05/2017 - Lista Kaká, 05/04/2017 Lista Agredecimento, 07/04/2017 - Lista Agredecimento BABA, 13/03/2017 - Baba Confirmados, 13/03/2017 - Baba Parada Zen, 13/03/2017 - Congressistas pagos de Curitiba, 13/04/2017 - Lista Trem BABA , Cadastros EBCH, Higienizada, Inscritos confirmados Sri Prem Baba, Inscritos Sri Prem Baba - Parada Zen
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 1
+Cancelamentos: 5
+Erros permanentes: 0 (0%) - 0 (0%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 0 (0%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: A+
+Contatos base: 11.094
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.280
+Interação 12 meses: 2.490
+Nunca Interagiram: 8.604
+Media visualização 3 meses: 58.46%
+Media clicks 3 meses: 6.30%

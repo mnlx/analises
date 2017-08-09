@@ -1,0 +1,21 @@
+Análise: 31/05/2017, 15:25:01 hs
+Campanha: Credencie-se na Construction Expo 2017 ...[ 31-05-2017 09:05:42 ]
+Listas de inclusão: Arlene (Não Usar), Bruno (teste)
+Listas de exclusão: nenhuma
+Segmentação: Com interação
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 183.0 (79.57%) - 149.0 (81.42%) usuários desconhecidos, 4.0 (2.19%) endereço(s) inativo(s), 30.0 (16.39%) erros de domínio desconhecido
+
+SPF: 13 OK e 0 Falha(s)
+DKIM: 13 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C+
+Contatos base: 305.257
+Campanhas interrompidas no mês: 
+Interação 6 meses: 11.910
+Interação 12 meses: 14.487
+Nunca Interagiram: 229.456
+Media visualização 3 meses: 28.77%
+Media clicks 3 meses: 1.77%

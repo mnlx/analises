@@ -1,0 +1,21 @@
+Análise: 28/06/2017, 12:52:54 hs
+Campanha: Boletos falsos ⚠
+Listas de inclusão: Nicioli
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 78.0 (86.67%) - 77.0 (98.72%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 1.0 (1.28%) erros de domínio desconhecido
+
+SPF: 0 OK e 3 Falha(s)
+DKIM: 0 OK e 3 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: N
+Contatos base: 7.637
+Campanhas interrompidas no mês: 
+Interação 6 meses: 29
+Interação 12 meses: 29
+Nunca Interagiram: 7.608
+Media visualização 3 meses: 12.28%
+Media clicks 3 meses: 0.00%

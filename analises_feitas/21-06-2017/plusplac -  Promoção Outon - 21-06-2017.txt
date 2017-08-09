@@ -1,0 +1,21 @@
+Análise: 21/06/2017, 07:32:49 hs
+Campanha: Promoção Outono - Brasília e Porto Alegre[ 19-06-2017 13:04:21 ]
+Listas de inclusão: Promoção Outono Brasília e Porto Alegre 2017
+Listas de exclusão: nenhuma
+Segmentação: Contatos com interação + novos (2017)
+Denuncias: 0
+Cancelamentos: 7
+Erros permanentes: 0 (0%) - 0 (0%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 0 (0%) erros de domínio desconhecido
+
+SPF: 6 OK e 1 Falha(s)
+DKIM: 6 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 67.213
+Campanhas interrompidas no mês: 
+Interação 6 meses: 5.973
+Interação 12 meses: 9.177
+Nunca Interagiram: 58.036
+Media visualização 3 meses: 30.75%
+Media clicks 3 meses: 1.42%

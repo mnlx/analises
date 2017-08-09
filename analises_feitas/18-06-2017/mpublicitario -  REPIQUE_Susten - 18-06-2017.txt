@@ -1,0 +1,21 @@
+Análise: 18/06/2017, 01:39:56 hs
+Campanha: REPIQUE_Sustentabilidade na Amcham
+Listas de inclusão: Carla Leite, Amcham, Mailing BEM, Mailing BEM sem interações + novos - 5,6,7
+Listas de exclusão: Exclusão BEM
+Segmentação: Com interações desde 01/08/2015...[AMCHAM ]
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 207.0 (69.0%) - 188.0 (90.82%) usuários desconhecidos, 5.0 (2.42%) endereço(s) inativo(s), 14.0 (6.76%) erros de domínio desconhecido
+
+SPF: 8 OK e 2 Falha(s)
+DKIM: 7 OK e 3 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: A
+Contatos base: 2.160.003
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.321
+Interação 12 meses: 2.204
+Nunca Interagiram: null
+Media visualização 3 meses: 32.63%
+Media clicks 3 meses: 7.62%

@@ -1,0 +1,22 @@
+Analista: 
+Análise: 01/05/2017, 00:57:18 hs
+Campanha: 042717_EFOOHM06_Natasha Rowley-Phipps_HC_bw[.....[ 28-04-2017 17:08:53 ]
+Listas de inclusão: nenhuma
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 66.0 (64.08%) - 0(0%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 0(0%) erros de domínio desconhecido
+
+SPF: 0 OK e 0 Falha(s)
+DKIM: 0 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 312.925
+Campanhas interrompidas no mês: 
+Interação 6 meses: 789
+Interação 12 meses: 789
+Nunca Interagiram: 312.136
+Media visualização 3 meses: 5.66%
+Media clicks 3 meses: 0.27%

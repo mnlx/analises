@@ -1,0 +1,21 @@
+Análise: 21/06/2017, 07:37:15 hs
+Campanha: Canetas 14-06-2017
+Listas de inclusão: e_mails_atualizados_2017, jeferson_teste
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 88.0 (73.95%) - 72.0 (81.82%) usuários desconhecidos, 2.0 (2.27%) endereço(s) inativo(s), 14.0 (15.91%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B-
+Contatos base: 5.776
+Campanhas interrompidas no mês: 
+Interação 6 meses: 752
+Interação 12 meses: 901
+Nunca Interagiram: 4.845
+Media visualização 3 meses: 32.28%
+Media clicks 3 meses: 1.27%

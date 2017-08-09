@@ -1,0 +1,21 @@
+Análise: 28/06/2017, 08:45:50 hs
+Campanha: 2017 Transportes email mkt 2 - Ypê, JDE, Solvay...[ 26-06-2017 17:12:27 ]
+Listas de inclusão: 2017 JUNÇÃO CONTATOS ENTREGUES LOCAWEB, 2017 MAILING JUNÇÃO EMAILMANAGER 23-06, Funcionários
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 3
+Cancelamentos: 22
+Erros permanentes: 197.0 (15.86%) - 174.0 (88.32%) usuários desconhecidos, 21.0 (10.66%) endereço(s) inativo(s), 2.0 (1.02%) erros de domínio desconhecido
+
+SPF: 3 OK e 1 Falha(s)
+DKIM: 4 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 30.565
+Campanhas interrompidas no mês: 
+Interação 6 meses: 4.534
+Interação 12 meses: 4.534
+Nunca Interagiram: 26.031
+Media visualização 3 meses: 17.48%
+Media clicks 3 meses: 0.43%

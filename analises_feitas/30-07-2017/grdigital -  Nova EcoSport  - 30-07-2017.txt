@@ -1,0 +1,21 @@
+Análise: 30/07/2017, 17:08:52 hs
+Campanha: Nova EcoSport Ford Lages
+Listas de inclusão: Clientes - ECOSPORT, Clientes - Focus, Clientes - KA, Clientes - New Fiesta, FORD LAGES E CURITIBANOS
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 100.0 (92.59%) - 92.0 (92.0%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 8.0 (8.0%) erros de domínio desconhecido
+
+SPF: 6 OK e 2 Falha(s)
+DKIM: 7 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C+
+Contatos base: 71.464
+Campanhas interrompidas no mês: 
+Interação 6 meses: 7.381
+Interação 12 meses: 7.381
+Nunca Interagiram: 64.083
+Media visualização 3 meses: 22.46%
+Media clicks 3 meses: 2.33%

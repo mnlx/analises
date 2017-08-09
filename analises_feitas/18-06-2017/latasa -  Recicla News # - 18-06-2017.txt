@@ -1,0 +1,21 @@
+Análise: 18/06/2017, 01:35:27 hs
+Campanha: Recicla News #15
+Listas de inclusão: Clientes - Auto Parts, Convidados Boat Show, Mailing - escolas, mailing Fesqua, Mailing Latasa Distribuidora, Mailing ReciclaBR, Participantes Forum Ind Auto, Visitantes Auto Parts - Fórum 2017, Visitantes Expo Alumínio 2016, Visitantes FENAF, visitantes Fesqua
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 20
+Erros permanentes: 576.0 (75.1%) - 567.0 (98.44%) usuários desconhecidos, 2.0 (0.35%) endereço(s) inativo(s), 7.0 (1.22%) erros de domínio desconhecido
+
+SPF: 3 OK e 0 Falha(s)
+DKIM: 3 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 9.664
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.765
+Interação 12 meses: 2.215
+Nunca Interagiram: 7.216
+Media visualização 3 meses: 17.69%
+Media clicks 3 meses: 0.63%

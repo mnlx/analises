@@ -1,0 +1,22 @@
+Analista: 
+Análise: 24/05/2017, 11:26:10 hs
+Campanha: Objetiva 03[ 06-01-2017 10:47:33 ][ 24-04-2017....[ 22-05-2017 15:55:52 ]
+Listas de inclusão: Objetiva-Bra
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 64.0 (100.0%) - 60.0(93.75%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 4.0(6.25%) erros de domínio desconhecido
+
+SPF: 2 OK e 0 Falha(s)
+DKIM: 2 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 5.407
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.384
+Interação 12 meses: 2.579
+Nunca Interagiram: 2.718
+Media visualização 3 meses: 20.78%
+Media clicks 3 meses: 1.53%

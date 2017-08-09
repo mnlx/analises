@@ -1,0 +1,21 @@
+Análise: 30/05/2017, 07:45:44 hs
+Campanha: Feriado de Corpus Christi no Nobile Executive
+Listas de inclusão: MAILING VIP NOBILE, PESSOA FISICA NSE
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 5
+Erros permanentes: 162.0 (80.2%) - 116.0 (71.6%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 46.0 (28.4%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 64.819
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.480
+Interação 12 meses: 2.480
+Nunca Interagiram: 62.339
+Media visualização 3 meses: 68.30%
+Media clicks 3 meses: 0.08%

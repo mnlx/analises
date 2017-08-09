@@ -1,0 +1,21 @@
+Análise: 02/06/2017, 07:48:13 hs
+Campanha: Reveillon 2018
+Listas de inclusão: Clientes Stur 2016
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 122.0 (92.42%) - 114.0 (93.44%) usuários desconhecidos, 1.0 (0.82%) endereço(s) inativo(s), 7.0 (5.74%) erros de domínio desconhecido
+
+SPF: 0 OK e 3 Falha(s)
+DKIM: 0 OK e 3 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 43.825
+Campanhas interrompidas no mês: 
+Interação 6 meses: 320
+Interação 12 meses: 466
+Nunca Interagiram: 28.985
+Media visualização 3 meses: 43.28%
+Media clicks 3 meses: 3.83%

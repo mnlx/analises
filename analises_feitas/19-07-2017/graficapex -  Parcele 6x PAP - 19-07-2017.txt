@@ -1,0 +1,21 @@
+Análise: 19/07/2017, 05:44:45 hs
+Campanha: Parcele 6x PAPELARIA CONTATOS CHAT
+Listas de inclusão: Clientes Pex Auditoria
+Listas de exclusão: nenhuma
+Segmentação: Contatos Novos + interação
+Denuncias: 0
+Cancelamentos: 2
+Erros permanentes: 89.0 (97.8%) - 86.0 (96.63%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 3.0 (3.37%) erros de domínio desconhecido
+
+SPF: 0 OK e 4 Falha(s)
+DKIM: 0 OK e 4 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B-
+Contatos base: 17.047
+Campanhas interrompidas no mês: 
+Interação 6 meses: 3.071
+Interação 12 meses: 4.205
+Nunca Interagiram: 12.312
+Media visualização 3 meses: 27.03%
+Media clicks 3 meses: 0.60%

@@ -1,0 +1,21 @@
+Análise: 30/05/2017, 07:41:23 hs
+Campanha: Curta nosso facebook e fique por dentro das novidades - Questor Sistemas
+Listas de inclusão: ACI Cruz Alta - RS, ACISMO SMO, AECF - Coronel Freitas, Associação Brasileira de Empresas de Engenharia de Fundações e Geotecnia, Associados ACERGS - Cerealistas, Associados ACI Frederico Westphalen - RS, ASSOCIADOS ACI MONTENEGRO -RS, ASSOCIADOS ACI SÃO LEOPOLDO - RS, Associados ACIC - Concórdia, Associados ACINP - Nova Petropólis - RS, Associados AproseSC, Associados Construnião, Associados Núcleo Estadual de Automecânicas, Associados SESCONs e SESCAP, Associados Sinercon - Juiz de Fora - MG, Questor Cloud, Questor CND, Questor Connect, Questor Empresarial, Questor Pequenas Empresas, Questor Tributário, Questor Zen, Cliente EAD, Autopeças de Chapecó e região, Construturas Chapecó-SC, Empresas - Setor de RH, Empresas Associadas ao Sinduscon Oeste, Empresas de navegação, Rebocadores Portuarios, Apoio Offshore, Empresas de Santa Catarina, Empresas de Sorocoba - SP, Empresas Materiais de Construção Oeste-SC, Escritório Contábeis - Dourados - MS, Escritórios - Linkedin prospects, Escritórios Associados ECCON - Santo André - SP, Escritórios Contábeis - Americana - SP, Escritórios Contábeis - BH, Escritórios Contábeis - DF, Escritórios Contábeis - ES, Escritórios Contábeis - GO, Escritórios Contábeis - MG, Escritórios Contábeis - MT, Escritórios Contábeis - Novo Hambugo - RS, Escritórios Contábeis - Parceiros Conta Azul, Escritórios Contábeis - Porto Alegre e região, Escritórios Contábeis - PR, Escritórios Contábeis - Região Sul de MG, Escritórios Contábeis - RJ, Escritórios Contábeis - RS, Escritórios Contábeis - SC, Escritórios Contábeis - SP, Escritórios Contábeis - TO RO AM PA AP MA CE RN PB PE AL SE, Escritórios Contábeis - Xânxere -SC, Grandes Empresas, GRANDES EMPRESAS - PROSPECT COMERCIAL CHAPECÓ, Indústrias de SC, Transportadoras, 25º EESCON - Mailing pré-evento, 16ª Conescap, 17 CRCPR, CONESCAP 2013, EESCON - 2014, EESCON - 50 CNPJ do Connect, EGESCON 2014, ERP Summit, Leads - Empresas Diversas, Leads - Grande ABC, Leads - New Serra, Leads - Piracicaba, Leads - Taubaté, Leads - Taubaté, New Vale - Clientes Empresarial e PE, New Vale - Clientes Tributários, New Vale - Prospects MG, New Vale - Prospects SC, Prospects em Geral, Revendas Webex, Clientes CND, Clientes Empresarial, Clientes Imobiliário, Clientes Pequenas Empresas, Clientes Questor Tributário, Clientes Zen, Usuários Empresarial e Pequenas Empresas - Questor, Blog Questor, Clientes EAD - 2015, Clientes Prosoft, Clientes Questor - Geral, COMERCIAL - QUESTOR CHAPECÓ, Erro Temporário, Palestra: E-Social e Bloco K - Os Riscos e Oportunidades - SP, Prefeituras de SP, Região Massaro - Tributário, Revendas, Revendas - SC
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 2
+Cancelamentos: 10
+Erros permanentes: 69.0 (11.35%) - 45.0 (65.22%) usuários desconhecidos, 2.0 (2.9%) endereço(s) inativo(s), 22.0 (31.88%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B+
+Contatos base: 35.330
+Campanhas interrompidas no mês: 
+Interação 6 meses: 10.813
+Interação 12 meses: 12.878
+Nunca Interagiram: 20.521
+Media visualização 3 meses: 27.74%
+Media clicks 3 meses: 1.23%

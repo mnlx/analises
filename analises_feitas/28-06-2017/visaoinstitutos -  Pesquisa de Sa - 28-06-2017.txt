@@ -1,0 +1,21 @@
+Análise: 28/06/2017, 16:55:07 hs
+Campanha: Pesquisa de Satisfação 11-17.06[ 27-06-2017 15:54:25 ]
+Listas de inclusão: Junho 11-17.06
+Listas de exclusão: nenhuma
+Segmentação: contatos sem interações
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 73.0 (96.05%) - 68.0 (93.15%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 5.0 (6.85%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B-
+Contatos base: 47.130
+Campanhas interrompidas no mês: 
+Interação 6 meses: 11.406
+Interação 12 meses: 13.821
+Nunca Interagiram: 25.466
+Media visualização 3 meses: 37.82%
+Media clicks 3 meses: 0.62%

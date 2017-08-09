@@ -1,0 +1,22 @@
+Analista: 
+Análise: 24/05/2017, 21:29:25 hs
+Campanha: 1 semana de maio Satisfação
+Listas de inclusão: 1 semana maio
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 59.0 (92.19%) - 56.0(94.92%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 3.0(5.08%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 43.232
+Campanhas interrompidas no mês: 
+Interação 6 meses: 10.045
+Interação 12 meses: 12.811
+Nunca Interagiram: 22.992
+Media visualização 3 meses: 33.05%
+Media clicks 3 meses: 0.41%

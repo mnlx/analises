@@ -1,0 +1,21 @@
+Análise: 27/07/2017, 05:40:50 hs
+Campanha: SEMINÁRIO INTERNACIONAL
+Listas de inclusão: TERAPEUTAS-EVENTOS
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 82.0 (94.25%) - 70.0 (85.37%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 12.0 (14.63%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: B-
+Contatos base: 1.977
+Campanhas interrompidas no mês: 
+Interação 6 meses: 148
+Interação 12 meses: 148
+Nunca Interagiram: 1.829
+Media visualização 3 meses: 18.24%
+Media clicks 3 meses: 0.00%

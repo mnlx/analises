@@ -1,0 +1,22 @@
+Analista: 
+Análise: 28/05/2017, 10:27:10 hs
+Campanha: Convite: Latin American Oncology Interactive Workshop - 4 de junho em Chicago
+Listas de inclusão: Comunicado Abraxane
+Listas de exclusão: nenhuma
+Segmentação: Contatos novos mais interação
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 96.0 (95.05%) - 92.0(95.83%) usuários desconhecidos, 1.0(1.04%) endereço(s) inativo(s), 3.0(3.13%) erros de domínio desconhecido
+
+SPF: 3 OK e 0 Falha(s)
+DKIM: 3 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: A
+Contatos base: 8.380
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.301
+Interação 12 meses: 1.933
+Nunca Interagiram: 6.447
+Media visualização 3 meses: 86.67%
+Media clicks 3 meses: 0.22%

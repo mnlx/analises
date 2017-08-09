@@ -1,0 +1,22 @@
+Analista: 
+Análise: 24/05/2017, 21:25:08 hs
+Campanha: Reatech 8
+Listas de inclusão: Obras Brasil 2
+Listas de exclusão: Clientes ADVComm, Clientes O.S., Contatos | Fausto Alves, Contatos | Vinícius Felipe, Contatos William, Eu, Fornecedores, Funcionários, Obras Brasil 1, Profissionais Cadastrados CBM | Bombeiros 1, Profissionais Cadastrados CBM | Bombeiros 2
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 111.0 (88.1%) - 82.0(73.87%) usuários desconhecidos, 1.0(0.9%) endereço(s) inativo(s), 28.0(25.23%) erros de domínio desconhecido
+
+SPF: 3 OK e 1 Falha(s)
+DKIM: 0 OK e 4 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 20.202
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.524
+Interação 12 meses: 3.346
+Nunca Interagiram: 16.701
+Media visualização 3 meses: 10.07%
+Media clicks 3 meses: 0.71%

@@ -1,0 +1,22 @@
+Analista: 
+Análise: 12/05/2017, 06:41:14 hs
+Campanha: Salete envio (11-05)
+Listas de inclusão: Salete MBA 11-05
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 3
+Erros permanentes: 293.0 (83.24%) - 266.0(90.78%) usuários desconhecidos, 3.0(1.02%) endereço(s) inativo(s), 24.0(8.19%) erros de domínio desconhecido
+
+SPF: 9 OK e 0 Falha(s)
+DKIM: 9 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 116.488
+Campanhas interrompidas no mês: 
+Interação 6 meses: 17.442
+Interação 12 meses: 17.442
+Nunca Interagiram: 99.046
+Media visualização 3 meses: 22.73%
+Media clicks 3 meses: 1.63%

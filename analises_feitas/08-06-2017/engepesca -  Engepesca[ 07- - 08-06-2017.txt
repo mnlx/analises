@@ -1,0 +1,21 @@
+Análise: 08/06/2017, 07:55:40 hs
+Campanha: Engepesca[ 07-06-2017 17:47:10 ]
+Listas de inclusão: Clientes ENGEPESCA
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 61.0 (81.33%) - 56.0 (91.8%) usuários desconhecidos, 1.0 (1.64%) endereço(s) inativo(s), 4.0 (6.56%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: N
+Contatos base: 1.733
+Campanhas interrompidas no mês: 
+Interação 6 meses: 151
+Interação 12 meses: 151
+Nunca Interagiram: 1.582
+Media visualização 3 meses: 30.51%
+Media clicks 3 meses: 4.51%

@@ -1,0 +1,22 @@
+Analista: 
+Análise: 28/05/2017, 10:23:02 hs
+Campanha: Kariplast GERAL V1
+Listas de inclusão: Kariplast Geral V1
+Listas de exclusão: Teste
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 100.0 (92.59%) - 97.0(97.0%) usuários desconhecidos, 1.0(1.0%) endereço(s) inativo(s), 2.0(2.0%) erros de domínio desconhecido
+
+SPF: 0 OK e 2 Falha(s)
+DKIM: 0 OK e 2 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 8.773
+Campanhas interrompidas no mês: 
+Interação 6 meses: 37
+Interação 12 meses: 37
+Nunca Interagiram: 8.736
+Media visualização 3 meses: 37.50%
+Media clicks 3 meses: 1.39%

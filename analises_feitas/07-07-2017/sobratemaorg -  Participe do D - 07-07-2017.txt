@@ -1,0 +1,21 @@
+Análise: 07/07/2017, 08:01:31 hs
+Campanha: Participe do Destaque Pós-Venda - 2017 | Núcleo...[ 04-07-2017 13:46:50 ]
+Listas de inclusão: Alunos Opus - Academy, Congresso - OPUS, Novo Mailing Opus 2014, Opus, Opus - Minas
+Listas de exclusão: nenhuma
+Segmentação: Sem interação
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 122.0 (87.77%) - 114.0 (93.44%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 8.0 (6.56%) erros de domínio desconhecido
+
+SPF: 13 OK e 0 Falha(s)
+DKIM: 13 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B-
+Contatos base: 305.343
+Campanhas interrompidas no mês: 
+Interação 6 meses: 11.780
+Interação 12 meses: 14.041
+Nunca Interagiram: 229.436
+Media visualização 3 meses: 21.53%
+Media clicks 3 meses: 1.30%

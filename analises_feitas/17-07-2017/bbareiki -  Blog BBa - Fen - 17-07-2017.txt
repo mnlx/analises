@@ -1,0 +1,21 @@
+Análise: 17/07/2017, 06:01:40 hs
+Campanha: Blog BBa - Feng Shui!
+Listas de inclusão: Casa Place, CREA -SC - PR - RS, Estudantes Avantis, IAB (Instituto de Arquitetura Do Brasil - Palhoça, Intercom, Núcleo do Vale (Projetistas, Arquitetos), REVENDAS, Sinduscon, Site BBa
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 71.0 (94.67%) - 60.0 (84.51%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 11.0 (15.49%) erros de domínio desconhecido
+
+SPF: 1 OK e 1 Falha(s)
+DKIM: 1 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 3.302
+Campanhas interrompidas no mês: 
+Interação 6 meses: 288
+Interação 12 meses: 288
+Nunca Interagiram: 3.014
+Media visualização 3 meses: 31.27%
+Media clicks 3 meses: 0.65%

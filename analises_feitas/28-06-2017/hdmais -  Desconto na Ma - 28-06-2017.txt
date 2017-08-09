@@ -1,0 +1,21 @@
+Análise: 28/06/2017, 08:33:00 hs
+Campanha: Desconto na Matrícula - Aldeota
+Listas de inclusão: FISK - Aldeota
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 113.0 (91.13%) - 109.0 (96.46%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 4.0 (3.54%) erros de domínio desconhecido
+
+SPF: 8 OK e 3 Falha(s)
+DKIM: 8 OK e 3 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 22.446
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.237
+Interação 12 meses: 2.754
+Nunca Interagiram: 18.981
+Media visualização 3 meses: 15.23%
+Media clicks 3 meses: 0.53%

@@ -1,0 +1,21 @@
+Análise: 09/08/2017, 01:00:44 hs
+Campanha: Buenos Aires_Argentina
+Listas de inclusão: Clientes padrão, Colaboradores DNA, Pedagógico - Escolas, Pedagógico - Faculdades, Professores Escolas, STB
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 2
+Cancelamentos: 4
+Erros permanentes: 66.0 (75.0%) - 52.0 (78.79%) usuários desconhecidos, 1.0 (1.52%) endereço(s) inativo(s), 13.0 (19.7%) erros de domínio desconhecido
+
+SPF: 3 OK e 0 Falha(s)
+DKIM: 2 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 22.711
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.777
+Interação 12 meses: 3.719
+Nunca Interagiram: 16.141
+Media visualização 3 meses: 8.88%
+Media clicks 3 meses: 0.05%

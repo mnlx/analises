@@ -1,0 +1,21 @@
+Análise: 31/07/2017, 17:35:52 hs
+Campanha: Mantas Pronta Entrega
+Listas de inclusão: nenhuma
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 78.0 (95.12%) - 74.0 (94.87%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 4.0 (5.13%) erros de domínio desconhecido
+
+SPF: 3 OK e 0 Falha(s)
+DKIM: 3 OK e 0 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 7.089
+Campanhas interrompidas no mês: 
+Interação 6 meses: 590
+Interação 12 meses: 590
+Nunca Interagiram: 6.499
+Media visualização 3 meses: 33.31%
+Media clicks 3 meses: 1.74%

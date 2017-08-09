@@ -1,0 +1,21 @@
+Análise: 21/06/2017, 19:34:10 hs
+Campanha: Abrimos aos Sábados
+Listas de inclusão: nenhuma
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 2
+Erros permanentes: 60.0 (93.75%) - 52.0 (86.67%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 8.0 (13.33%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: N
+Contatos base: 10.744
+Campanhas interrompidas no mês: 
+Interação 6 meses: 245
+Interação 12 meses: 245
+Nunca Interagiram: 10.500
+Media visualização 3 meses: 3.31%
+Media clicks 3 meses: 0.00%

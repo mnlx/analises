@@ -1,0 +1,22 @@
+Analista: 
+Análise: 12/05/2017, 19:07:39 hs
+Campanha: Música & Mercado News M.I[ 12-05-2017 08:05:17 ]
+Listas de inclusão: Cadastro BR 2014 musicaemercado.org, Encontro de Negócios, Guitarristas, instrumentos, To sem banda LIMPO
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 138.0 (91.39%) - 131.0(94.93%) usuários desconhecidos, 1.0(0.72%) endereço(s) inativo(s), 6.0(4.35%) erros de domínio desconhecido
+
+SPF: 7 OK e 4 Falha(s)
+DKIM: 4 OK e 7 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 774.986
+Campanhas interrompidas no mês: 
+Interação 6 meses: 3.123
+Interação 12 meses: 5.011
+Nunca Interagiram: 652.204
+Media visualização 3 meses: 7.40%
+Media clicks 3 meses: 0.51%

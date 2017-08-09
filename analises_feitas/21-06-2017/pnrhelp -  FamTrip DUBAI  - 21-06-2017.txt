@@ -1,0 +1,21 @@
+Análise: 21/06/2017, 19:39:22 hs
+Campanha: FamTrip DUBAI by ORBE[ 12-06-2017 13:49:07 ][.....[ 21-06-2017 13:34:02 ]
+Listas de inclusão: nenhuma
+Listas de exclusão: Clientes AMADEUS DECODER, Clientes SABRE DECODER , Contatos Ativos - 2016-09-20, Clientes GALILEO DECODER , ABAV-NEWS
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 68.0 (69.39%) - 54.0 (79.41%) usuários desconhecidos, 2.0 (2.94%) endereço(s) inativo(s), 12.0 (17.65%) erros de domínio desconhecido
+
+SPF: 4 OK e 0 Falha(s)
+DKIM: 4 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B
+Contatos base: 18.268
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.768
+Interação 12 meses: 3.510
+Nunca Interagiram: 12.928
+Media visualização 3 meses: 16.79%
+Media clicks 3 meses: 0.18%

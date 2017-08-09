@@ -1,0 +1,21 @@
+Análise: 28/07/2017, 06:38:18 hs
+Campanha:34 ]
+Listas de inclusão: JNJ - Dia do Pediatra - 03
+Listas de exclusão: nenhuma
+Segmentação: Contatos Novos + Interação
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 118.0 (100.0%) - 114.0 (96.61%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 4.0 (3.39%) erros de domínio desconhecido
+
+SPF: 4 OK e 0 Falha(s)
+DKIM: 4 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: A+
+Contatos base: 1.610.118
+Campanhas interrompidas no mês: 
+Interação 6 meses: 17.343
+Interação 12 meses: 23.453
+Nunca Interagiram: null
+Media visualização 3 meses: 43.07%
+Media clicks 3 meses: 0.40%

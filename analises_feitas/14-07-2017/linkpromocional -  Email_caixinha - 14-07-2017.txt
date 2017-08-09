@@ -1,0 +1,21 @@
+Análise: 14/07/2017, 06:08:49 hs
+Campanha: Email_caixinhadesom_spot[ 13-07-2017 11:52:55 ]
+Listas de inclusão: jeferson_teste, Lista_Validadade_2017
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 2
+Erros permanentes: 66.0 (92.96%) - 63.0 (95.45%) usuários desconhecidos, 3.0 (4.55%) endereço(s) inativo(s), 0 (0%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B
+Contatos base: 6.004
+Campanhas interrompidas no mês: 
+Interação 6 meses: 756
+Interação 12 meses: 885
+Nunca Interagiram: 5.080
+Media visualização 3 meses: 85.38%
+Media clicks 3 meses: 2.94%

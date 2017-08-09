@@ -1,0 +1,22 @@
+Analista: 
+Análise: 28/05/2017, 10:19:12 hs
+Campanha: Apartamento 4 suítes Setor Marista[ 25-05-2017 17:40:01 ]
+Listas de inclusão: LISTA OAB GOIAS
+Listas de exclusão: nenhuma
+Segmentação: Contatos novos mais interação
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 57.0 (87.69%) - 55.0(96.49%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 2.0(3.51%) erros de domínio desconhecido
+
+SPF: 1 OK e 1 Falha(s)
+DKIM: 2 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B-
+Contatos base: 22.889
+Campanhas interrompidas no mês: 
+Interação 6 meses: 4.411
+Interação 12 meses: 6.011
+Nunca Interagiram: 16.730
+Media visualização 3 meses: 25.61%
+Media clicks 3 meses: 1.33%

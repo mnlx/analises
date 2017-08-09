@@ -1,0 +1,22 @@
+Analista: 
+Análise: 03/05/2017, 19:09:27 hs
+Campanha: Institucional Phoenix + Face
+Listas de inclusão: Aprovados EmailManager
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 65.0 (87.84%) - 57.0(87.69%) usuários desconhecidos, 1.0(1.54%) endereço(s) inativo(s), 7.0(10.77%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 3.863
+Campanhas interrompidas no mês: 
+Interação 6 meses: 138
+Interação 12 meses: 138
+Nunca Interagiram: 3.725
+Media visualização 3 meses: 26.66%
+Media clicks 3 meses: 1.22%

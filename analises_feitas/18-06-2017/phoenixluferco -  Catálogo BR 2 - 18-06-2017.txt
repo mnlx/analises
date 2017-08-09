@@ -1,0 +1,21 @@
+Análise: 18/06/2017, 16:02:01 hs
+Campanha: Catálogo BR 2
+Listas de inclusão: Revisado 27.04.17
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 74.0 (83.15%) - 59.0 (79.73%) usuários desconhecidos, 3.0 (4.05%) endereço(s) inativo(s), 12.0 (16.22%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: B
+Contatos base: 4.766
+Campanhas interrompidas no mês: 
+Interação 6 meses: 816
+Interação 12 meses: 816
+Nunca Interagiram: 3.950
+Media visualização 3 meses: 39.30%
+Media clicks 3 meses: 3.37%

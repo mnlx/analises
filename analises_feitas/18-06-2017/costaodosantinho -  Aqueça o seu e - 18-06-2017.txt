@@ -1,0 +1,21 @@
+Análise: 18/06/2017, 01:21:43 hs
+Campanha: Aqueça o seu evento
+Listas de inclusão: SP - HOJE
+Listas de exclusão: nenhuma
+Segmentação: Interações em 6 meses
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 131.0 (80.37%) - 115.0 (87.79%) usuários desconhecidos, 1.0 (0.76%) endereço(s) inativo(s), 15.0 (11.45%) erros de domínio desconhecido
+
+SPF: 2 OK e 18 Falha(s)
+DKIM: 18 OK e 2 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B-
+Contatos base: 325.747
+Campanhas interrompidas no mês: 
+Interação 6 meses: 36.855
+Interação 12 meses: 44.231
+Nunca Interagiram: 255.161
+Media visualização 3 meses: 21.69%
+Media clicks 3 meses: 1.75%

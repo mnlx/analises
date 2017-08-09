@@ -1,0 +1,22 @@
+Analista: 
+Análise: 08/05/2017, 19:00:30 hs
+Campanha: Mestrado Profissional em Gestão Empresarial da FGV - Turma Intensiva no Rio d...
+Listas de inclusão: SGE CERTIFICADOS
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 143.0 (73.71%) - 122.0(85.31%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 21.0(14.69%) erros de domínio desconhecido
+
+SPF: 7 OK e 1 Falha(s)
+DKIM: 7 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 70.629
+Campanhas interrompidas no mês: 
+Interação 6 meses: 20.136
+Interação 12 meses: 28.306
+Nunca Interagiram: 40.084
+Media visualização 3 meses: 10.60%
+Media clicks 3 meses: 0.50%

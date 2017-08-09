@@ -1,0 +1,21 @@
+Análise: 25/06/2017, 22:44:48 hs
+Campanha: Feirão Chevrolet
+Listas de inclusão: Apollo, funcionarios, 2017
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 123.0 (83.67%) - 112.0 (91.06%) usuários desconhecidos, 2.0 (1.63%) endereço(s) inativo(s), 9.0 (7.32%) erros de domínio desconhecido
+
+SPF: 2 OK e 0 Falha(s)
+DKIM: 2 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: A-
+Contatos base: 71.269
+Campanhas interrompidas no mês: 
+Interação 6 meses: 491
+Interação 12 meses: 679
+Nunca Interagiram: 62.308
+Media visualização 3 meses: 40.67%
+Media clicks 3 meses: 0.00%

@@ -1,0 +1,21 @@
+Análise: 30/06/2017, 06:05:55 hs
+Campanha: Reabilitação Estética Oclusal
+Listas de inclusão: Mailing_Luis_Felippe
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 68.0 (97.14%) - 63.0 (92.65%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 5.0 (7.35%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 13.548
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.998
+Interação 12 meses: 2.998
+Nunca Interagiram: 10.550
+Media visualização 3 meses: 9.73%
+Media clicks 3 meses: 0.00%

@@ -1,0 +1,22 @@
+Analista: 
+Análise: 24/05/2017, 11:38:48 hs
+Campanha: COMBO MAIO 2017 - PAULA
+Listas de inclusão: Clientes C&D
+Listas de exclusão: nenhuma
+Segmentação: Aumentar Reputação (filtro Ideal)
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 92.0 (85.19%) - 64.0(69.57%) usuários desconhecidos, 1.0(1.09%) endereço(s) inativo(s), 27.0(29.35%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: B+
+Contatos base: 4.357
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.799
+Interação 12 meses: 1.799
+Nunca Interagiram: 2.558
+Media visualização 3 meses: 36.27%
+Media clicks 3 meses: 0.33%

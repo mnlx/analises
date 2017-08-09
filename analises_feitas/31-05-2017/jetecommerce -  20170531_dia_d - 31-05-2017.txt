@@ -1,0 +1,21 @@
+Análise: 31/05/2017, 15:42:49 hs
+Campanha: 20170531_dia_dos_namorados_cns
+Listas de inclusão: CNS Ativos, CNS Válidos, Compradores, news
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 19
+Erros permanentes: 701.0 (88.96%) - 679.0 (96.86%) usuários desconhecidos, 4.0 (0.57%) endereço(s) inativo(s), 18.0 (2.57%) erros de domínio desconhecido
+
+SPF: 4 OK e 15 Falha(s)
+DKIM: 4 OK e 15 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: A-
+Contatos base: 1.004.796
+Campanhas interrompidas no mês: 
+Interação 6 meses: 7.181
+Interação 12 meses: 7.991
+Nunca Interagiram: null
+Media visualização 3 meses: 24.57%
+Media clicks 3 meses: 3.20%

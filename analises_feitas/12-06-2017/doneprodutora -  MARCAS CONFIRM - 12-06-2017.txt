@@ -1,0 +1,21 @@
+Análise: 12/06/2017, 11:06:10 hs
+Campanha: MARCAS CONFIRMADAS P/ O SHOWROOM DE CALÇADOS DE UDI. E SUA MARCA?VAI FICAR D...
+Listas de inclusão: FABRICANTES ZERO GRAU, FÁBRICAS SHOWROOM DE CALÇADOS DE CALÇADOS , LISTA DE ESPERA SHOWROOM DE UBERLÂNDIA , marcas não participantes udi
+Listas de exclusão: nenhuma
+Segmentação: Contatos Novos + Interação
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 84.0 (86.6%) - 67.0 (79.76%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 17.0 (20.24%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: B
+Contatos base: 5.716
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.039
+Interação 12 meses: 2.303
+Nunca Interagiram: 3.254
+Media visualização 3 meses: 38.80%
+Media clicks 3 meses: 1.74%

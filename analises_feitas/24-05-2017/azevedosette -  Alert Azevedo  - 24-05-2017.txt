@@ -1,0 +1,22 @@
+Analista: 
+Análise: 24/05/2017, 11:21:49 hs
+Campanha: Alert Azevedo Sette | New understandings for corporate acts of foreign invest...
+Listas de inclusão: AGO / RQ - Inglês, Mailing Internacional, TMT - internacional
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 3
+Cancelamentos: 4
+Erros permanentes: 10.0 (50.0%) - 10.0(100.0%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 0(0%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 8.217
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.381
+Interação 12 meses: 2.581
+Nunca Interagiram: 5.468
+Media visualização 3 meses: 24.24%
+Media clicks 3 meses: 0.83%

@@ -1,0 +1,22 @@
+Analista: 
+Análise: 11/05/2017, 23:07:22 hs
+Campanha: IGDNews 486 - Geodireito recebe prêmio especial no MundoGEO Connect 2017
+Listas de inclusão: 22f
+Listas de exclusão: nenhuma
+Segmentação: Emailmanager
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 24.0 (34.78%) - 0(0%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 0(0%) erros de domínio desconhecido
+
+SPF: 3 OK e 0 Falha(s)
+DKIM: 3 OK e 0 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: B+
+Contatos base: 58.305
+Campanhas interrompidas no mês: 
+Interação 6 meses: 19.104
+Interação 12 meses: 22.314
+Nunca Interagiram: 34.285
+Media visualização 3 meses: 22.75%
+Media clicks 3 meses: 2.33%

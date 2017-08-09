@@ -1,0 +1,21 @@
+Análise: 21/06/2017, 07:49:46 hs
+Campanha: Campanha DEMGEN
+Listas de inclusão: Campinas, Colaboradores_Central, Email MKT, Envio Final Veritas, Gerentes_de_TI, ITCamara, Lista Oracle, Oracle, Processor, Prospecção Pinpoint, RH_Colaboradores, Sao Paulo eShow, Sao Paulo FGV, VMWare Veritas Convite
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 15
+Erros permanentes: 233.0 (54.31%) - 209.0 (89.7%) usuários desconhecidos, 3.0 (1.29%) endereço(s) inativo(s), 21.0 (9.01%) erros de domínio desconhecido
+
+SPF: 1 OK e 1 Falha(s)
+DKIM: 1 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 22.868
+Campanhas interrompidas no mês: 
+Interação 6 meses: 812
+Interação 12 meses: 927
+Nunca Interagiram: 19.059
+Media visualização 3 meses: 34.59%
+Media clicks 3 meses: 0.06%

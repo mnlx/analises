@@ -1,0 +1,21 @@
+Análise: 14/07/2017, 06:14:06 hs
+Campanha: EMLMKT | Shippers | Como Calcular seu Frete
+Listas de inclusão: Transportadoras [Disparo eBook Cálculo de Frete]
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 66.0 (90.41%) - 58.0 (87.88%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 8.0 (12.12%) erros de domínio desconhecido
+
+SPF: 1 OK e 1 Falha(s)
+DKIM: 1 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 139.008
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.593
+Interação 12 meses: 3.936
+Nunca Interagiram: 133.022
+Media visualização 3 meses: 34.17%
+Media clicks 3 meses: 1.20%

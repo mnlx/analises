@@ -1,0 +1,21 @@
+Análise: 08/06/2017, 07:43:24 hs
+Campanha: Dicas da Discasa: freios ABS
+Listas de inclusão: Campanha de Carnaval, Clientes Discasa, Primeira revisão oficina, up! FIPE
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 4
+Erros permanentes: 274.0 (96.14%) - 233.0 (85.04%) usuários desconhecidos, 1.0 (0.36%) endereço(s) inativo(s), 40.0 (14.6%) erros de domínio desconhecido
+
+SPF: 2 OK e 1 Falha(s)
+DKIM: 2 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: A-
+Contatos base: 8.769
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.176
+Interação 12 meses: 1.630
+Nunca Interagiram: 5.987
+Media visualização 3 meses: 40.84%
+Media clicks 3 meses: 2.77%

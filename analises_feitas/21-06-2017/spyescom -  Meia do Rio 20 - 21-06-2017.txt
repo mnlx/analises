@@ -1,0 +1,21 @@
+Análise: 21/06/2017, 19:25:25 hs
+Campanha: Meia do Rio 2017
+Listas de inclusão: Meia do Rio 2016, Rio de Janeiro
+Listas de exclusão: hotmail sem interação - Move 4C Rio, hotmail sem interação - Volta da União, Inscritos Meia do Rio - 20-06-2017
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 34
+Erros permanentes: 824.0 (66.67%) - 51.0 (6.19%) usuários desconhecidos, 2.0 (0.24%) endereço(s) inativo(s), 771.0 (93.57%) erros de domínio desconhecido
+
+SPF: 4 OK e 0 Falha(s)
+DKIM: 4 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B-
+Contatos base: 446.896
+Campanhas interrompidas no mês: 
+Interação 6 meses: 16.244
+Interação 12 meses: 16.244
+Nunca Interagiram: 430.652
+Media visualização 3 meses: 26.47%
+Media clicks 3 meses: 3.24%

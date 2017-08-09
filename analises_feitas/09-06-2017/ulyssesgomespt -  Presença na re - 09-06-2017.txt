@@ -1,0 +1,21 @@
+Análise: 09/06/2017, 07:20:11 hs
+Campanha: Presença na região: deputado Ulysses visita cidades sulmineiras e recebe lide...
+Listas de inclusão: Assessores Ulysses Gomes, CAFEICULTURA , Educação MG, EDUCAÇÃO MG, EMAIL SISAP, EMAILS SITES, Encontro Pouso Alegre (Eleições 2016), Gabinete BH, IGREJA, Imprensa Itajubá, Imprensa Parceiras 2015, Imprensa Região Metropolitana, Imprensa Sul de Minas 2015, JORNAIS CENTRO OESTE , JORNAIS NOROESTE , JORNAIS NORTE , JORNAIS SUL DE MINAS , JORNAIS TRIÂNGULO , JORNAIS ZONA DA MATA , JORNALISTAS DIVERSOS , JPT - Sul de Minas, Juventude MG, Mailing PT, PREFEITOS, VICES, VEREADORES E SECRETÁRIOS , Presidentes Diretórios PT (Sul de Minas), Produção TV e Rádio ALMG, RÁDIO CENTRO OESTE , RÁDIO NOROESTE , RÁDIO NORTE , RÁDIO REGIÃO METROPOLITANA DE BELO HORIZONTE , RÁDIO SUL DE MINAS , RÁDIO TRIÂNGULO , RÁDIO VALE DO AÇO , RÁDIO ZONA DA MATA , REVISTAS - CENTRO OESTE , REVISTAS - REGIÃO METROPOLITANA DE BELO HORIZONTE , REVISTAS - TRIÂNGULO , REVISTAS - ZONA DA MATA , SRE Pouso Alegre, SULDEMINAS, TESTE, Teste Felipe, TV CENTRO OESTE , TV NOROESTE , TV NORTE , TV REGIÃO METROPOLITANA DE BELO HORIZONTE , TV SUL DE MINAS , TV VALE DO AÇO , TV ZONA DA MATA , VISITANTES CASA CENTENÁRIA
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 158.0 (93.49%) - 153.0 (96.84%) usuários desconhecidos, 1.0 (0.63%) endereço(s) inativo(s), 4.0 (2.53%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 26.883
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.129
+Interação 12 meses: 3.173
+Nunca Interagiram: 21.563
+Media visualização 3 meses: 20.63%
+Media clicks 3 meses: 1.06%

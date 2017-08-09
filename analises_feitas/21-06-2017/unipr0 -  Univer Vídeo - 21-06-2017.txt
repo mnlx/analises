@@ -1,0 +1,21 @@
+Análise: 21/06/2017, 19:43:44 hs
+Campanha: Univer Vídeo
+Listas de inclusão: Obreiros
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 67.0 (90.54%) - 61.0 (91.04%) usuários desconhecidos, 1.0 (1.49%) endereço(s) inativo(s), 5.0 (7.46%) erros de domínio desconhecido
+
+SPF: 5 OK e 12 Falha(s)
+DKIM: 11 OK e 6 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B+
+Contatos base: 647.448
+Campanhas interrompidas no mês: 
+Interação 6 meses: 9.844
+Interação 12 meses: 29.512
+Nunca Interagiram: 554.499
+Media visualização 3 meses: 29.74%
+Media clicks 3 meses: 8.54%

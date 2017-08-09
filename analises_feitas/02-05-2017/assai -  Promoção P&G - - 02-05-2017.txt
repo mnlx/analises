@@ -1,0 +1,22 @@
+Analista: 
+Análise: 02/05/2017, 19:02:39 hs
+Campanha: Promoção P&G - Nessa loja dá Sorte
+Listas de inclusão: AC, AL, AM, AP, APP_ASSAI, BA, Base App, Campanha Aniversário 41 anos, Campanhas Assaí, CE, DF, Empresários, ES, Fornecedores - Janeiro 2016, GO, Litoral, MA, Mailing App, MG, MidiaKit, MS, MT, Newsletter site, PA, PB, PE, PI, PR, Receitas, Revista - Colaboradores Editora, Revista - Fornecedores e Equipe (Editora), RJ, RN, RO, RR, RS, SC, SE, SP, TO
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 6
+Cancelamentos: 50
+Erros permanentes: 96.0 (23.59%) - 92.0(95.83%) usuários desconhecidos, 1.0(1.04%) endereço(s) inativo(s), 3.0(3.13%) erros de domínio desconhecido
+
+SPF: 1 OK e 2 Falha(s)
+DKIM: 2 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 1.040.607
+Campanhas interrompidas no mês: 
+Interação 6 meses: 150.840
+Interação 12 meses: 199.312
+Nunca Interagiram: null
+Media visualização 3 meses: 10.95%
+Media clicks 3 meses: 1.16%

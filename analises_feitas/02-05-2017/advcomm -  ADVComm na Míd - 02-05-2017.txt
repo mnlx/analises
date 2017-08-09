@@ -1,0 +1,22 @@
+Analista: 
+Análise: 02/05/2017, 18:58:27 hs
+Campanha: ADVComm na Mídia | Fundabom
+Listas de inclusão: Contatos | Vinícius Felipe, Profissionais Cadastrados CBM | Bombeiros 1
+Listas de exclusão: Clientes, Contatos | Fausto Alves, Fornecedores, Funcionários, Obras Brasil
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 56.0 (83.58%) - 48.0(85.71%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 8.0(14.29%) erros de domínio desconhecido
+
+SPF: 3 OK e 1 Falha(s)
+DKIM: 0 OK e 4 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 18.606
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.144
+Interação 12 meses: 3.022
+Nunca Interagiram: 15.378
+Media visualização 3 meses: 11.63%
+Media clicks 3 meses: 0.88%

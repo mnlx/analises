@@ -1,0 +1,22 @@
+Analista: 
+Análise: 15/05/2017, 18:19:32 hs
+Campanha: 150517_Payroll_VBC_Boot Camp_Email Manager_Final
+Listas de inclusão: nenhuma
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 1
+Cancelamentos: 50
+Erros permanentes: 714.0 (13.76%) - 668.0(93.56%) usuários desconhecidos, 31.0(4.34%) endereço(s) inativo(s), 668.0(93.56%) erros de domínio desconhecido
+
+SPF: 0 OK e 0 Falha(s)
+DKIM: 0 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 90.604
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.340
+Interação 12 meses: 1.340
+Nunca Interagiram: 89.264
+Media visualização 3 meses: 6.55%
+Media clicks 3 meses: 0.52%

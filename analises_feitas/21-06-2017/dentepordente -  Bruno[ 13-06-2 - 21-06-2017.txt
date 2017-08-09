@@ -1,0 +1,21 @@
+Análise: 21/06/2017, 19:29:50 hs
+Campanha: Bruno[ 13-06-2017 11:14:10 ][ 20-06-2017 13:33:08 ]
+Listas de inclusão: Cirurgião Dentista Google, Clientes Kleber, CLUBE DE VANTAGENS DD, Comprantes Norbi sem virgula, E-mails Perio Implantar, Implantodontistas Kleber , In 2013 , Instrumentais Hu-Friedy, kaka norbi, klebão dental supremo, Recem formados, Ribeirão preto e Região, Ciosp 2013
+Listas de exclusão: nenhuma
+Segmentação: contatos ativos (filtro ideal)
+Denuncias: 0
+Cancelamentos: 4
+Erros permanentes: 257.0 (92.78%) - 230.0 (89.49%) usuários desconhecidos, 2.0 (0.78%) endereço(s) inativo(s), 25.0 (9.73%) erros de domínio desconhecido
+
+SPF: 5 OK e 0 Falha(s)
+DKIM: 5 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 42.390
+Campanhas interrompidas no mês: 
+Interação 6 meses: 3.353
+Interação 12 meses: 5.311
+Nunca Interagiram: 30.658
+Media visualização 3 meses: 23.44%
+Media clicks 3 meses: 0.06%

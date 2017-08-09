@@ -1,0 +1,21 @@
+Análise: 13/07/2017, 06:57:08 hs
+Campanha: Pesquisa de Satisfação 2.1[ 11-07-2017 20:36:02 ]
+Listas de inclusão: Pesquisa de Satisfação 2.1 amostragem
+Listas de exclusão: Junho 1 semana, novos excluindo com interacao, Pesquisa de Satisfação Maio, Pesquisas de satisfação Junho
+Segmentação: contatos com interação mais novos (filtro ideal)
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 76.0 (91.57%) - 73.0 (96.05%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 3.0 (3.95%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B+
+Contatos base: 49.990
+Campanhas interrompidas no mês: 
+Interação 6 meses: 11.678
+Interação 12 meses: 14.079
+Nunca Interagiram: 28.027
+Media visualização 3 meses: 20.59%
+Media clicks 3 meses: 3.02%

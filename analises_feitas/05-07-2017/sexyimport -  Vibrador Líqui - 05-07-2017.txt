@@ -1,0 +1,21 @@
+Análise: 05/07/2017, 06:14:46 hs
+Campanha: Vibrador Líquido
+Listas de inclusão: 1 - 3k, 2 -3k, 3 - 3k, 4 - 3k, 5 - 3k, 6 - 3k, 7 - 3k, 8 - 3k, 8- 3k, Clientes 23.04.2017, Clientes 29.05.2017, Grande 1, Grande 2, Marketing Janeiro, Restante
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 3
+Cancelamentos: 12
+Erros permanentes: 38.0 (46.34%) - 31.0 (81.58%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 7.0 (18.42%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 91.744
+Campanhas interrompidas no mês: 
+Interação 6 meses: 11.611
+Interação 12 meses: 11.611
+Nunca Interagiram: 80.133
+Media visualização 3 meses: 2.00%
+Media clicks 3 meses: 0.19%

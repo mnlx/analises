@@ -1,0 +1,21 @@
+Análise: 30/05/2017, 12:47:28 hs
+Campanha: MAPData - BIM agora nas prefeituras![ 30-05-2017 11:14:36 ]
+Listas de inclusão: Marketing
+Listas de exclusão: nenhuma
+Segmentação: Interações + novos (filtro ideal)
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 79.0 (96.34%) - 67.0 (84.81%) usuários desconhecidos, 1.0 (1.27%) endereço(s) inativo(s), 11.0 (13.92%) erros de domínio desconhecido
+
+SPF: 20 OK e 0 Falha(s)
+DKIM: 20 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C+
+Contatos base: 85.505
+Campanhas interrompidas no mês: 
+Interação 6 meses: 10.848
+Interação 12 meses: 14.108
+Nunca Interagiram: 55.702
+Media visualização 3 meses: 26.75%
+Media clicks 3 meses: 1.38%

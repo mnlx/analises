@@ -1,0 +1,21 @@
+Análise: 02/06/2017, 07:56:46 hs
+Campanha: DEFINE PINHEIROS
+Listas de inclusão: Alto de Pinheiros, Itaim, Jardim Europa, Jardim Paulista, Jardim Paulistano, Lapa, Pompeia, Sumaré
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 3
+Cancelamentos: 5
+Erros permanentes: 3.0 (13.64%) - 2.0 (66.67%) usuários desconhecidos, 1.0 (33.33%) endereço(s) inativo(s), 0 (0%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 24.804
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.373
+Interação 12 meses: 1.373
+Nunca Interagiram: 23.431
+Media visualização 3 meses: 7.13%
+Media clicks 3 meses: 0.02%

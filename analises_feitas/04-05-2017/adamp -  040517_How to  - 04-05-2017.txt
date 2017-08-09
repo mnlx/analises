@@ -1,0 +1,22 @@
+Analista: 
+Análise: 04/05/2017, 18:45:48 hs
+Campanha: 040517_How to Survive a Mass Shooting_Email_Final
+Listas de inclusão: nenhuma
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 4
+Cancelamentos: 28
+Erros permanentes: 349.0 (11.07%) - 313.0(89.68%) usuários desconhecidos, 29.0(8.31%) endereço(s) inativo(s), 313.0(89.68%) erros de domínio desconhecido
+
+SPF: 0 OK e 0 Falha(s)
+DKIM: 0 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 80.768
+Campanhas interrompidas no mês: 
+Interação 6 meses: 927
+Interação 12 meses: 927
+Nunca Interagiram: 79.841
+Media visualização 3 meses: 6.26%
+Media clicks 3 meses: 0.36%

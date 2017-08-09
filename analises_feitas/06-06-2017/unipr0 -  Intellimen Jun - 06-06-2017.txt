@@ -1,0 +1,21 @@
+Análise: 06/06/2017, 16:12:56 hs
+Campanha: Intellimen Junho 2017
+Listas de inclusão: Intellimen - SITE
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 224.0 (90.32%) - 219.0 (97.77%) usuários desconhecidos, 2.0 (0.89%) endereço(s) inativo(s), 3.0 (1.34%) erros de domínio desconhecido
+
+SPF: 5 OK e 11 Falha(s)
+DKIM: 11 OK e 5 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B
+Contatos base: 550.397
+Campanhas interrompidas no mês: 
+Interação 6 meses: 10.746
+Interação 12 meses: 29.666
+Nunca Interagiram: 457.941
+Media visualização 3 meses: 29.19%
+Media clicks 3 meses: 8.68%

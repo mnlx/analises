@@ -1,0 +1,21 @@
+Análise: 21/06/2017, 07:24:24 hs
+Campanha: Teste Lista nova Poá
+Listas de inclusão: POA - DOIS
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 83.0 (91.21%) - 77.0 (92.77%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 6.0 (7.23%) erros de domínio desconhecido
+
+SPF: 5 OK e 2 Falha(s)
+DKIM: 6 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C+
+Contatos base: 71.409
+Campanhas interrompidas no mês: 
+Interação 6 meses: 6.741
+Interação 12 meses: 6.741
+Nunca Interagiram: 64.668
+Media visualização 3 meses: 27.22%
+Media clicks 3 meses: 3.37%

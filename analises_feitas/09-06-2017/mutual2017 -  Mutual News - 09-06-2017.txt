@@ -1,0 +1,21 @@
+Análise: 09/06/2017, 07:07:25 hs
+Campanha: Mutual News
+Listas de inclusão: Mutual Interno, Lista Paulo 1, Lista Paulo 2, Lista Paulo 3, Lista Derly, Lista Paulo 4, Lista Diversas, Lista Marcelo, Lista Raphael, Lista Pipedrive, Lista Santoro
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 4
+Cancelamentos: 32
+Erros permanentes: 725.0 (78.46%) - 717.0 (98.9%) usuários desconhecidos, 7.0 (0.97%) endereço(s) inativo(s), 1.0 (0.14%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: N
+Contatos base: 11.786
+Campanhas interrompidas no mês: 
+Interação 6 meses: 798
+Interação 12 meses: 798
+Nunca Interagiram: 10.988
+Media visualização 3 meses: 23.27%
+Media clicks 3 meses: 2.90%

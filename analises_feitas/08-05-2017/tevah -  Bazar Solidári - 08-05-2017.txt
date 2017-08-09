@@ -1,0 +1,22 @@
+Analista: 
+Análise: 08/05/2017, 18:56:48 hs
+Campanha: Bazar Solidário
+Listas de inclusão: Bazar solidário Tevah
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 2
+Erros permanentes: 177.0 (96.72%) - 171.0(96.61%) usuários desconhecidos, 1.0(0.56%) endereço(s) inativo(s), 5.0(2.82%) erros de domínio desconhecido
+
+SPF: 1 OK e 1 Falha(s)
+DKIM: 0 OK e 2 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 6.511
+Campanhas interrompidas no mês: 
+Interação 6 meses: 580
+Interação 12 meses: 989
+Nunca Interagiram: 4.837
+Media visualização 3 meses: 31.68%
+Media clicks 3 meses: 0.00%

@@ -1,0 +1,22 @@
+Analista: 
+Análise: 05/05/2017, 18:39:55 hs
+Campanha: Dia das Mães na B99
+Listas de inclusão: B99 - Completa
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 67.0 (91.78%) - 53.0(79.1%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 14.0(20.9%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: N
+Contatos base: 7.227
+Campanhas interrompidas no mês: 
+Interação 6 meses: 21
+Interação 12 meses: 21
+Nunca Interagiram: 7.206
+Media visualização 3 meses: 6.09%
+Media clicks 3 meses: 0.00%

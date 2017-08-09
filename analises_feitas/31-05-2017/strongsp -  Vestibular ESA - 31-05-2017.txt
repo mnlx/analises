@@ -1,0 +1,21 @@
+Análise: 31/05/2017, 15:08:26 hs
+Campanha: Vestibular ESAGS - BS - Versao 2
+Listas de inclusão: Interessados ESAGS BS, Vestibular - Santos
+Listas de exclusão: Erros
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 101.0 (73.72%) - 0 (0%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 0 (0%) erros de domínio desconhecido
+
+SPF: 11 OK e 0 Falha(s)
+DKIM: 11 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 123.529
+Campanhas interrompidas no mês: 
+Interação 6 meses: 21.625
+Interação 12 meses: 21.625
+Nunca Interagiram: 101.904
+Media visualização 3 meses: 22.55%
+Media clicks 3 meses: 1.69%

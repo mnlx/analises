@@ -1,0 +1,21 @@
+Análise: 30/06/2017, 19:55:53 hs
+Campanha: Estilo para o final da semana: look inteiro na sale!
+Listas de inclusão: Cuiaba, ecommerce, Lista Jardins 03/2015, MARINGA, Ribeirão, Rio Preto, sale, Shopping ribeirao
+Listas de exclusão: nenhuma
+Segmentação: novos contatos mais interações
+Denuncias: 0
+Cancelamentos: 2
+Erros permanentes: 243.0 (94.19%) - 225.0 (92.59%) usuários desconhecidos, 2.0 (0.82%) endereço(s) inativo(s), 16.0 (6.58%) erros de domínio desconhecido
+
+SPF: 2 OK e 0 Falha(s)
+DKIM: 2 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B
+Contatos base: 14.430
+Campanhas interrompidas no mês: 
+Interação 6 meses: 3.280
+Interação 12 meses: 3.715
+Nunca Interagiram: 10.079
+Media visualização 3 meses: 17.52%
+Media clicks 3 meses: 2.81%

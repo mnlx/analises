@@ -1,0 +1,21 @@
+Análise: 21/07/2017, 05:50:21 hs
+Campanha: Você vai gostar de ler este e-mail
+Listas de inclusão: [GRUPO CONTATO CAMPANHA -> Você vai gostar de ler este e-mail ]
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 63.0 (100.0%) - 58.0 (92.06%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 5.0 (7.94%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: A+
+Contatos base: 23.931
+Campanhas interrompidas no mês: 
+Interação 6 meses: 4.520
+Interação 12 meses: 4.662
+Nunca Interagiram: 19.269
+Media visualização 3 meses: 21.46%
+Media clicks 3 meses: 4.90%

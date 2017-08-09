@@ -1,0 +1,21 @@
+Análise: 18/06/2017, 00:47:17 hs
+Campanha: [Brasilflex] Participação na Expo Parques e Festas
+Listas de inclusão: Agências Promocional, Clientes
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 92.0 (85.98%) - 82.0 (89.13%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 10.0 (10.87%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 4.306
+Campanhas interrompidas no mês: 
+Interação 6 meses: 291
+Interação 12 meses: 291
+Nunca Interagiram: 4.015
+Media visualização 3 meses: 20.95%
+Media clicks 3 meses: 1.87%

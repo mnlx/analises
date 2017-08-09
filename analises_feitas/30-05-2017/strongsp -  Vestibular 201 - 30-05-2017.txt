@@ -1,0 +1,21 @@
+Análise: 30/05/2017, 19:21:44 hs
+Campanha: Vestibular 2017 - ABC 10 tentativa
+Listas de inclusão: Vestibular ABC, Vestibular 6
+Listas de exclusão: Erros, Optouts - Ferramenta All In
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 76.0 (81.72%) - 72.0 (94.74%) usuários desconhecidos, 1.0 (1.32%) endereço(s) inativo(s), 3.0 (3.95%) erros de domínio desconhecido
+
+SPF: 9 OK e 2 Falha(s)
+DKIM: 11 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 123.534
+Campanhas interrompidas no mês: 
+Interação 6 meses: 21.529
+Interação 12 meses: 21.529
+Nunca Interagiram: 102.005
+Media visualização 3 meses: 22.65%
+Media clicks 3 meses: 1.69%

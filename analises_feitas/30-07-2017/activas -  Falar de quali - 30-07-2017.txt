@@ -1,0 +1,21 @@
+Análise: 30/07/2017, 16:58:27 hs
+Campanha: Falar de qualidade é fácil, precisa comprovar!
+Listas de inclusão: Insane, Julho 2017
+Listas de exclusão: Clientes
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 2
+Erros permanentes: 64.0 (92.75%) - 44.0 (68.75%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 20.0 (31.25%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 5.000
+Campanhas interrompidas no mês: 
+Interação 6 meses: 662
+Interação 12 meses: 662
+Nunca Interagiram: 4.338
+Media visualização 3 meses: 39.32%
+Media clicks 3 meses: 2.56%

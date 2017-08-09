@@ -1,0 +1,22 @@
+Analista: 
+Análise: 07/05/2017, 19:53:05 hs
+Campanha: Primeira acao do APP
+Listas de inclusão: Lista Limpa, email, Médicos, Lista Subida ClickDudu, Dentistas 13.04, APP
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 0 (0%) - 0(0%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 0(0%) erros de domínio desconhecido
+
+SPF: 4 OK e 4 Falha(s)
+DKIM: 4 OK e 4 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 11.703
+Campanhas interrompidas no mês: 
+Interação 6 meses: 38
+Interação 12 meses: 38
+Nunca Interagiram: 8.404
+Media visualização 3 meses: 2.73%
+Media clicks 3 meses: 0.00%

@@ -1,0 +1,21 @@
+Análise: 28/06/2017, 12:48:57 hs
+Campanha: Emkt-Vendas-1 Norte/Leste_14.06[ 23-06-2017...[...[ 23-06-2017 14:24:28 ]
+Listas de inclusão: FiadorAbril
+Listas de exclusão: nenhuma
+Segmentação: Ativos
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 151.0 (93.79%) - 141.0 (93.38%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 10.0 (6.62%) erros de domínio desconhecido
+
+SPF: 5 OK e 0 Falha(s)
+DKIM: 5 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B-
+Contatos base: 241.242
+Campanhas interrompidas no mês: 
+Interação 6 meses: 14.313
+Interação 12 meses: 18.304
+Nunca Interagiram: 69.403
+Media visualização 3 meses: 21.11%
+Media clicks 3 meses: 1.22%

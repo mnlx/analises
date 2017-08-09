@@ -1,0 +1,22 @@
+Analista: 
+Análise: 15/05/2017, 18:11:12 hs
+Campanha: AVISO DEFAL[ 15-05-2017 08:47:41 ]
+Listas de inclusão: Básica 2012 a 2016, EMAIL DISPARO AVISO
+Listas de exclusão: nenhuma
+Segmentação: Contato com Interação + contatos novos
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 284.0 (87.93%) - 219.0(77.11%) usuários desconhecidos, 4.0(1.41%) endereço(s) inativo(s), 61.0(21.48%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C+
+Contatos base: 8.250
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.788
+Interação 12 meses: 2.148
+Nunca Interagiram: 6.102
+Media visualização 3 meses: 64.73%
+Media clicks 3 meses: 0.21%

@@ -1,0 +1,21 @@
+Análise: 25/06/2017, 22:22:26 hs
+Campanha: Ergovita 230617
+Listas de inclusão: Educador Fisico, Endocrinologistas, Novos Clientes, Nutricionistas, Profissionais, Revendas
+Listas de exclusão: Não perturbe - Clientes que reclamaram
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 4
+Erros permanentes: 251.0 (95.08%) - 250.0 (99.6%) usuários desconhecidos, 1.0 (0.4%) endereço(s) inativo(s), 0 (0%) erros de domínio desconhecido
+
+SPF: 0 OK e 2 Falha(s)
+DKIM: 0 OK e 2 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 15.000
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.239
+Interação 12 meses: 3.376
+Nunca Interagiram: 10.267
+Media visualização 3 meses: 7.31%
+Media clicks 3 meses: 0.37%

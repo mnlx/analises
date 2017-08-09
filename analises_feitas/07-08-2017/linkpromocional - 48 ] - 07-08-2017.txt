@@ -1,0 +1,21 @@
+Análise: 07/08/2017, 04:35:55 hs
+Campanha:48 ]
+Listas de inclusão: segmentacao_2017_13_07
+Listas de exclusão: nenhuma
+Segmentação: caixinhadesom_13_07_2017
+Denuncias: 0
+Cancelamentos: 3
+Erros permanentes: 70.0 (84.34%) - 38.0 (54.29%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 32.0 (45.71%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B
+Contatos base: 4.789
+Campanhas interrompidas no mês: 
+Interação 6 meses: 793
+Interação 12 meses: 800
+Nunca Interagiram: 3.835
+Media visualização 3 meses: 95.33%
+Media clicks 3 meses: 4.59%

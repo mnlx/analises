@@ -1,0 +1,22 @@
+Analista: 
+Análise: 17/05/2017, 21:29:41 hs
+Campanha: Novo Site da Karimex no Ar![ 17-05-2017 11:49:05 ]
+Listas de inclusão: Componentes - Karimex
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 56.0 (77.78%) - 54.0(96.43%) usuários desconhecidos, 2.0(3.57%) endereço(s) inativo(s), 0(0%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B-
+Contatos base: 15.127
+Campanhas interrompidas no mês: 
+Interação 6 meses: 3.343
+Interação 12 meses: 4.368
+Nunca Interagiram: 10.759
+Media visualização 3 meses: 22.15%
+Media clicks 3 meses: 0.58%

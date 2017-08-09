@@ -1,0 +1,21 @@
+Análise: 09/08/2017, 05:55:26 hs
+Campanha: Conexao Pool 1 - base anexa
+Listas de inclusão: BASE SEPARADA CONEXOES
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 125.0 (92.59%) - 116.0 (92.8%) usuários desconhecidos, 1.0 (0.8%) endereço(s) inativo(s), 8.0 (6.4%) erros de domínio desconhecido
+
+SPF: 3 OK e 17 Falha(s)
+DKIM: 0 OK e 20 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: A
+Contatos base: 36.707
+Campanhas interrompidas no mês: 
+Interação 6 meses: 448
+Interação 12 meses: 576
+Nunca Interagiram: 29.891
+Media visualização 3 meses: 63.39%
+Media clicks 3 meses: 1.79%

@@ -1,0 +1,22 @@
+Analista: 
+Análise: 12/05/2017, 06:37:10 hs
+Campanha: Abioptica[ 11-05-2017 17:16:04 ]
+Listas de inclusão: Abióptica
+Listas de exclusão: nenhuma
+Segmentação: Contatos Novos + Interação[ 11-05-2017 17:16:19 ]
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 62.0 (93.94%) - 54.0(87.1%) usuários desconhecidos, 1.0(1.61%) endereço(s) inativo(s), 7.0(11.29%) erros de domínio desconhecido
+
+SPF: 4 OK e 0 Falha(s)
+DKIM: 4 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C+
+Contatos base: 264.593
+Campanhas interrompidas no mês: 
+Interação 6 meses: 30.879
+Interação 12 meses: 37.215
+Nunca Interagiram: 193.120
+Media visualização 3 meses: 19.60%
+Media clicks 3 meses: 0.90%

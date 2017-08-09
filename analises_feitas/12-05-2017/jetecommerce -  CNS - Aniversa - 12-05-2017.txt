@@ -1,0 +1,22 @@
+Analista: 
+Análise: 12/05/2017, 19:11:44 hs
+Campanha: CNS - Aniversariantes
+Listas de inclusão: Aniversáriantes Maio CNS
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 115.0 (99.14%) - 111.0(96.52%) usuários desconhecidos, 1.0(0.87%) endereço(s) inativo(s), 3.0(2.61%) erros de domínio desconhecido
+
+SPF: 4 OK e 15 Falha(s)
+DKIM: 4 OK e 15 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: A-
+Contatos base: 1.004.796
+Campanhas interrompidas no mês: 
+Interação 6 meses: 7.229
+Interação 12 meses: 7.853
+Nunca Interagiram: null
+Media visualização 3 meses: 24.12%
+Media clicks 3 meses: 3.12%

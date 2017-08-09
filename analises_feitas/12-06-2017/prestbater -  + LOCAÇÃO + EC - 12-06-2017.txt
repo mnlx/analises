@@ -1,0 +1,21 @@
+Análise: 12/06/2017, 11:02:02 hs
+Campanha: + LOCAÇÃO + ECONOMIA
+Listas de inclusão: Prospects_comproposta, Prospects_Semproposta
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 1
+Cancelamentos: 2
+Erros permanentes: 79.0 (64.75%) - 62.0 (78.48%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 17.0 (21.52%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 1.624
+Campanhas interrompidas no mês: 
+Interação 6 meses: 125
+Interação 12 meses: 125
+Nunca Interagiram: 1.499
+Media visualização 3 meses: 52.00%
+Media clicks 3 meses: 0.97%

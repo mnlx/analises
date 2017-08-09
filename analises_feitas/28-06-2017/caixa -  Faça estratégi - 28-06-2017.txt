@@ -1,0 +1,21 @@
+Análise: 28/06/2017, 08:41:43 hs
+Campanha: Faça estratégia em seu e-commerce
+Listas de inclusão: ecommerce
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 4
+Cancelamentos: 14
+Erros permanentes: 2.0 (33.33%) - 0 (0%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 2.0 (100.0%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 21.541
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.987
+Interação 12 meses: 2.987
+Nunca Interagiram: 18.554
+Media visualização 3 meses: 20.00%
+Media clicks 3 meses: 0.37%

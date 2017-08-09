@@ -1,0 +1,21 @@
+Análise: 05/07/2017, 06:10:28 hs
+Campanha: Prorrogação + Locação + Economia
+Listas de inclusão: Prospects_comproposta
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 2
+Erros permanentes: 85.0 (64.89%) - 75.0 (88.24%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 10.0 (11.76%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 1.491
+Campanhas interrompidas no mês: 
+Interação 6 meses: 249
+Interação 12 meses: 249
+Nunca Interagiram: 1.242
+Media visualização 3 meses: 50.66%
+Media clicks 3 meses: 0.92%

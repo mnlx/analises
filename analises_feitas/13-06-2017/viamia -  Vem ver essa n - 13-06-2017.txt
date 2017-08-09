@@ -1,0 +1,21 @@
+Análise: 13/06/2017, 00:27:59 hs
+Campanha: Vem ver essa novidade!
+Listas de inclusão: Franquia Campinas
+Listas de exclusão: nenhuma
+Segmentação: Contatos novos + Interação
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 61.0 (100.0%) - 57.0 (93.44%) usuários desconhecidos, 1.0 (1.64%) endereço(s) inativo(s), 3.0 (4.92%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: A-
+Contatos base: 185.092
+Campanhas interrompidas no mês: 
+Interação 6 meses: 7.726
+Interação 12 meses: 10.869
+Nunca Interagiram: 137.313
+Media visualização 3 meses: 124.57%
+Media clicks 3 meses: 10.04%

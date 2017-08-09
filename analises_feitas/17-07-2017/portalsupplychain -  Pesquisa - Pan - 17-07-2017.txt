@@ -1,0 +1,21 @@
+Análise: 17/07/2017, 19:18:54 hs
+Campanha: Pesquisa - Panorama Transportes[ 17-07-2017 12:01:39 ] envio geral
+Listas de inclusão: 2017 JUNÇÃO CONTATOS ENTREGUES LOCAWEB, 2017 MAILING JUNÇÃO EMAILMANAGER 23-06, 2017 Mailing Vips, 2017 Pit Stop Cortesias 1, 2017 Pit Stop Cortesias 2, 2017 RECENTEMENTE CONVITE POSSÍVEIS PALESTRANTES TRANSPORTES 28-06, 2017 TRANSPORTES POSSIVEIS PALESTRANTE, 2017 Varejo + Bens de Consumo Ferramenta, maio, 2017 Varejo convidados ID Logistics Sala de Inovação, 2017 VAREJO RECENTEMENTE 20%, 2017 VAREJO RECENTEMENTE CORTESIA, 2017 Views 201320142015, ATUALIZAÇÕES DE 01/05/2017 À 17/07/2017, Ferramenta_maio2017, Funcionários, FUNCIONÁRIOS + ARNALDO, Junção Ferramenta, FazLog, PitStop, PossiveisPit, Linex, MAILING CICLO 2017 ativos_Médio, MAILING CICLO 2017 ativos_Views20162017, teste Ciclo, teste isabel 18h26, Varejo Inscritos edição 2013, 2014, 2015 e 2016
+Listas de exclusão: 2017 MENTORES PESQUISA - PANORAMA TRANSPORTES, 2017 Transportes_Seleção Possíveis Patrocinadores, EMPRESAS TRANSPORTE E OPERADOR LOGÍSTICO - PESQUISA, Teste Felipe Bifulco
+Segmentação: nenhuma
+Denuncias: 1
+Cancelamentos: 24
+Erros permanentes: 32.0 (3.83%) - 25.0 (78.13%) usuários desconhecidos, 3.0 (9.38%) endereço(s) inativo(s), 4.0 (12.5%) erros de domínio desconhecido
+
+SPF: 3 OK e 1 Falha(s)
+DKIM: 4 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 30.647
+Campanhas interrompidas no mês: 
+Interação 6 meses: 5.485
+Interação 12 meses: 5.485
+Nunca Interagiram: 25.162
+Media visualização 3 meses: 15.16%
+Media clicks 3 meses: 0.90%

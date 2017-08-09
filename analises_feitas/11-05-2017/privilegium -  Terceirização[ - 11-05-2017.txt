@@ -1,0 +1,22 @@
+Analista: 
+Análise: 11/05/2017, 20:11:08 hs
+Campanha: Terceirização[ 11-05-2017 00:09:01 ]
+Listas de inclusão: Clientes, Teste
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 70.0 (86.42%) - 53.0(75.71%) usuários desconhecidos, 1.0(1.43%) endereço(s) inativo(s), 16.0(22.86%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: N
+Contatos base: 2.619
+Campanhas interrompidas no mês: 
+Interação 6 meses: 18
+Interação 12 meses: 18
+Nunca Interagiram: 2.601
+Media visualização 3 meses: 40.35%
+Media clicks 3 meses: 0.58%

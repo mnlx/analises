@@ -1,0 +1,21 @@
+Análise: 01/08/2017, 05:54:47 hs
+Campanha: [GAMO] Aguarde novidades!!!
+Listas de inclusão: Clientes Finais - Gerais, 1 - SUL, 2- Centro-Oeste, 3 - Norte, 4 -Sudeste, 5 - Nordeste, CO2, Colaboradores, Distribuidores , E-commerces, Revista Pesca e Companhia
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 1
+Cancelamentos: 4
+Erros permanentes: 2.0 (15.38%) - 1.0 (50.0%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 1.0 (50.0%) erros de domínio desconhecido
+
+SPF: 0 OK e 4 Falha(s)
+DKIM: 0 OK e 4 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 21.067
+Campanhas interrompidas no mês: 
+Interação 6 meses: 5.248
+Interação 12 meses: 6.773
+Nunca Interagiram: 14.157
+Media visualização 3 meses: 27.49%
+Media clicks 3 meses: 1.46%

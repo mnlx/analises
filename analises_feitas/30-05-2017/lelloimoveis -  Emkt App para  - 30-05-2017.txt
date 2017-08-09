@@ -1,0 +1,21 @@
+Análise: 30/05/2017, 07:33:03 hs
+Campanha: Emkt App para Clientes Lello[ 26-05-2017...[ 29-05-2017 17:29:35 ]
+Listas de inclusão: Atendimentos Finalizados Jan Fev Mar Abr Mai_Locação
+Listas de exclusão: nenhuma
+Segmentação: Ativos
+Denuncias: 0
+Cancelamentos: 17
+Erros permanentes: 167.0 (92.78%) - 154.0 (92.22%) usuários desconhecidos, 1.0 (0.6%) endereço(s) inativo(s), 12.0 (7.19%) erros de domínio desconhecido
+
+SPF: 5 OK e 0 Falha(s)
+DKIM: 5 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 280.277
+Campanhas interrompidas no mês: 
+Interação 6 meses: 12.660
+Interação 12 meses: 18.960
+Nunca Interagiram: 107.246
+Media visualização 3 meses: 24.98%
+Media clicks 3 meses: 0.50%

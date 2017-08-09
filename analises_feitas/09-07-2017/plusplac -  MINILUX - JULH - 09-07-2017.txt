@@ -1,0 +1,21 @@
+Análise: 09/07/2017, 14:03:40 hs
+Campanha: MINILUX - JULHO 2017
+Listas de inclusão: MINILUX
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 1
+Cancelamentos: 34
+Erros permanentes: 0 (0%) - 0 (0%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 0 (0%) erros de domínio desconhecido
+
+SPF: 6 OK e 1 Falha(s)
+DKIM: 6 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 70.470
+Campanhas interrompidas no mês: 
+Interação 6 meses: 5.538
+Interação 12 meses: 9.625
+Nunca Interagiram: 60.845
+Media visualização 3 meses: 27.79%
+Media clicks 3 meses: 1.43%

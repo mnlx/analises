@@ -1,0 +1,22 @@
+Analista: 
+Análise: 01/05/2017, 22:16:26 hs
+Campanha: 1º de Maio - Feliz dia do trabalhador!
+Listas de inclusão: Ana Piazon, Camila Kate, Carmen Silvia, Clayton , Eliseu, Eris, Sabrina Matos, Vantuir Silva, Henrique Marques, Nidiane Karla, Roberto Lara, Antonio Carlos, Emerson Luiz, Michelle Karina, Michelle Mari, Neila Araújo, Pamela Cristina, Paulo Dias, Adriana Albino, Alessandro Ceri, Altair Brunheti, Camila Araujo, Carla Regina, Celia Maria, Cesar Augusto, Contatos clientes site, Contratos, Fabiana Ovidio, Fabiana Sales, Feira da Mecânica 2016, Geovana Balotin, Inativos, José Antônio, Leandro Santos, Luciana Silva, Marcio Almeida, Marcos Silva, Miriam Awade, Monica Rodrigues, Rafaela Martins, Revenda, Ricardo Arouca, Ricardo Caetano, Rubia Diniz, Silvio Cavalcante, Simone Requena, Thais Krinas, Valter Espindola, Vanessa Kvint
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 524.0 (69.5%) - 449.0(85.69%) usuários desconhecidos, 4.0(0.76%) endereço(s) inativo(s), 71.0(13.55%) erros de domínio desconhecido
+
+SPF: 2 OK e 0 Falha(s)
+DKIM: 2 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B
+Contatos base: 19.152
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.981
+Interação 12 meses: 2.756
+Nunca Interagiram: 15.971
+Media visualização 3 meses: 30.36%
+Media clicks 3 meses: 0.28%

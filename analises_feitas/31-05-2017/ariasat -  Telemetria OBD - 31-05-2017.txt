@@ -1,0 +1,21 @@
+Análise: 31/05/2017, 15:38:16 hs
+Campanha: Telemetria OBD - 31/05/2017 Parte 2
+Listas de inclusão: Empresas 3 (2000)
+Listas de exclusão: nenhuma
+Segmentação: Empresas 3 Parte 2
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 58.0 (63.04%) - 18.0 (31.03%) usuários desconhecidos, 1.0 (1.72%) endereço(s) inativo(s), 39.0 (67.24%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: C+
+Contatos base: 5.011
+Campanhas interrompidas no mês: 
+Interação 6 meses: 339
+Interação 12 meses: 339
+Nunca Interagiram: 4.672
+Media visualização 3 meses: 15.29%
+Media clicks 3 meses: 0.63%

@@ -1,0 +1,21 @@
+Análise: 21/07/2017, 05:45:27 hs
+Campanha: Música & Mercado
+Listas de inclusão: Mailing Brasil agrupado 2017, MMBR1, MMBR Iluminacao, MMBR instrumentos, 2016 - Eletronica lojas, 2016 - Santa Catarina, 2016 Rio Grande do Sul - Lojista, Dia Nacional do Ensino da Música - 2014, Livro CEO, M.I fornecedores Brasil, Decisores e influenciadores 2013, Luthiers Brasil
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 111.0 (84.09%) - 103.0 (92.79%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 8.0 (7.21%) erros de domínio desconhecido
+
+SPF: 6 OK e 5 Falha(s)
+DKIM: 3 OK e 8 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 776.598
+Campanhas interrompidas no mês: 
+Interação 6 meses: 4.616
+Interação 12 meses: 5.927
+Nunca Interagiram: 653.304
+Media visualização 3 meses: 7.22%
+Media clicks 3 meses: 0.64%

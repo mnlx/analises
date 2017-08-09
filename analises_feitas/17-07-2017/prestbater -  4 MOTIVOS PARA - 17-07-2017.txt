@@ -1,0 +1,21 @@
+Análise: 17/07/2017, 19:23:47 hs
+Campanha: 4 MOTIVOS PARA LOCAR UMA EMPILHADEIRA_4
+Listas de inclusão: Clientes_Julho17
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 57.0 (58.16%) - 55.0 (96.49%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 2.0 (3.51%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 1.839
+Campanhas interrompidas no mês: 
+Interação 6 meses: 303
+Interação 12 meses: 303
+Nunca Interagiram: 1.536
+Media visualização 3 meses: 40.83%
+Media clicks 3 meses: 0.73%

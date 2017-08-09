@@ -1,0 +1,21 @@
+Análise: 01/08/2017, 05:49:55 hs
+Campanha: Pesquisa de Satisfação 2.2 ASA SUL
+Listas de inclusão: Pesquisa satisfação 09-23 asa sul
+Listas de exclusão: PACIENTES 15.05 TAGUA SATISFAÇÃO, Pesquisa de Satisfação 2.1 amostragem, Pesquisa de satisfação Jan Fev Mar Abr, Pesquisa de Satisfação Maio, Pesquisa satisfação tagua 09-23/07
+Segmentação: contatos com interação mais novos (filtro ideal)
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 69.0 (95.83%) - 67.0 (97.1%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 2.0 (2.9%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B+
+Contatos base: 36.563
+Campanhas interrompidas no mês: 
+Interação 6 meses: 9.241
+Interação 12 meses: 12.096
+Nunca Interagiram: 19.794
+Media visualização 3 meses: 24.79%
+Media clicks 3 meses: 3.08%

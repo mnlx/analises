@@ -1,0 +1,21 @@
+Análise: 21/07/2017, 06:06:53 hs
+Campanha: BPO - O FISCO pode estar atrapalhando o seu Planejamento
+Listas de inclusão: 201707-Lista para BPO (Coord acima - tax tribut contab
+Listas de exclusão: 201608-Webinar Kemio (contatos desqualificados)
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 139.0 (64.95%) - 128.0 (92.09%) usuários desconhecidos, 3.0 (2.16%) endereço(s) inativo(s), 8.0 (5.76%) erros de domínio desconhecido
+
+SPF: 6 OK e 0 Falha(s)
+DKIM: 6 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 11.425
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.976
+Interação 12 meses: 4.963
+Nunca Interagiram: 2.859
+Media visualização 3 meses: 51.51%
+Media clicks 3 meses: 0.84%

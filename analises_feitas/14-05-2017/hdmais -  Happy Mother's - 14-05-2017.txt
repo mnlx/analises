@@ -1,0 +1,22 @@
+Analista: 
+Análise: 14/05/2017, 21:36:17 hs
+Campanha: Happy Mother's Day! - ¡Feliz Día de la Madre! -...[ 13-05-2017 11:01:48 ]
+Listas de inclusão: FISK - Aldeota
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 51.0 (94.44%) - 48.0(94.12%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 3.0(5.88%) erros de domínio desconhecido
+
+SPF: 6 OK e 5 Falha(s)
+DKIM: 6 OK e 5 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 22.443
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.712
+Interação 12 meses: 2.229
+Nunca Interagiram: 19.444
+Media visualização 3 meses: 10.16%
+Media clicks 3 meses: 0.47%

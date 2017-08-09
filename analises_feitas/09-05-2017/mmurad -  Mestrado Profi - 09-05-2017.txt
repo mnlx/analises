@@ -1,0 +1,22 @@
+Analista: 
+Análise: 09/05/2017, 21:02:15 hs
+Campanha: Mestrado Profissional em Gestão Empresarial da...[ 09-05-2017 13:28:48 ]
+Listas de inclusão: SGE CERTIFICADOS
+Listas de exclusão: nenhuma
+Segmentação: Contatos que nao receberam a campanha interrompida
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 56.0 (61.54%) - 50.0(89.29%) usuários desconhecidos, 1.0(1.79%) endereço(s) inativo(s), 5.0(8.93%) erros de domínio desconhecido
+
+SPF: 7 OK e 1 Falha(s)
+DKIM: 7 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 69.422
+Campanhas interrompidas no mês: 
+Interação 6 meses: 19.877
+Interação 12 meses: 28.193
+Nunca Interagiram: 39.273
+Media visualização 3 meses: 9.62%
+Media clicks 3 meses: 0.43%

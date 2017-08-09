@@ -1,0 +1,22 @@
+Analista: 
+Análise: 24/05/2017, 21:38:04 hs
+Campanha: Promoção imperdível de totem para recarregar celular!
+Listas de inclusão: nenhuma
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 95.0 (79.17%) - 87.0(91.58%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 87.0(91.58%) erros de domínio desconhecido
+
+SPF: 0 OK e 0 Falha(s)
+DKIM: 0 OK e 0 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: N
+Contatos base: 5.641
+Campanhas interrompidas no mês: 
+Interação 6 meses: 3
+Interação 12 meses: 3
+Nunca Interagiram: 5.638
+Media visualização 3 meses: 0.78%
+Media clicks 3 meses: 0.00%

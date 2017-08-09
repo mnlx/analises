@@ -1,0 +1,22 @@
+Analista: 
+Análise: 28/05/2017, 10:39:41 hs
+Campanha: CRAZY LUIZA 3
+Listas de inclusão: LUIZA PEROBELLI 3
+Listas de exclusão: NÃO ENVIAR CRAZY 2017, vacation_não_enviar, VACATION-FERIADOS
+Segmentação: Interações em 6 meses
+Denuncias: 0
+Cancelamentos: 7
+Erros permanentes: 194.0 (93.72%) - 164.0(84.54%) usuários desconhecidos, 1.0(0.52%) endereço(s) inativo(s), 29.0(14.95%) erros de domínio desconhecido
+
+SPF: 2 OK e 18 Falha(s)
+DKIM: 18 OK e 2 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B
+Contatos base: 318.711
+Campanhas interrompidas no mês: 
+Interação 6 meses: 36.543
+Interação 12 meses: 43.562
+Nunca Interagiram: 249.280
+Media visualização 3 meses: 21.63%
+Media clicks 3 meses: 1.55%

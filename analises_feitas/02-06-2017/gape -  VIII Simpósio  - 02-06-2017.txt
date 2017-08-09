@@ -1,0 +1,21 @@
+Análise: 02/06/2017, 06:54:44 hs
+Campanha: VIII Simpósio Cana
+Listas de inclusão: Contatos e-mail do GAPE, CONTATOS EMPRESAS, CONTATOS USINAS, EMAILS PESSOAIS, GAPE 2015, II Simpósio Cerrado Provisória, Participantes do I Simpósio Cerrado - 2014, Simpósio cana 2017, Simpósio Cerrado
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 275.0 (86.75%) - 244.0 (88.73%) usuários desconhecidos, 2.0 (0.73%) endereço(s) inativo(s), 29.0 (10.55%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: B+
+Contatos base: 5.000
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.303
+Interação 12 meses: 2.103
+Nunca Interagiram: 2.673
+Media visualização 3 meses: 45.26%
+Media clicks 3 meses: 3.18%

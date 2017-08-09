@@ -1,0 +1,21 @@
+Análise: 19/07/2017, 20:39:44 hs
+Campanha: Lançamento - Novo Estojo Sustentável
+Listas de inclusão: Aviso Importante , Campanha chaveiro , Campanha Pet Thiago, clientes geral Goiania, Clientes Git, Clientes Novembro , Clientes Sandra - Crown , Clientes Sandra - Zoot, Clientes Thiago , Clientes Zoot , Clientes Zoot NF, LIstagem grande , Listagem_C, Prospect, Representantes (Atualizada) , RIO, SP
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 198.0 (88.79%) - 171.0 (86.36%) usuários desconhecidos, 1.0 (0.51%) endereço(s) inativo(s), 26.0 (13.13%) erros de domínio desconhecido
+
+SPF: 3 OK e 0 Falha(s)
+DKIM: 3 OK e 0 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: C+
+Contatos base: 8.109
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.302
+Interação 12 meses: 1.853
+Nunca Interagiram: 5.109
+Media visualização 3 meses: 15.75%
+Media clicks 3 meses: 0.40%

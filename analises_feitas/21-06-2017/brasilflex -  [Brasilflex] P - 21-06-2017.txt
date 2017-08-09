@@ -1,0 +1,21 @@
+Análise: 21/06/2017, 07:15:54 hs
+Campanha: [Brasilflex] Participação na Expo Parques e...[ 19-06-2017 09:46:25 ]
+Listas de inclusão: Agências Promocional Hotmail, Clientes Hotmail
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 73.0 (100.0%) - 73.0 (100.0%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 0 (0%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 4.306
+Campanhas interrompidas no mês: 
+Interação 6 meses: 469
+Interação 12 meses: 469
+Nunca Interagiram: 3.837
+Media visualização 3 meses: 21.68%
+Media clicks 3 meses: 1.11%

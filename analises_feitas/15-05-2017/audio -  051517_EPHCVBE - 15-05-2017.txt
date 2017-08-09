@@ -1,0 +1,22 @@
+Analista: 
+Análise: 15/05/2017, 18:15:16 hs
+Campanha: 051517_EPHCVBEM_Steven Wachs_HC
+Listas de inclusão: nenhuma
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 3
+Erros permanentes: 70.0 (27.78%) - 65.0(92.86%) usuários desconhecidos, 5.0(7.14%) endereço(s) inativo(s), 65.0(92.86%) erros de domínio desconhecido
+
+SPF: 0 OK e 0 Falha(s)
+DKIM: 0 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 362.452
+Campanhas interrompidas no mês: 
+Interação 6 meses: 821
+Interação 12 meses: 821
+Nunca Interagiram: 361.631
+Media visualização 3 meses: 8.46%
+Media clicks 3 meses: 0.53%

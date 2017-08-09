@@ -1,0 +1,21 @@
+Análise: 07/07/2017, 08:21:25 hs
+Campanha: FEMININO: Abra Esse E-mail e Aproveite Nossa...[ 06-07-2017 15:28:40 ]
+Listas de inclusão: Consumidor Final - site
+Listas de exclusão: nenhuma
+Segmentação: CONTATOS ATIVOS
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 72.0 (100.0%) - 66.0 (91.67%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 6.0 (8.33%) erros de domínio desconhecido
+
+SPF: 2 OK e 0 Falha(s)
+DKIM: 0 OK e 2 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 20.000
+Campanhas interrompidas no mês: 
+Interação 6 meses: 848
+Interação 12 meses: 992
+Nunca Interagiram: 18.755
+Media visualização 3 meses: 16.38%
+Media clicks 3 meses: 0.46%

@@ -1,0 +1,22 @@
+Analista: 
+Análise: 12/05/2017, 19:20:05 hs
+Campanha: Dia das Mães 2017[ 12-05-2017 15:05:27 ]
+Listas de inclusão: FiadorAbril
+Listas de exclusão: nenhuma
+Segmentação: Ativos
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 109.0 (95.61%) - 93.0(85.32%) usuários desconhecidos, 1.0(0.92%) endereço(s) inativo(s), 15.0(13.76%) erros de domínio desconhecido
+
+SPF: 5 OK e 0 Falha(s)
+DKIM: 5 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 272.603
+Campanhas interrompidas no mês: 
+Interação 6 meses: 9.927
+Interação 12 meses: 16.815
+Nunca Interagiram: 101.701
+Media visualização 3 meses: 20.16%
+Media clicks 3 meses: 0.42%

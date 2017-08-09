@@ -1,0 +1,21 @@
+Análise: 19/07/2017, 20:35:06 hs
+Campanha: Mantas Pronta Entrega
+Listas de inclusão: Clientes manta pornta entrega
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 78.0 (95.12%) - 74.0 (94.87%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 4.0 (5.13%) erros de domínio desconhecido
+
+SPF: 0 OK e 3 Falha(s)
+DKIM: 3 OK e 0 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: A+
+Contatos base: 15.555
+Campanhas interrompidas no mês: 
+Interação 6 meses: 11
+Interação 12 meses: 63
+Nunca Interagiram: 15.484
+Media visualização 3 meses: 5.12%
+Media clicks 3 meses: 0.34%

@@ -1,0 +1,21 @@
+Análise: 09/08/2017, 04:42:17 hs
+Campanha: Quadrado Decor - 10/08
+Listas de inclusão: Pessoal
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 65.0 (92.86%) - 61.0 (93.85%) usuários desconhecidos, 1.0 (1.54%) endereço(s) inativo(s), 3.0 (4.62%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: N
+Contatos base: 2.842
+Campanhas interrompidas no mês: 
+Interação 6 meses: 64
+Interação 12 meses: 64
+Nunca Interagiram: 2.778
+Media visualização 3 meses: 17.98%
+Media clicks 3 meses: 0.74%

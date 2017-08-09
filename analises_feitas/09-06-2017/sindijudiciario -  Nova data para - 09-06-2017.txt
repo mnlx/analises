@@ -1,0 +1,21 @@
+Análise: 09/06/2017, 07:11:30 hs
+Campanha: Nova data para a Assembleia Geral Extraordinária de amanhã
+Listas de inclusão: Atualização 06 06 2017
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 59.0 (96.72%) - 51.0 (86.44%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 8.0 (13.56%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 2.192
+Campanhas interrompidas no mês: 
+Interação 6 meses: 364
+Interação 12 meses: 375
+Nunca Interagiram: 1.803
+Media visualização 3 meses: 15.72%
+Media clicks 3 meses: 0.64%

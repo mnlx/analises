@@ -1,0 +1,21 @@
+Análise: 18/06/2017, 16:23:38 hs
+Campanha: Emkt | Inauguracao Sala de Embarque TruckPad | Base - Drivers menores que 4.0
+Listas de inclusão: Base_Drivers_TruckPad_Versão inferior a 4.0
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 1
+Cancelamentos: 3
+Erros permanentes: 2338.0 (98.53%) - 2.271 (97.13%) usuários desconhecidos, 13.0 (0.56%) endereço(s) inativo(s), 54.0 (2.31%) erros de domínio desconhecido
+
+SPF: 1 OK e 1 Falha(s)
+DKIM: 1 OK e 1 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 138.361
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.058
+Interação 12 meses: 3.399
+Nunca Interagiram: 132.921
+Media visualização 3 meses: 33.72%
+Media clicks 3 meses: 1.18%

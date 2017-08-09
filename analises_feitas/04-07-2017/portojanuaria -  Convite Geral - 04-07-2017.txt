@@ -1,0 +1,21 @@
+Análise: 04/07/2017, 06:19:08 hs
+Campanha: Convite Geral
+Listas de inclusão: LISTA DIVERSOS, Teste
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 1
+Cancelamentos: 1
+Erros permanentes: 81.0 (89.01%) - 73.0 (90.12%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 8.0 (9.88%) erros de domínio desconhecido
+
+SPF: 0 OK e 2 Falha(s)
+DKIM: 0 OK e 2 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: N
+Contatos base: 2.090
+Campanhas interrompidas no mês: 
+Interação 6 meses: 85
+Interação 12 meses: 85
+Nunca Interagiram: 2.005
+Media visualização 3 meses: 41.68%
+Media clicks 3 meses: 0.00%

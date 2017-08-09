@@ -1,0 +1,22 @@
+Analista: 
+Análise: 23/05/2017, 22:59:52 hs
+Campanha: Institucional
+Listas de inclusão: Prospects_comproposta, Prospects_Semproposta
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 61.0 (66.3%) - 52.0(85.25%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 9.0(14.75%) erros de domínio desconhecido
+
+SPF: 0 OK e 1 Falha(s)
+DKIM: 0 OK e 1 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: N
+Contatos base: 1.807
+Campanhas interrompidas no mês: 
+Interação 6 meses: 74
+Interação 12 meses: 74
+Nunca Interagiram: 1.733
+Media visualização 3 meses: 54.42%
+Media clicks 3 meses: 1.06%

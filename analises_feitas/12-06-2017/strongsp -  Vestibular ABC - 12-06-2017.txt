@@ -1,0 +1,21 @@
+Análise: 12/06/2017, 11:14:37 hs
+Campanha: Vestibular ABC 2
+Listas de inclusão: Feiras e Eventos 2016 (conclusão 2016)
+Listas de exclusão: Erros
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 85.0 (98.84%) - 85.0 (100.0%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 0 (0%) erros de domínio desconhecido
+
+SPF: 11 OK e 0 Falha(s)
+DKIM: 11 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: D
+Contatos base: 107.586
+Campanhas interrompidas no mês: 
+Interação 6 meses: 21.553
+Interação 12 meses: 21.553
+Nunca Interagiram: 86.033
+Media visualização 3 meses: 26.69%
+Media clicks 3 meses: 2.44%

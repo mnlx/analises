@@ -1,0 +1,21 @@
+Análise: 12/06/2017, 10:57:56 hs
+Campanha: FORD LAGES
+Listas de inclusão: FORD LAGES E CURITIBANOS
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 91.0 (93.81%) - 87.0 (95.6%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 4.0 (4.4%) erros de domínio desconhecido
+
+SPF: 2 OK e 4 Falha(s)
+DKIM: 3 OK e 3 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B-
+Contatos base: 77.227
+Campanhas interrompidas no mês: 
+Interação 6 meses: 6.311
+Interação 12 meses: 6.311
+Nunca Interagiram: 70.916
+Media visualização 3 meses: 27.52%
+Media clicks 3 meses: 2.85%

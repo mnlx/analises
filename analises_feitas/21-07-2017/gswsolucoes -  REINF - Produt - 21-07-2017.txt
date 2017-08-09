@@ -1,0 +1,21 @@
+Análise: 21/07/2017, 14:45:29 hs
+Campanha: REINF - Produtos TR - Lista Angelo (PR)
+Listas de inclusão: Roadshow TR 201408 - Presentes (e-mail de agradecimento), Clientes, Inscritos ROADSHOW Paraná 2014, Prospects, 201609-Convite SPED Forum Curitiba (Contatos PD), 201707-Lista Angelo Para REINF
+Listas de exclusão: 201707-Lista para BPO (Coord acima - tax tribut contab
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 286.0 (92.86%) - 266.0 (93.01%) usuários desconhecidos, 3.0 (1.05%) endereço(s) inativo(s), 17.0 (5.94%) erros de domínio desconhecido
+
+SPF: 6 OK e 0 Falha(s)
+DKIM: 6 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 11.425
+Campanhas interrompidas no mês: 
+Interação 6 meses: 2.996
+Interação 12 meses: 4.981
+Nunca Interagiram: 2.847
+Media visualização 3 meses: 53.78%
+Media clicks 3 meses: 0.73%

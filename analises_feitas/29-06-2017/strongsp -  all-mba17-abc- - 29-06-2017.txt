@@ -1,0 +1,21 @@
+Análise: 29/06/2017, 05:54:42 hs
+Campanha: all-mba17-abc-d5
+Listas de inclusão: Base MBA Santo André
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 10
+Erros permanentes: 2874.0 (82.14%) - 2.831 (98.5%) usuários desconhecidos, 7.0 (0.24%) endereço(s) inativo(s), 36.0 (1.25%) erros de domínio desconhecido
+
+SPF: 11 OK e 0 Falha(s)
+DKIM: 11 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B
+Contatos base: 132.138
+Campanhas interrompidas no mês: 
+Interação 6 meses: 25.313
+Interação 12 meses: 25.313
+Nunca Interagiram: 106.826
+Media visualização 3 meses: 29.08%
+Media clicks 3 meses: 2.93%

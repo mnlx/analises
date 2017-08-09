@@ -1,0 +1,22 @@
+Analista: 
+Análise: 12/05/2017, 06:33:02 hs
+Campanha: Happy Mother's Day! - ¡Feliz Día de la Madre! - Feliz dia das Mães!
+Listas de inclusão: FISK - Aldeota, FISK - Coco, FISK - Fátima, FISK - Seis Bocas
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 153.0 (92.73%) - 143.0(93.46%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 10.0(6.54%) erros de domínio desconhecido
+
+SPF: 6 OK e 5 Falha(s)
+DKIM: 6 OK e 5 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 22.443
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.660
+Interação 12 meses: 2.176
+Nunca Interagiram: 19.497
+Media visualização 3 meses: 8.44%
+Media clicks 3 meses: 0.42%

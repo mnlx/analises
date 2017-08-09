@@ -1,0 +1,21 @@
+Análise: 02/06/2017, 07:44:03 hs
+Campanha: MrhFacine | Junho 2017 | Promoção Eu Indico MrhFacine
+Listas de inclusão: Lista Enem 2016, Gestão de Recursos Humanos (Bolsa Integral), Gestão Financeira (Bolsa Integral), Processos gerenciais (Bolsa Integral), Gestão de Recursos Humanos (Bolsa 50%), Gestão Financeira (Bolsa 50%), Processos gerenciais (Bolsa 50%), Geral
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 54.0 (98.18%) - 51.0 (94.44%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 3.0 (5.56%) erros de domínio desconhecido
+
+SPF: 0 OK e 2 Falha(s)
+DKIM: 0 OK e 2 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B+
+Contatos base: 801
+Campanhas interrompidas no mês: 
+Interação 6 meses: 140
+Interação 12 meses: 156
+Nunca Interagiram: 645
+Media visualização 3 meses: 41.53%
+Media clicks 3 meses: 0.60%

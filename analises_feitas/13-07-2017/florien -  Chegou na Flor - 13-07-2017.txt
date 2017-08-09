@@ -1,0 +1,21 @@
+Análise: 13/07/2017, 06:52:03 hs
+Campanha: Chegou na Florien - Únicos Fitoativos com qualidade FDA
+Listas de inclusão: Clientes Ruy, Clientes Talita, Clientes_Bia_Teste
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 54.0 (87.1%) - 44.0 (81.48%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 10.0 (18.52%) erros de domínio desconhecido
+
+SPF: 0 OK e 20 Falha(s)
+DKIM: 0 OK e 20 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: N
+Contatos base: 4.740
+Campanhas interrompidas no mês: 
+Interação 6 meses: 673
+Interação 12 meses: 673
+Nunca Interagiram: 4.067
+Media visualização 3 meses: 22.08%
+Media clicks 3 meses: 0.00%

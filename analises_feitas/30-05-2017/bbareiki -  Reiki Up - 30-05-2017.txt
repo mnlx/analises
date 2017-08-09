@@ -1,0 +1,21 @@
+Análise: 30/05/2017, 07:24:27 hs
+Campanha: Reiki Up
+Listas de inclusão: CREA SC (Construtoras)
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 55.0 (74.32%) - 40.0 (72.73%) usuários desconhecidos, 1.0 (1.82%) endereço(s) inativo(s), 14.0 (25.45%) erros de domínio desconhecido
+
+SPF: 2 OK e 0 Falha(s)
+DKIM: 2 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 2.084
+Campanhas interrompidas no mês: 
+Interação 6 meses: 40
+Interação 12 meses: 40
+Nunca Interagiram: 2.044
+Media visualização 3 meses: 17.28%
+Media clicks 3 meses: 0.65%

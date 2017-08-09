@@ -1,0 +1,21 @@
+Análise: 30/07/2017, 17:23:20 hs
+Campanha: Oportunidades + Pontos [ Envio 28/07/2017 ]
+Listas de inclusão: Fidelize + Pontos
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 125.0 (96.9%) - 105.0 (84.0%) usuários desconhecidos, 1.0 (0.8%) endereço(s) inativo(s), 19.0 (15.2%) erros de domínio desconhecido
+
+SPF: 2 OK e 0 Falha(s)
+DKIM: 2 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: B-
+Contatos base: 69.719
+Campanhas interrompidas no mês: 
+Interação 6 meses: 22.542
+Interação 12 meses: 26.042
+Nunca Interagiram: 10.835
+Media visualização 3 meses: 20.29%
+Media clicks 3 meses: 1.25%

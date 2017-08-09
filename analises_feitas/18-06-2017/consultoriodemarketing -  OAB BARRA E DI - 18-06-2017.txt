@@ -1,0 +1,21 @@
+Análise: 18/06/2017, 16:05:59 hs
+Campanha: OAB BARRA E DIREITO EM FOCO CONVIDAM
+Listas de inclusão: OAB-Barra
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 3
+Erros permanentes: 160.0 (85.56%) - 149.0 (93.13%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 11.0 (6.88%) erros de domínio desconhecido
+
+SPF: 0 OK e 2 Falha(s)
+DKIM: 0 OK e 2 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: E
+Contatos base: 7.722
+Campanhas interrompidas no mês: 
+Interação 6 meses: 169
+Interação 12 meses: 169
+Nunca Interagiram: 7.553
+Media visualização 3 meses: 24.03%
+Media clicks 3 meses: 2.64%

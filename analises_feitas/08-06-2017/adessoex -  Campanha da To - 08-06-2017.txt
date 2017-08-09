@@ -1,0 +1,21 @@
+Análise: 08/06/2017, 07:34:44 hs
+Campanha: Campanha da Tornofer de 07/06/2017 (Prospecção)
+Listas de inclusão: Tornofer (Lista parcial)
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 100.0 (94.34%) - 87.0 (87.0%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 13.0 (13.0%) erros de domínio desconhecido
+
+SPF: 0 OK e 6 Falha(s)
+DKIM: 0 OK e 6 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: C+
+Contatos base: 3.763
+Campanhas interrompidas no mês: 
+Interação 6 meses: 254
+Interação 12 meses: 399
+Nunca Interagiram: 3.282
+Media visualização 3 meses: 30.83%
+Media clicks 3 meses: 0.62%

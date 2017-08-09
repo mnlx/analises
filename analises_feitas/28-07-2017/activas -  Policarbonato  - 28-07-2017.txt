@@ -1,0 +1,21 @@
+Análise: 28/07/2017, 05:04:50 hs
+Campanha: Policarbonato de qualidade? É na Activas!
+Listas de inclusão: Insane, Julho 2017
+Listas de exclusão: Clientes
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 173.0 (93.01%) - 155.0 (89.6%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 18.0 (10.4%) erros de domínio desconhecido
+
+SPF: 1 OK e 0 Falha(s)
+DKIM: 1 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C-
+Contatos base: 5.000
+Campanhas interrompidas no mês: 
+Interação 6 meses: 656
+Interação 12 meses: 656
+Nunca Interagiram: 4.344
+Media visualização 3 meses: 37.50%
+Media clicks 3 meses: 0.00%

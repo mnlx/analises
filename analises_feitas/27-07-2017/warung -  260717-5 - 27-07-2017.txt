@@ -1,0 +1,21 @@
+Análise: 27/07/2017, 06:12:04 hs
+Campanha: 260717-5
+Listas de inclusão: 08.julho.17, 140117, 210117, 280117
+Listas de exclusão: nenhuma
+Segmentação: Contatos Ativos
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 74.0 (98.67%) - 71.0 (95.95%) usuários desconhecidos, 0 (0%) endereço(s) inativo(s), 3.0 (4.05%) erros de domínio desconhecido
+
+SPF: 0 OK e 2 Falha(s)
+DKIM: 0 OK e 2 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C+
+Contatos base: 28.194
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.843
+Interação 12 meses: 2.242
+Nunca Interagiram: 24.042
+Media visualização 3 meses: 16.34%
+Media clicks 3 meses: 0.36%

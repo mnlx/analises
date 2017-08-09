@@ -1,0 +1,21 @@
+Análise: 30/07/2017, 17:03:45 hs
+Campanha: Fime Lista revisar
+Listas de inclusão: Revisado 27.04.17
+Listas de exclusão: nenhuma
+Segmentação: nenhuma
+Denuncias: 0
+Cancelamentos: 0
+Erros permanentes: 88.0 (90.72%) - 77.0 (87.5%) usuários desconhecidos, 2.0 (2.27%) endereço(s) inativo(s), 9.0 (10.23%) erros de domínio desconhecido
+
+SPF: 0 OK e 2 Falha(s)
+DKIM: 0 OK e 2 Falha(s)
+Domínio próprio: 0 de 2 OK
+
+Qualidade de Base: C+
+Contatos base: 4.487
+Campanhas interrompidas no mês: 
+Interação 6 meses: 1.108
+Interação 12 meses: 1.108
+Nunca Interagiram: 3.379
+Media visualização 3 meses: 37.28%
+Media clicks 3 meses: 2.72%

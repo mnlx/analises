@@ -1,0 +1,22 @@
+Analista: 
+Análise: 09/05/2017, 21:12:38 hs
+Campanha: Bruno Fernandes[ 10-06-2015 16:02:20 ][...[...[...[ 09-05-2017 15:01:56 ]
+Listas de inclusão: Cirurgião Dentista Google, E-mails Perio Implantar, Instrumentais Hu-Friedy, klebão dental supremo, Novo In2015 e Nata, Ciosp 2013
+Listas de exclusão: nenhuma
+Segmentação: contatos ativos (filtro ideal)
+Denuncias: 0
+Cancelamentos: 1
+Erros permanentes: 215.0 (91.88%) - 198.0(92.09%) usuários desconhecidos, 0(0%) endereço(s) inativo(s), 17.0(7.91%) erros de domínio desconhecido
+
+SPF: 5 OK e 0 Falha(s)
+DKIM: 5 OK e 0 Falha(s)
+Domínio próprio: 2 de 2 OK
+
+Qualidade de Base: C+
+Contatos base: 42.390
+Campanhas interrompidas no mês: 
+Interação 6 meses: 3.981
+Interação 12 meses: 5.583
+Nunca Interagiram: 30.728
+Media visualização 3 meses: 23.93%
+Media clicks 3 meses: 0.02%
