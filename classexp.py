@@ -248,6 +248,7 @@ class Analise():
                 break
         time.sleep(8)
         elem = self.driver.find_elements_by_xpath("//div[@class='status red']")
+        print(num_inter)
         hover = ActionChains(self.driver).move_to_element(elem[num_inter])
         hover.perform()
         time.sleep(2)
@@ -290,9 +291,9 @@ class Analise():
         time.sleep(8)
         elem = self.driver.find_element_by_tag_name('h1')
         try:
-            self.campanha = elem.text.split(':')[-1]
+            self.campanha = ''.join(elem.text.split(':')[1:])
         except:
-            self.campanha = elem.text.split('Summary:')[1]
+            self.campanha = ''.join(elem.text.split(':')[1:])
         elem = self.driver.find_elements_by_class_name('x-form-trigger-wrap')
         elem[4].click()
         time.sleep(2)
@@ -415,7 +416,17 @@ class Analise():
         aaa[0].click()
         time.sleep(2)
         aaa = self.driver.find_elements_by_xpath("//div[@class = 'x-grid-cell-inner ']")
-        aaa[0].click()
+        c = 0
+        for i in aaa:
+
+            print(i.get_attribute('innerHTML').lower().count('geral'))
+            if i.get_attribute('innerHTML').lower().count('geral'):
+                print('yyyesss')
+                self.driver.execute_script("document.getElementsByClassName('x-grid-cell-inner').item({0}).click();".format(c))
+
+
+            c+=1
+
         xxx = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
         xxx[1].click()
         xxx = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")

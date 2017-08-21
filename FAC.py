@@ -91,7 +91,7 @@ while 1:
                 analise.driver.quit()
             datahora = 'Análise: {0}, {1} hs'.format(time.strftime("%d/%m/%Y"), time.strftime("%H:%M:%S"))
             send_clients = send_clients + [['a',x,analise.country]]
-            save_location = os.path.join(os.path.dirname(__file__),'analises_feitas/{0}/{1}.txt'.format(time.strftime("%d-%m-%Y"),x + ' - ' + analise.campanha[0:15] + ' - ' + str(time.strftime("%d-%m-%Y"))))
+            save_location = os.path.join(os.path.dirname(__file__),'analises_feitas/{0}/{1}.txt'.format(time.strftime("%d-%m-%Y"),x + ' - ' + analise.campanha[0:15].split('/')[0] + ' - ' + str(time.strftime("%d-%m-%Y"))))
             if not os.path.exists(os.path.join(os.path.dirname(__file__),'analises_feitas/{0}'.format(time.strftime("%d-%m-%Y")))):
                 os.makedirs(os.path.join(os.path.dirname(__file__),'analises_feitas/{0}'.format(time.strftime("%d-%m-%Y"))))
             with open(save_location,'w') as f1:
