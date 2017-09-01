@@ -3,7 +3,7 @@ import logging
 import os
 import csv
 import dataset
-
+import datetime
 
 class log():
     def __init__(self,psswrd):
@@ -51,12 +51,13 @@ class log():
                 index = textind.index("b'Cliente:")
                 cliente = textstr[index].split(': ')[1].split("'")[0]
                 print(cliente)
-                self.client_list.append({'client': cliente, 'status': 'not_done'})
+                self.client_list.append({'client': cliente, 'status': 'not_done','date':datetime.date.today()})
 
             else:
                 # print(textind)
                 cliente = 'Not a cliente'
-                self.client_list.append({'client': cliente, 'status': 'pass'})
+                
+                self.client_list.append({'client': cliente, 'status': 'pass','date':datetime.date.today()})
 
         db = dataset.connect('sqlite:///:client_db:')
         # db.

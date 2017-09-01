@@ -4,6 +4,7 @@ import os
 import time
 import dataset
 import sys
+import datetime
 
 while 1:
     try:
@@ -27,7 +28,21 @@ while 1:
             u = [i for i in a]
             count = len(u)
 
+            months = db.query("SELECT * FROM clients WHERE client='{0}' AND id<='{1}'".format(x,id))
 
+                    
+            try:
+                dates = [(i['dates'].month,i['dates'].year) for i in months]
+                print('~~~~~~Jackin Working')
+                print(dates)
+
+                interrompidas_mes = dates.count((datetime.date.today().month, datetime.date.today().year))
+            except:
+
+                interrompidas_mes = 1
+
+
+            
             analise = classexp.Analise(x,sys.argv[2])
             analise.login()
             if analise.country == 'Espanha':
@@ -112,7 +127,7 @@ while 1:
                 f1.write(os.linesep)
                 f1.write("Qualidade de Base: " + analise.quali + os.linesep)
                 f1.write("Contatos base: " + analise.cadast + os.linesep)
-                f1.write("Campanhas interrompidas no mês: " + os.linesep)
+                f1.write("Campanhas interrompidas no mês: {0}".format(interrompidas_mes) + os.linesep)
                 f1.write("Interação 6 meses: {0}".format(analise.segmen[0]) + os.linesep)
                 f1.write('Interação 12 meses: {0}'.format(analise.segmen[1]) + os.linesep)
                 f1.write('Nunca Interagiram: {0}'.format(analise.segmen[2]) + os.linesep)
