@@ -32,6 +32,7 @@ while 1:
 
                     
             try:
+                print(months)
                 dates = [(i['dates'].month,i['dates'].year) for i in months]
                 print('~~~~~~Jackin Working')
                 print(dates)
