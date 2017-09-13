@@ -139,6 +139,15 @@ while 1:
             email_send.append([save_location, x, analise.campanha[0:15] ])
             log.emailsend([[save_location, x, analise.campanha[0:15] ]])
             # log.loger([['a',x,analise.country]])
+
+            # TODO: inserting API communications with JSON
+
+            # with open(save_location, 'r') as f1:
+
+
+
+
+
             # table = db['clients']
             table = db['clients']
             table.update({ 'status': 'done', 'id': id}, ['id'])

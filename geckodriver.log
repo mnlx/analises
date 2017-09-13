@@ -10614,3 +10614,1864 @@ JavaScript warning: http://nobilehoteis.emailmanager.com/40.181/js/pt_BR/app.js,
 [Child 23847] WARNING: pipe error (36): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 [Child 23847] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 [Child 23847] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504586253508	geckodriver	INFO	Listening on 127.0.0.1:53905
+1504586254533	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504586257256	Marionette	INFO	Enabled via --marionette
+1504586262287	Marionette	INFO	Listening on port 36347
+1504586262838	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504586262903	Marionette	DEBUG	loaded listener.js
+1504586262997	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504586263362	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504586263363	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504586263673	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504586263883	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504586263909	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504586263914	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504586263922	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504586264523	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504586273890	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504586283522	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586286071	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586291618	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586294175	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586298332	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#ControlPanel/Domain"
+1504586303437	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#ControlPanel/AccountSender"
+1504586308819	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Dashboard"
+1504586315921	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#CampaignList"
+1504586320282	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586323696	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586334325	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586339664	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586450008	geckodriver	INFO	Listening on 127.0.0.1:54241
+1504586451073	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504586452161	Marionette	INFO	Enabled via --marionette
+1504586455482	Marionette	INFO	Listening on port 36875
+1504586455497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504586455556	Marionette	DEBUG	loaded listener.js
+1504586455599	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504586455892	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504586455893	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504586456144	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504586456363	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504586456391	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504586456399	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504586456404	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504586456907	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504586466318	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504586475969	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586478549	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586484017	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586486603	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586490861	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#ControlPanel/Domain"
+1504586495960	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#ControlPanel/AccountSender"
+1504586501671	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Dashboard"
+1504586508768	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#CampaignList"
+1504586513118	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586516585	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586527307	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586532569	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586536451	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586653192	geckodriver	INFO	Listening on 127.0.0.1:57231
+1504586654259	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504586655539	Marionette	INFO	Enabled via --marionette
+1504586658959	Marionette	INFO	Listening on port 41097
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504586659147	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504586659239	Marionette	DEBUG	loaded listener.js
+1504586659287	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504586659571	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504586659572	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504586659861	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504586660045	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504586660066	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504586660071	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504586660077	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504586660592	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504586669977	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504586679612	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586682239	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586687707	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586690287	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586694493	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#ControlPanel/Domain"
+1504586699592	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#ControlPanel/AccountSender"
+1504586705291	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Dashboard"
+1504586712378	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#CampaignList"
+1504586716743	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586720141	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586730754	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504586735971	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504587577876	geckodriver	INFO	Listening on 127.0.0.1:52471
+1504587578958	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504587580053	Marionette	INFO	Enabled via --marionette
+1504587583683	Marionette	INFO	Listening on port 34643
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504587583788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504587583842	Marionette	DEBUG	loaded listener.js
+1504587583880	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504587584137	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504587584138	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504587584382	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504587584692	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504587584712	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504587584717	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504587584722	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504587585229	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504587594702	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504587604288	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504587606835	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504587612411	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504587614959	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504587619115	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#ControlPanel/Domain"
+1504587624242	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#ControlPanel/AccountSender"
+1504587629623	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Dashboard"
+1504587636731	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#CampaignList"
+1504587641112	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504587644549	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504587657283	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504587662481	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588580145	geckodriver	INFO	Listening on 127.0.0.1:48855
+1504588581207	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504588582264	Marionette	INFO	Enabled via --marionette
+1504588585363	Marionette	INFO	Listening on port 39661
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504588585521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504588585590	Marionette	DEBUG	loaded listener.js
+1504588585638	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504588585958	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504588585959	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504588586235	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504588586486	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504588586507	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504588586513	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504588586519	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504588587008	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504588596355	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504588606066	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588608611	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588614177	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588616732	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588620926	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#ControlPanel/Domain"
+1504588626027	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#ControlPanel/AccountSender"
+1504588631401	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Dashboard"
+1504588638510	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#CampaignList"
+1504588642866	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588646428	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588659156	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588664386	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588670093	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Report/Edition/144"
+1504588678459	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588681188	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588684845	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588685870	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588687578	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588688603	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588690141	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#DataMining"
+1504588703663	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588707058	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588710433	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588713534	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#DataMiningForm"
+1504588718939	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588721398	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588721657	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588721944	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588730424	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588732701	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588733203	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588733452	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588733756	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588737042	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504588740360	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590418233	geckodriver	INFO	Listening on 127.0.0.1:48647
+1504590419291	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504590422092	Marionette	INFO	Enabled via --marionette
+1504590426432	Marionette	INFO	Listening on port 36697
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504590426524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504590426579	Marionette	DEBUG	loaded listener.js
+1504590426622	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504590426859	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504590426859	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504590427128	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504590427292	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504590427314	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504590427321	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504590427328	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504590427876	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504590437252	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504590446941	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590449494	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590455079	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590457632	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590461898	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#ControlPanel/Domain"
+1504590466998	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#ControlPanel/AccountSender"
+1504590472385	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Dashboard"
+1504590479493	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#CampaignList"
+1504590483844	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590487317	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590499992	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590505301	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590511014	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Report/Edition/144"
+1504590519534	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590522409	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590526112	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590527200	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590528928	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590530016	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590531589	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#DataMining"
+1504590541817	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#DataMiningForm"
+1504590547250	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590549731	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590549984	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590550276	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590579792	geckodriver	INFO	Listening on 127.0.0.1:44959
+1504590580859	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504590582202	Marionette	INFO	Enabled via --marionette
+1504590585800	Marionette	INFO	Listening on port 40935
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504590585915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504590585965	Marionette	DEBUG	loaded listener.js
+1504590586008	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504590586179	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504590586180	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504590586409	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504590586559	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504590586580	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504590586586	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504590586591	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504590587131	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504590596554	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504590606220	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590608793	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590614268	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590616828	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590621091	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#ControlPanel/Domain"
+1504590626198	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#ControlPanel/AccountSender"
+1504590631589	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Dashboard"
+1504590638688	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#CampaignList"
+1504590643079	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590646604	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590659320	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590664566	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590670215	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Report/Edition/144"
+1504590678595	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590681370	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590685055	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590686092	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590687813	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590688866	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590690405	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#DataMining"
+1504590700568	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#DataMiningForm"
+1504590705982	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590708479	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590708730	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590709008	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590724733	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590727042	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590727553	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590727810	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590728121	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590731419	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590734748	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590737775	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#DataMiningForm"
+1504590743252	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590745823	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590746073	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590746366	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590755272	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590755571	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590756137	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590756386	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590756683	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590759971	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590763293	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590765308	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#DataMiningForm"
+1504590770863	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590773370	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590773641	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590773926	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590792261	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590792562	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590793037	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590793303	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590793603	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590796952	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590799298	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590814064	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590826321	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590838518	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590847100	Marionette	INFO	New connections will no longer be accepted
+[Child 3085] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3085] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504590856600	geckodriver	INFO	Listening on 127.0.0.1:42509
+1504590857657	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504590859031	Marionette	INFO	Enabled via --marionette
+1504590862503	Marionette	INFO	Listening on port 39741
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504590862587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504590862643	Marionette	DEBUG	loaded listener.js
+1504590862681	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504590862931	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504590862932	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504590863181	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://strongsp.emailmanager.com/"
+1504590863514	Marionette	DEBUG	Received DOM event "pageshow" for "http://strongsp.emailmanager.com/"
+1504590863542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://strongsp.emailmanager.com/"
+1504590863547	Marionette	DEBUG	Received DOM event "pageshow" for "http://strongsp.emailmanager.com/"
+1504590863553	Marionette	DEBUG	Received DOM event "pageshow" for "http://strongsp.emailmanager.com/"
+1504590864067	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://strongsp.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://strongsp.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://strongsp.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504590872801	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590873846	Marionette	DEBUG	Received DOM event "hashchange" for "http://strongsp.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://strongsp.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504590883478	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590886038	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590891589	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590894148	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590898354	Marionette	DEBUG	Received DOM event "hashchange" for "http://strongsp.emailmanager.com/#ControlPanel/Domain"
+1504590903451	Marionette	DEBUG	Received DOM event "hashchange" for "http://strongsp.emailmanager.com/#ControlPanel/AccountSender"
+1504590910336	Marionette	DEBUG	Received DOM event "hashchange" for "http://strongsp.emailmanager.com/#Dashboard"
+1504590917426	Marionette	DEBUG	Received DOM event "hashchange" for "http://strongsp.emailmanager.com/#CampaignList"
+1504590921776	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590925214	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590937916	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590943200	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590948930	Marionette	DEBUG	Received DOM event "hashchange" for "http://strongsp.emailmanager.com/#Report/Edition/159"
+1504590957362	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590960239	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590963799	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590964918	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590966631	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590967716	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590969274	Marionette	DEBUG	Received DOM event "hashchange" for "http://strongsp.emailmanager.com/#DataMining"
+1504590982964	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590986375	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590989763	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504590992843	Marionette	DEBUG	Received DOM event "hashchange" for "http://strongsp.emailmanager.com/#DataMiningForm"
+1504590998287	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591000796	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591001065	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591001353	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591020040	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591022367	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591022957	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591023233	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591023559	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591026858	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591030247	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591033555	Marionette	DEBUG	Received DOM event "hashchange" for "http://strongsp.emailmanager.com/#DataMiningForm"
+1504591039061	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591041584	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591041901	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591042203	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591063418	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591063713	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591064261	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591064513	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591064812	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591068146	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591071490	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591073844	Marionette	DEBUG	Received DOM event "hashchange" for "http://strongsp.emailmanager.com/#DataMiningForm"
+1504591079351	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591081913	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591082174	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591082456	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591104826	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591105112	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591105657	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591105916	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591106232	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591109519	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591111842	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591126664	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591139088	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591151520	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504591160101	Marionette	INFO	New connections will no longer be accepted
+[Child 3252] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3252] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504591168171	geckodriver	INFO	Listening on 127.0.0.1:51537
+1504591169231	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504591170604	Marionette	INFO	Enabled via --marionette
+1504591174051	Marionette	INFO	Listening on port 42637
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504591174159	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504591174214	Marionette	DEBUG	loaded listener.js
+1504591174257	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504591174584	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504591174585	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504591174824	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504591175008	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504591175029	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504591175036	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504591175043	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504591175552	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+1504595649951	geckodriver	INFO	Listening on 127.0.0.1:46497
+1504595651020	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504595652461	Marionette	INFO	Enabled via --marionette
+1504595656088	Marionette	INFO	Listening on port 34823
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504595656267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504595656345	Marionette	DEBUG	loaded listener.js
+1504595656388	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504595657061	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504595657062	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504595657333	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504595657578	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504595657602	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504595657609	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504595657615	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504595658159	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+1504595667773	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/App/modules/Dashboard.js?_dc=1504595667651, line 1: TypeError: this.panel.el is undefined
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 1: TypeError: b is undefined
+JavaScript error: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 1: TypeError: u is null
+1504595852114	geckodriver	INFO	Listening on 127.0.0.1:42021
+1504595853179	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504595854206	Marionette	INFO	Enabled via --marionette
+1504595857470	Marionette	INFO	Listening on port 34267
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504595857521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504595857574	Marionette	DEBUG	loaded listener.js
+1504595857620	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504595857931	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504595857931	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504595858222	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504595858453	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504595858475	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504595858480	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504595858485	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504595858972	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504595868355	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504595878059	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504595880644	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504595886128	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504595888703	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504595892927	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#ControlPanel/Domain"
+1504595898035	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#ControlPanel/AccountSender"
+1504595903396	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Dashboard"
+1504595910515	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#CampaignList"
+1504595914867	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504595918326	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504595930945	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504595936168	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504595941879	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Report/Edition/145"
+1504595950248	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504595953032	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504595956637	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504595957601	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504595959331	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504595960344	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504595961858	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#DataMining"
+1504595975401	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504595978786	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504595982167	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504595985245	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#DataMiningForm"
+1504595990657	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504595993166	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504595993417	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504595993704	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596002240	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596004519	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596004982	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596005240	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596005549	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596008828	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596012130	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596015148	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#DataMiningForm"
+1504596020602	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596023160	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596023415	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596023703	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596033635	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596033924	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596034462	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596034725	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596035032	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596038324	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596041637	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596043655	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#DataMiningForm"
+1504596049083	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596051587	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596051839	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596052121	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596071674	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596071953	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596072418	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596072682	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596072975	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596076306	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596078688	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596093341	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596105599	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596117822	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596126396	Marionette	INFO	New connections will no longer be accepted
+[Child 6743] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6743] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504596136432	geckodriver	INFO	Listening on 127.0.0.1:38597
+1504596137498	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504596138570	Marionette	INFO	Enabled via --marionette
+1504596141698	Marionette	INFO	Listening on port 42421
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504596141847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504596141917	Marionette	DEBUG	loaded listener.js
+1504596141968	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504596142206	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504596142207	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504596142488	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504596142691	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504596142711	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504596142716	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504596142721	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504596143244	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504596152617	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504596162256	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596164851	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596170316	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596172882	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596177100	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#ControlPanel/Domain"
+1504596182226	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#ControlPanel/AccountSender"
+1504596187590	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Dashboard"
+1504596194697	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#CampaignList"
+1504596199051	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596202481	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596215082	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596220405	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596226119	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Report/Edition/146"
+1504596234548	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596237465	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596241079	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596242163	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596243868	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596244911	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596246380	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#DataMining"
+1504596259923	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596263312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596266686	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596269763	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#DataMiningForm"
+1504596275196	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596277707	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596277954	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596278235	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596287431	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596289756	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596290339	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596290613	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596290931	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596294219	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596297612	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596300632	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#DataMiningForm"
+1504596306138	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596308680	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596308932	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596309226	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596327496	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596327779	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596328302	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596328562	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596328871	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596332157	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596335470	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596337779	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#DataMiningForm"
+1504596343216	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596345712	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596345960	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596346236	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596367315	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596367610	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596368222	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596368488	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596368797	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596372098	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596374489	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596389320	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596401443	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596413601	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596422201	Marionette	INFO	New connections will no longer be accepted
+[Child 6949] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6949] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504596432211	geckodriver	INFO	Listening on 127.0.0.1:60129
+1504596433278	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504596434351	Marionette	INFO	Enabled via --marionette
+1504596437693	Marionette	INFO	Listening on port 45089
+1504596437715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504596437766	Marionette	DEBUG	loaded listener.js
+1504596437806	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504596438163	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504596438164	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504596438481	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504596438705	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504596438724	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://rommanelmg.emailmanager.com/"
+1504596438731	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504596438737	Marionette	DEBUG	Received DOM event "pageshow" for "http://rommanelmg.emailmanager.com/"
+1504596439247	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504596448640	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://rommanelmg.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504596458283	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596460865	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596466325	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596468894	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596473050	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#ControlPanel/Domain"
+1504596478152	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#ControlPanel/AccountSender"
+1504596483548	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Dashboard"
+1504596490631	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#CampaignList"
+1504596494951	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596498348	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596510930	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596516220	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596521903	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#Report/Edition/149"
+1504596530360	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596533245	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596536842	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596537856	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596539574	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596540589	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596542086	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#DataMining"
+1504596555638	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596559055	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596562427	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596565505	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#DataMiningForm"
+1504596570954	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596573448	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596573706	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596573978	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596583177	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596585509	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596586088	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596586351	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596586671	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596589962	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596593369	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596596395	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#DataMiningForm"
+1504596601888	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596604440	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596604705	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596604990	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596614901	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596615192	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596615714	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596615971	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596616267	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596619549	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596622864	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596625159	Marionette	DEBUG	Received DOM event "hashchange" for "http://rommanelmg.emailmanager.com/#DataMiningForm"
+1504596630581	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596633099	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596633351	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596633628	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596656502	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596656791	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596657339	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596657588	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596657897	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596661224	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596663564	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596678256	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596690365	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596702534	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596711110	Marionette	INFO	New connections will no longer be accepted
+[Child 7170] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7170] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504596720471	geckodriver	INFO	Listening on 127.0.0.1:49251
+1504596721533	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504596722640	Marionette	INFO	Enabled via --marionette
+1504596725951	Marionette	INFO	Listening on port 39805
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504596726134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504596726204	Marionette	DEBUG	loaded listener.js
+1504596726243	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504596726583	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504596726583	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504596726864	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ngbprodutora.emailmanager.com/"
+1504596727124	Marionette	DEBUG	Received DOM event "pageshow" for "http://ngbprodutora.emailmanager.com/"
+1504596727158	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ngbprodutora.emailmanager.com/"
+1504596727164	Marionette	DEBUG	Received DOM event "pageshow" for "http://ngbprodutora.emailmanager.com/"
+1504596727171	Marionette	DEBUG	Received DOM event "pageshow" for "http://ngbprodutora.emailmanager.com/"
+1504596727662	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://ngbprodutora.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://ngbprodutora.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504596737138	Marionette	DEBUG	Received DOM event "hashchange" for "http://ngbprodutora.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://ngbprodutora.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504596746730	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596750035	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596752068	Marionette	DEBUG	Received DOM event "hashchange" for "http://ngbprodutora.emailmanager.com/#ControlPanel/Domain"
+1504596757169	Marionette	DEBUG	Received DOM event "hashchange" for "http://ngbprodutora.emailmanager.com/#ControlPanel/AccountSender"
+1504596762529	Marionette	DEBUG	Received DOM event "hashchange" for "http://ngbprodutora.emailmanager.com/#Dashboard"
+1504596769618	Marionette	DEBUG	Received DOM event "hashchange" for "http://ngbprodutora.emailmanager.com/#CampaignList"
+1504596773950	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596777294	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596789846	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596795004	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596800739	Marionette	DEBUG	Received DOM event "hashchange" for "http://ngbprodutora.emailmanager.com/#Report/Edition/1"
+1504596809189	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596811979	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596815635	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596816671	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596818428	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596819483	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596821051	Marionette	DEBUG	Received DOM event "hashchange" for "http://ngbprodutora.emailmanager.com/#DataMining"
+1504596831241	Marionette	DEBUG	Received DOM event "hashchange" for "http://ngbprodutora.emailmanager.com/#DataMiningForm"
+1504596836670	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596839122	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596839380	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596839648	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596849710	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596851989	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596852496	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596852747	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596853050	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596856342	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596859660	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596862683	Marionette	DEBUG	Received DOM event "hashchange" for "http://ngbprodutora.emailmanager.com/#DataMiningForm"
+1504596868101	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596870705	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596870964	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596871254	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596890031	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596890332	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596890894	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596891149	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596891458	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596894795	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596898141	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596900162	Marionette	DEBUG	Received DOM event "hashchange" for "http://ngbprodutora.emailmanager.com/#DataMiningForm"
+1504596905688	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596908254	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596908512	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596908810	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596928637	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596928966	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596929557	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596929822	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596930135	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596933429	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596935810	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596950579	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596962924	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596975122	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504596983700	Marionette	INFO	New connections will no longer be accepted
+[Child 7377] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7377] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504596992175	geckodriver	INFO	Listening on 127.0.0.1:41313
+1504596993242	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504596994262	Marionette	INFO	Enabled via --marionette
+1504596998874	Marionette	INFO	Listening on port 37241
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504596998982	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504596999038	Marionette	DEBUG	loaded listener.js
+1504596999077	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504596999451	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504596999452	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504596999760	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://arkivo.emailmanager.com/"
+1504596999855	Marionette	DEBUG	Received DOM event "pageshow" for "http://arkivo.emailmanager.com/"
+1504596999887	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://arkivo.emailmanager.com/"
+1504596999892	Marionette	DEBUG	Received DOM event "pageshow" for "http://arkivo.emailmanager.com/"
+1504596999904	Marionette	DEBUG	Received DOM event "pageshow" for "http://arkivo.emailmanager.com/"
+1504597000401	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://arkivo.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://arkivo.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504597009825	Marionette	DEBUG	Received DOM event "hashchange" for "http://arkivo.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://arkivo.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504597019563	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597022137	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597027592	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597030150	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597034335	Marionette	DEBUG	Received DOM event "hashchange" for "http://arkivo.emailmanager.com/#ControlPanel/Domain"
+1504597039454	Marionette	DEBUG	Received DOM event "hashchange" for "http://arkivo.emailmanager.com/#ControlPanel/AccountSender"
+1504597045089	Marionette	DEBUG	Received DOM event "hashchange" for "http://arkivo.emailmanager.com/#Dashboard"
+1504597052184	Marionette	DEBUG	Received DOM event "hashchange" for "http://arkivo.emailmanager.com/#CampaignList"
+1504597056531	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597059996	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597072639	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597077959	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597083672	Marionette	DEBUG	Received DOM event "hashchange" for "http://arkivo.emailmanager.com/#Report/Edition/35"
+1504597092055	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597094873	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597098560	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597099654	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597101358	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597102341	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597103759	Marionette	DEBUG	Received DOM event "hashchange" for "http://arkivo.emailmanager.com/#DataMining"
+1504597117347	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597120710	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597124069	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597127427	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597130804	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597133879	Marionette	DEBUG	Received DOM event "hashchange" for "http://arkivo.emailmanager.com/#DataMiningForm"
+1504597139404	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597141935	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597142195	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597142487	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597151659	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597153992	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597154561	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597154820	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597155146	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597158485	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597161834	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597164853	Marionette	DEBUG	Received DOM event "hashchange" for "http://arkivo.emailmanager.com/#DataMiningForm"
+1504597170312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597172905	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597173162	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597173446	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597182476	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597182763	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597183295	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597183551	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597183857	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597187149	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597190467	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597192479	Marionette	DEBUG	Received DOM event "hashchange" for "http://arkivo.emailmanager.com/#DataMiningForm"
+1504597197917	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597200423	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597200679	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597200960	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597225495	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597225796	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597226403	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597226672	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597227000	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597230319	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597232658	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597247435	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597259618	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597271781	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504597280370	Marionette	INFO	New connections will no longer be accepted
+[Child 7580] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7580] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504674256831	geckodriver	INFO	Listening on 127.0.0.1:57681
+1504674257965	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504674259201	Marionette	INFO	Enabled via --marionette
+1504674263171	Marionette	INFO	Listening on port 39859
+1504674263247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504674263300	Marionette	DEBUG	loaded listener.js
+1504674263375	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504674263657	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504674263658	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504674263930	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://afcs.emailmanager.com/"
+1504674264360	Marionette	DEBUG	Received DOM event "pageshow" for "http://afcs.emailmanager.com/"
+1504674264381	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://afcs.emailmanager.com/"
+1504674264385	Marionette	DEBUG	Received DOM event "pageshow" for "http://afcs.emailmanager.com/"
+1504674264391	Marionette	DEBUG	Received DOM event "pageshow" for "http://afcs.emailmanager.com/"
+1504674264958	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://afcs.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://afcs.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504674273729	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674275000	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674275015	Marionette	DEBUG	Received DOM event "hashchange" for "http://afcs.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://afcs.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504674284619	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674287180	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674292684	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674295235	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674299404	Marionette	DEBUG	Received DOM event "hashchange" for "http://afcs.emailmanager.com/#ControlPanel/Domain"
+1504674304506	Marionette	DEBUG	Received DOM event "hashchange" for "http://afcs.emailmanager.com/#ControlPanel/AccountSender"
+1504674312090	Marionette	DEBUG	Received DOM event "hashchange" for "http://afcs.emailmanager.com/#Dashboard"
+1504674319375	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674319450	Marionette	DEBUG	Received DOM event "hashchange" for "http://afcs.emailmanager.com/#CampaignList"
+1504674323778	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674327229	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674339943	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674345077	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674350729	Marionette	DEBUG	Received DOM event "hashchange" for "http://afcs.emailmanager.com/#Report/Edition/2240"
+1504674359086	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674361866	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674365563	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674366506	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674368320	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674369376	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674371409	Marionette	DEBUG	Received DOM event "hashchange" for "http://afcs.emailmanager.com/#DataMining"
+1504674381574	Marionette	DEBUG	Received DOM event "hashchange" for "http://afcs.emailmanager.com/#DataMiningForm"
+1504674386982	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674389423	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674389667	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674389943	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674405348	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674407628	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674408095	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674408351	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674408645	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674411929	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674415292	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674418313	Marionette	DEBUG	Received DOM event "hashchange" for "http://afcs.emailmanager.com/#DataMiningForm"
+1504674423732	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674426205	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674426464	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674426745	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674436724	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674437009	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674437515	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674437771	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674438064	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674441363	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674444675	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674446692	Marionette	DEBUG	Received DOM event "hashchange" for "http://afcs.emailmanager.com/#DataMiningForm"
+1504674452106	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674454548	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674454799	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674455080	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674479152	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674479466	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674480059	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674480327	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674480638	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674483927	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674486250	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674500967	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674513104	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674525210	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674533785	Marionette	INFO	New connections will no longer be accepted
+[Child 9172] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9172] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504674543272	geckodriver	INFO	Listening on 127.0.0.1:44925
+1504674544336	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504674545369	Marionette	INFO	Enabled via --marionette
+1504674548560	Marionette	INFO	Listening on port 33245
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504674548702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504674548767	Marionette	DEBUG	loaded listener.js
+1504674548805	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504674549107	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504674549108	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504674549337	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ngbprodutora.emailmanager.com/"
+1504674549454	Marionette	DEBUG	Received DOM event "pageshow" for "http://ngbprodutora.emailmanager.com/"
+1504674549482	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ngbprodutora.emailmanager.com/"
+1504674549487	Marionette	DEBUG	Received DOM event "pageshow" for "http://ngbprodutora.emailmanager.com/"
+1504674549502	Marionette	DEBUG	Received DOM event "pageshow" for "http://ngbprodutora.emailmanager.com/"
+1504674550079	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://ngbprodutora.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://ngbprodutora.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504674559498	Marionette	DEBUG	Received DOM event "hashchange" for "http://ngbprodutora.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://ngbprodutora.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504674569097	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674572394	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674574428	Marionette	DEBUG	Received DOM event "hashchange" for "http://ngbprodutora.emailmanager.com/#ControlPanel/Domain"
+1504674579538	Marionette	DEBUG	Received DOM event "hashchange" for "http://ngbprodutora.emailmanager.com/#ControlPanel/AccountSender"
+1504674584895	Marionette	DEBUG	Received DOM event "hashchange" for "http://ngbprodutora.emailmanager.com/#Dashboard"
+1504674591986	Marionette	DEBUG	Received DOM event "hashchange" for "http://ngbprodutora.emailmanager.com/#CampaignList"
+1504674596312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674599664	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674612263	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674617360	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674623055	Marionette	DEBUG	Received DOM event "hashchange" for "http://ngbprodutora.emailmanager.com/#Report/Edition/2"
+1504674631481	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674634258	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674637811	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674638865	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674640554	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674641591	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674643033	Marionette	DEBUG	Received DOM event "hashchange" for "http://ngbprodutora.emailmanager.com/#DataMining"
+1504674656693	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674660094	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674663511	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674666603	Marionette	DEBUG	Received DOM event "hashchange" for "http://ngbprodutora.emailmanager.com/#DataMiningForm"
+1504674672109	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674674622	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674674878	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674675169	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674685122	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674687421	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674687942	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674688186	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674688480	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674691813	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674695154	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674698170	Marionette	DEBUG	Received DOM event "hashchange" for "http://ngbprodutora.emailmanager.com/#DataMiningForm"
+1504674703666	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674706169	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674706432	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674706718	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674715282	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674715569	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674716088	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674716354	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674716647	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674719928	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674723242	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674725262	Marionette	DEBUG	Received DOM event "hashchange" for "http://ngbprodutora.emailmanager.com/#DataMiningForm"
+1504674730682	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674733148	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674733395	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674733669	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674756675	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674756984	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674757553	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674757820	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674758159	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674761478	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674763848	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674778507	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674790675	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674802796	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674811367	Marionette	INFO	New connections will no longer be accepted
+[Child 9373] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9373] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504674820402	geckodriver	INFO	Listening on 127.0.0.1:39269
+1504674821466	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504674822505	Marionette	INFO	Enabled via --marionette
+1504674825824	Marionette	INFO	Listening on port 36797
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504674825892	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504674825947	Marionette	DEBUG	loaded listener.js
+1504674825984	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504674826319	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504674826319	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504674826585	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://buenocenografia.emailmanager.com/"
+1504674826694	Marionette	DEBUG	Received DOM event "pageshow" for "http://buenocenografia.emailmanager.com/"
+1504674826716	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://buenocenografia.emailmanager.com/"
+1504674826720	Marionette	DEBUG	Received DOM event "pageshow" for "http://buenocenografia.emailmanager.com/"
+1504674826728	Marionette	DEBUG	Received DOM event "pageshow" for "http://buenocenografia.emailmanager.com/"
+1504674827217	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://buenocenografia.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://buenocenografia.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504674836883	Marionette	DEBUG	Received DOM event "hashchange" for "http://buenocenografia.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://buenocenografia.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504674846433	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674848991	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674854495	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674857030	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674860460	Marionette	DEBUG	Received DOM event "hashchange" for "http://buenocenografia.emailmanager.com/#ControlPanel/Domain"
+1504674865597	Marionette	DEBUG	Received DOM event "hashchange" for "http://buenocenografia.emailmanager.com/#ControlPanel/AccountSender"
+1504674870954	Marionette	DEBUG	Received DOM event "hashchange" for "http://buenocenografia.emailmanager.com/#Dashboard"
+1504674878056	Marionette	DEBUG	Received DOM event "hashchange" for "http://buenocenografia.emailmanager.com/#CampaignList"
+1504674882415	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674885802	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674898461	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674903755	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674909460	Marionette	DEBUG	Received DOM event "hashchange" for "http://buenocenografia.emailmanager.com/#Report/Edition/13"
+1504674917897	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674920696	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674924418	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674925479	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674927169	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674928179	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674929587	Marionette	DEBUG	Received DOM event "hashchange" for "http://buenocenografia.emailmanager.com/#DataMining"
+1504674943129	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674946497	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674949850	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674952920	Marionette	DEBUG	Received DOM event "hashchange" for "http://buenocenografia.emailmanager.com/#DataMiningForm"
+1504674958348	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674960867	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674961135	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674961414	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674970107	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674972430	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674972987	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674973246	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674973553	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674976847	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674980232	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674983521	Marionette	DEBUG	Received DOM event "hashchange" for "http://buenocenografia.emailmanager.com/#DataMiningForm"
+1504674988992	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674991503	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674991765	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504674992054	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675001830	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675002116	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675002630	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675002887	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675003178	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675006466	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675009768	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675011790	Marionette	DEBUG	Received DOM event "hashchange" for "http://buenocenografia.emailmanager.com/#DataMiningForm"
+1504675017216	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675019698	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675019947	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675020225	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675042511	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675042810	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675043376	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675043631	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675043946	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675047274	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675049610	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675064288	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675076401	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675088553	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504675097122	Marionette	INFO	New connections will no longer be accepted
+[Child 9583] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9583] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504851904954	geckodriver	INFO	Listening on 127.0.0.1:46717
+1504851906130	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504851911737	Marionette	INFO	Enabled via --marionette
+1504851918153	Marionette	INFO	Listening on port 43385
+1504851918784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504851918852	Marionette	DEBUG	loaded listener.js
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504851918938	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504851919305	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504851919305	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504851919709	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://spyescom.emailmanager.com/"
+1504851919947	Marionette	DEBUG	Received DOM event "pageshow" for "http://spyescom.emailmanager.com/"
+1504851920008	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://spyescom.emailmanager.com/"
+1504851920015	Marionette	DEBUG	Received DOM event "pageshow" for "http://spyescom.emailmanager.com/"
+1504851920022	Marionette	DEBUG	Received DOM event "pageshow" for "http://spyescom.emailmanager.com/"
+1504851920605	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://spyescom.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://spyescom.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://spyescom.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504851929260	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504851930309	Marionette	DEBUG	Received DOM event "hashchange" for "http://spyescom.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://spyescom.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504851939847	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504851942389	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504851947849	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504851950390	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504851954481	Marionette	DEBUG	Received DOM event "hashchange" for "http://spyescom.emailmanager.com/#ControlPanel/Domain"
+1504851959641	Marionette	DEBUG	Received DOM event "hashchange" for "http://spyescom.emailmanager.com/#ControlPanel/AccountSender"
+1504851965753	Marionette	DEBUG	Received DOM event "hashchange" for "http://spyescom.emailmanager.com/#Dashboard"
+1504851972857	Marionette	DEBUG	Received DOM event "hashchange" for "http://spyescom.emailmanager.com/#CampaignList"
+1504851977202	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504851980655	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504851993265	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504851998549	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852004237	Marionette	DEBUG	Received DOM event "hashchange" for "http://spyescom.emailmanager.com/#Report/Edition/107"
+1504852012610	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852015362	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852019153	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852020089	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852022202	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852023573	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852027295	Marionette	DEBUG	Received DOM event "hashchange" for "http://spyescom.emailmanager.com/#DataMining"
+1504852040830	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852044187	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852047551	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852050633	Marionette	DEBUG	Received DOM event "hashchange" for "http://spyescom.emailmanager.com/#DataMiningForm"
+1504852056093	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852058555	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852058824	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852059102	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852069142	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852071428	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852071978	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852072243	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852072557	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852075842	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852079172	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852082450	Marionette	DEBUG	Received DOM event "hashchange" for "http://spyescom.emailmanager.com/#DataMiningForm"
+1504852087873	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852090361	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852090619	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852090897	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852100842	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852101129	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852101574	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852101832	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852102135	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852105420	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852108714	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852110727	Marionette	DEBUG	Received DOM event "hashchange" for "http://spyescom.emailmanager.com/#DataMiningForm"
+1504852116132	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852118694	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852118955	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852119246	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852138749	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852139039	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852139573	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852139826	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852140130	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852143460	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852145801	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852160498	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852172627	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852184804	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852193391	Marionette	INFO	New connections will no longer be accepted
+[Child 2718] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2718] WARNING: pipe error: Broken pipe: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 2718] WARNING: pipe error: Broken pipe: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 2718] WARNING: pipe error: Broken pipe: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 2718] WARNING: pipe error: Broken pipe: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 2718] WARNING: pipe error (36): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2718] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504852203122	geckodriver	INFO	Listening on 127.0.0.1:51207
+1504852204184	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504852205180	Marionette	INFO	Enabled via --marionette
+1504852208311	Marionette	INFO	Listening on port 36053
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504852208483	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504852208549	Marionette	DEBUG	loaded listener.js
+1504852208600	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504852208896	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504852208897	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504852209161	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://abcommsc.emailmanager.com/"
+1504852209340	Marionette	DEBUG	Received DOM event "pageshow" for "http://abcommsc.emailmanager.com/"
+1504852209377	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://abcommsc.emailmanager.com/"
+1504852209382	Marionette	DEBUG	Received DOM event "pageshow" for "http://abcommsc.emailmanager.com/"
+1504852209388	Marionette	DEBUG	Received DOM event "pageshow" for "http://abcommsc.emailmanager.com/"
+1504852209916	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://abcommsc.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://abcommsc.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504852219227	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://abcommsc.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504852228770	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852231329	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852236042	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852238564	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852242708	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#ControlPanel/Domain"
+1504852247814	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#ControlPanel/AccountSender"
+1504852253179	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#Dashboard"
+1504852260286	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#CampaignList"
+1504852264639	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852268012	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852280610	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852285927	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852291618	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#Report/Edition/80"
+1504852299983	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852302744	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852306387	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852307384	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852309049	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852309976	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852311390	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#DataMining"
+1504852321580	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#DataMiningForm"
+1504852326979	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852329431	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852329681	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852329957	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852339823	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852342107	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852342556	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852342816	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852343173	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852346465	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852349850	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852352882	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#DataMiningForm"
+1504852358310	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852360873	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852361133	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852361415	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852371490	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852371810	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852372394	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852372658	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852372970	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852376257	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852379622	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852381641	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#DataMiningForm"
+1504852387144	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852389641	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852389906	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852390196	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852410258	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852410549	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852411084	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852411327	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852411630	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852414917	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852417243	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852431979	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852444222	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852456298	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852464873	Marionette	INFO	New connections will no longer be accepted
+[Child 3065] WARNING: pipe error (36): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3065] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3065] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504852473620	geckodriver	INFO	Listening on 127.0.0.1:60171
+1504852474679	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504852475688	Marionette	INFO	Enabled via --marionette
+1504852478779	Marionette	INFO	Listening on port 45407
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504852478806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504852478862	Marionette	DEBUG	loaded listener.js
+1504852478998	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504852479379	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504852479380	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504852479661	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hapvidasaude.emailmanager.com/"
+1504852479794	Marionette	DEBUG	Received DOM event "pageshow" for "http://hapvidasaude.emailmanager.com/"
+1504852479819	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hapvidasaude.emailmanager.com/"
+1504852479824	Marionette	DEBUG	Received DOM event "pageshow" for "http://hapvidasaude.emailmanager.com/"
+1504852479829	Marionette	DEBUG	Received DOM event "pageshow" for "http://hapvidasaude.emailmanager.com/"
+1504852480318	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://hapvidasaude.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://hapvidasaude.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504852489980	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852491714	Marionette	DEBUG	Received DOM event "hashchange" for "http://hapvidasaude.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://hapvidasaude.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504852501271	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852503807	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852509219	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852511679	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852515762	Marionette	DEBUG	Received DOM event "hashchange" for "http://hapvidasaude.emailmanager.com/#ControlPanel/Domain"
+1504852520867	Marionette	DEBUG	Received DOM event "hashchange" for "http://hapvidasaude.emailmanager.com/#ControlPanel/AccountSender"
+1504852526439	Marionette	DEBUG	Received DOM event "hashchange" for "http://hapvidasaude.emailmanager.com/#Dashboard"
+1504852533526	Marionette	DEBUG	Received DOM event "hashchange" for "http://hapvidasaude.emailmanager.com/#CampaignList"
+1504852537865	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504852541330	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504854897975	geckodriver	INFO	Listening on 127.0.0.1:47073
+1504854899037	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504854900057	Marionette	INFO	Enabled via --marionette
+1504854903134	Marionette	INFO	Listening on port 39123
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504854903272	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504854903334	Marionette	DEBUG	loaded listener.js
+1504854903425	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504854903700	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504854903700	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504854903949	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hapvidasaude.emailmanager.com/"
+1504854904149	Marionette	DEBUG	Received DOM event "pageshow" for "http://hapvidasaude.emailmanager.com/"
+1504854904175	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hapvidasaude.emailmanager.com/"
+1504854904179	Marionette	DEBUG	Received DOM event "pageshow" for "http://hapvidasaude.emailmanager.com/"
+1504854904185	Marionette	DEBUG	Received DOM event "pageshow" for "http://hapvidasaude.emailmanager.com/"
+1504854904680	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://hapvidasaude.emailmanager.com/40.183/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://hapvidasaude.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504854913397	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504854914434	Marionette	DEBUG	Received DOM event "hashchange" for "http://hapvidasaude.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://hapvidasaude.emailmanager.com/40.183/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504854923993	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504854926575	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504854932020	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504854934578	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504854938741	Marionette	DEBUG	Received DOM event "hashchange" for "http://hapvidasaude.emailmanager.com/#ControlPanel/Domain"
+1504854943856	Marionette	DEBUG	Received DOM event "hashchange" for "http://hapvidasaude.emailmanager.com/#ControlPanel/AccountSender"
+1504854949440	Marionette	DEBUG	Received DOM event "hashchange" for "http://hapvidasaude.emailmanager.com/#Dashboard"
+1504854956537	Marionette	DEBUG	Received DOM event "hashchange" for "http://hapvidasaude.emailmanager.com/#CampaignList"
+1504854960886	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504854964385	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504854977075	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504854982315	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504854988029	Marionette	DEBUG	Received DOM event "hashchange" for "http://hapvidasaude.emailmanager.com/#Report/Edition/1424"
+1504854996477	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504854999282	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855003074	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855004050	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855005864	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855006870	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855009677	Marionette	DEBUG	Received DOM event "hashchange" for "http://hapvidasaude.emailmanager.com/#DataMining"
+1504855023228	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855026583	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855029945	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855033049	Marionette	DEBUG	Received DOM event "hashchange" for "http://hapvidasaude.emailmanager.com/#DataMiningForm"
+1504855038452	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855040939	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855041201	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855041474	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855051738	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855054060	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855054629	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855054900	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855055210	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855058501	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855061882	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855065178	Marionette	DEBUG	Received DOM event "hashchange" for "http://hapvidasaude.emailmanager.com/#DataMiningForm"
+1504855070685	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855073181	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855073436	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855073727	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855082204	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855082499	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855083012	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855083266	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855083566	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855086846	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855090167	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855092187	Marionette	DEBUG	Received DOM event "hashchange" for "http://hapvidasaude.emailmanager.com/#DataMiningForm"
+1504855097617	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855100076	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855100328	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855100608	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855122561	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855122852	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855123402	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855123653	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855123951	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855127241	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855129619	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855144484	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855156717	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855168922	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504855177505	Marionette	INFO	New connections will no longer be accepted
+[Child 5820] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 5820] WARNING: pipe error (36): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 5820] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504855186478	geckodriver	INFO	Listening on 127.0.0.1:37985
+1504855187538	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1504855188649	Marionette	INFO	Enabled via --marionette
+1504855191773	Marionette	INFO	Listening on port 33655
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504855191933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504855192005	Marionette	DEBUG	loaded listener.js
+1504855192048	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504855192410	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504855192411	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504855192663	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://videospyme.emailmanager.com/"
+1504855192793	Marionette	DEBUG	Received DOM event "pageshow" for "http://videospyme.emailmanager.com/"
+1504855192815	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://videospyme.emailmanager.com/"
+1504855192820	Marionette	DEBUG	Received DOM event "pageshow" for "http://videospyme.emailmanager.com/"
+1504855192827	Marionette	DEBUG	Received DOM event "pageshow" for "http://videospyme.emailmanager.com/"
+1504855193348	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://videospyme.emailmanager.com/40.183/js/es_ES/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://videospyme.emailmanager.com/40.183/js/es_ES/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1504855202872	Marionette	INFO	New connections will no longer be accepted
+[Child 5990] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 5990] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505120145072	geckodriver	INFO	Listening on 127.0.0.1:48221
+1505120146205	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1505120147435	Marionette	INFO	Enabled via --marionette
+1505120150947	Marionette	INFO	Listening on port 46491
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505120151250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505120151313	Marionette	DEBUG	loaded listener.js
+1505120151365	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505120151731	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505120151732	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505120152000	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://abcommsc.emailmanager.com/"
+1505120152248	Marionette	DEBUG	Received DOM event "pageshow" for "http://abcommsc.emailmanager.com/"
+1505120152267	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://abcommsc.emailmanager.com/"
+1505120152272	Marionette	DEBUG	Received DOM event "pageshow" for "http://abcommsc.emailmanager.com/"
+1505120152277	Marionette	DEBUG	Received DOM event "pageshow" for "http://abcommsc.emailmanager.com/"
+1505120152781	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://abcommsc.emailmanager.com/40.184/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://abcommsc.emailmanager.com/40.184/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1505120162257	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://abcommsc.emailmanager.com/40.184/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1505120171905	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120174437	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120179211	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120181723	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120185921	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#ControlPanel/Domain"
+1505120191027	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#ControlPanel/AccountSender"
+1505120196398	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#Dashboard"
+1505120203501	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#CampaignList"
+1505120207861	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120211277	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120302392	Marionette	DEBUG	Received DOM event "beforeunload" for "http://abcommsc.emailmanager.com/#CampaignList"
+1505120302427	Marionette	DEBUG	Received DOM event "pagehide" for "http://abcommsc.emailmanager.com/#CampaignList"
+1505120302438	Marionette	DEBUG	Received DOM event "unload" for "http://abcommsc.emailmanager.com/#CampaignList"
+1505120302448	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1505120302448	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1505120302450	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1505120307422	geckodriver	INFO	Listening on 127.0.0.1:43629
+1505120308484	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1505120309545	Marionette	INFO	Enabled via --marionette
+1505120312773	Marionette	INFO	Listening on port 38157
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505120312809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505120312857	Marionette	DEBUG	loaded listener.js
+1505120312900	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505120313287	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505120313287	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505120313510	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://abcommsc.emailmanager.com/"
+1505120313639	Marionette	DEBUG	Received DOM event "pageshow" for "http://abcommsc.emailmanager.com/"
+1505120313676	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://abcommsc.emailmanager.com/"
+1505120313684	Marionette	DEBUG	Received DOM event "pageshow" for "http://abcommsc.emailmanager.com/"
+1505120313690	Marionette	DEBUG	Received DOM event "pageshow" for "http://abcommsc.emailmanager.com/"
+1505120314201	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://abcommsc.emailmanager.com/40.184/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://abcommsc.emailmanager.com/40.184/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1505120323687	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://abcommsc.emailmanager.com/40.184/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1505120333308	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120335873	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120340612	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120343121	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120347285	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#ControlPanel/Domain"
+1505120352385	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#ControlPanel/AccountSender"
+1505120357701	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#Dashboard"
+1505120364795	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#CampaignList"
+1505120369121	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120372547	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120385215	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120390526	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120396231	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#Report/Edition/81"
+1505120404745	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120407061	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120410763	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120411722	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120413409	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120414403	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120415887	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#DataMining"
+1505120429427	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120432813	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120436173	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120439236	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#DataMiningForm"
+1505120444671	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120447130	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120447382	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120447655	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120457547	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120459864	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120460442	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120460700	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120461005	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120464296	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120467684	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120470981	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#DataMiningForm"
+1505120476475	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120478975	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120479239	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120479544	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120488037	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120488322	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120488823	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120489088	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120489388	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120492664	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120495984	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120498004	Marionette	DEBUG	Received DOM event "hashchange" for "http://abcommsc.emailmanager.com/#DataMiningForm"
+1505120503437	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120505897	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120506147	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120506421	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120528528	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120528825	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120529373	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120529626	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120529934	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120533274	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120535609	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120550329	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120562524	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120574672	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505120583253	Marionette	INFO	New connections will no longer be accepted
+[Child 13119] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13119] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505211613611	geckodriver	INFO	Listening on 127.0.0.1:56857
+1505211614698	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1505211615884	Marionette	INFO	Enabled via --marionette
+1505211619698	Marionette	INFO	Listening on port 34505
+1505211619764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505211619817	Marionette	DEBUG	loaded listener.js
+1505211619880	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505211620195	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505211620195	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505211620450	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://phoenixluferco.emailmanager.com/"
+1505211620590	Marionette	DEBUG	Received DOM event "pageshow" for "http://phoenixluferco.emailmanager.com/"
+1505211620614	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://phoenixluferco.emailmanager.com/"
+1505211620619	Marionette	DEBUG	Received DOM event "pageshow" for "http://phoenixluferco.emailmanager.com/"
+1505211620625	Marionette	DEBUG	Received DOM event "pageshow" for "http://phoenixluferco.emailmanager.com/"
+1505211621157	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://phoenixluferco.emailmanager.com/40.184/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://phoenixluferco.emailmanager.com/40.184/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1505211630551	Marionette	DEBUG	Received DOM event "hashchange" for "http://phoenixluferco.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://phoenixluferco.emailmanager.com/40.184/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1505211640112	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211642674	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211647410	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211649968	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211654135	Marionette	DEBUG	Received DOM event "hashchange" for "http://phoenixluferco.emailmanager.com/#ControlPanel/Domain"
+1505211659247	Marionette	DEBUG	Received DOM event "hashchange" for "http://phoenixluferco.emailmanager.com/#ControlPanel/AccountSender"
+1505211664730	Marionette	DEBUG	Received DOM event "hashchange" for "http://phoenixluferco.emailmanager.com/#Dashboard"
+1505211671846	Marionette	DEBUG	Received DOM event "hashchange" for "http://phoenixluferco.emailmanager.com/#CampaignList"
+1505211676230	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211679675	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211692362	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211697610	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211703345	Marionette	DEBUG	Received DOM event "hashchange" for "http://phoenixluferco.emailmanager.com/#Report/Edition/25"
+1505211711847	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211714694	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211718329	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211719343	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211721110	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211722193	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211723618	Marionette	DEBUG	Received DOM event "hashchange" for "http://phoenixluferco.emailmanager.com/#DataMining"
+1505211737281	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211740679	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211744058	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211747137	Marionette	DEBUG	Received DOM event "hashchange" for "http://phoenixluferco.emailmanager.com/#DataMiningForm"
+1505211752562	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211755071	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211755327	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211755608	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211765692	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211768011	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211768569	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211768835	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211769146	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211772436	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211775813	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211779143	Marionette	DEBUG	Received DOM event "hashchange" for "http://phoenixluferco.emailmanager.com/#DataMiningForm"
+1505211784616	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211787126	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211787386	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211787677	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211796105	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211796407	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211796938	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211797194	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211797489	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211800779	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211804102	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211806123	Marionette	DEBUG	Received DOM event "hashchange" for "http://phoenixluferco.emailmanager.com/#DataMiningForm"
+1505211811546	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211814034	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211814285	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211814556	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211838326	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211838616	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211839166	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211839441	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211839757	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211843078	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211845414	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211860092	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211872211	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211884312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505211892892	Marionette	INFO	New connections will no longer be accepted
+[Child 16045] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16045] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505271695620	geckodriver	INFO	Listening on 127.0.0.1:48829
+1505271696677	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1505271697997	Marionette	INFO	Enabled via --marionette
+1505271701354	Marionette	INFO	Listening on port 35057
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505271701415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505271701483	Marionette	DEBUG	loaded listener.js
+1505271701531	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505271701834	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505271701835	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505271702093	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505271702384	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505271702405	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505271702410	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505271702415	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505271702885	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://portalsupplychain.emailmanager.com/40.184/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://portalsupplychain.emailmanager.com/40.184/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1505271712292	Marionette	DEBUG	Received DOM event "hashchange" for "http://portalsupplychain.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://portalsupplychain.emailmanager.com/40.184/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1505271721855	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505271724414	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505271729832	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505271732380	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505271735915	Marionette	DEBUG	Received DOM event "hashchange" for "http://portalsupplychain.emailmanager.com/#ControlPanel/Domain"
+JavaScript error: http://portalsupplychain.emailmanager.com/40.184/js/pt_BR/app.js, line 1: TypeError: b.fireEvent is not a function
+1505271741036	Marionette	DEBUG	Received DOM event "hashchange" for "http://portalsupplychain.emailmanager.com/#ControlPanel/AccountSender"
+1505271746968	Marionette	DEBUG	Received DOM event "hashchange" for "http://portalsupplychain.emailmanager.com/#Dashboard"
+1505271754071	Marionette	DEBUG	Received DOM event "hashchange" for "http://portalsupplychain.emailmanager.com/#CampaignList"
+1505271758434	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505271761823	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505271774470	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505271779843	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505271785544	Marionette	DEBUG	Received DOM event "hashchange" for "http://portalsupplychain.emailmanager.com/#Report/Edition/92"
+1505271793976	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505271796365	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505271801373	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505272201450	geckodriver	INFO	Listening on 127.0.0.1:48321
+1505272202515	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1505272203781	Marionette	INFO	Enabled via --marionette
+1505272207191	Marionette	INFO	Listening on port 33749
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505272207243	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505272207294	Marionette	DEBUG	loaded listener.js
+1505272207322	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505272207591	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505272207592	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505272207841	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505272207985	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505272208007	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505272208015	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505272208018	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505272208546	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505272217938	Marionette	DEBUG	Received DOM event "hashchange" for "http://portalsupplychain.emailmanager.com/#Report/Consolidated"
+1505272502703	geckodriver	INFO	Listening on 127.0.0.1:41455
+1505272503768	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1505272504856	Marionette	INFO	Enabled via --marionette
+1505272508186	Marionette	INFO	Listening on port 40427
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505272508296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505272508346	Marionette	DEBUG	loaded listener.js
+1505272508373	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505272508704	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505272508705	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505272508984	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505272509252	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505272509277	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505272509283	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505272509287	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505272509767	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505272519225	Marionette	DEBUG	Received DOM event "hashchange" for "http://portalsupplychain.emailmanager.com/#Report/Consolidated"
+1505272537830	geckodriver	INFO	Listening on 127.0.0.1:40169
+1505272538889	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1505272539932	Marionette	INFO	Enabled via --marionette
+1505272543296	Marionette	INFO	Listening on port 37717
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505272543317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505272543370	Marionette	DEBUG	loaded listener.js
+1505272543404	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505272543621	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505272543622	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505272543896	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505272544105	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505272544172	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505272544178	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505272544181	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505272544653	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505272554035	Marionette	DEBUG	Received DOM event "hashchange" for "http://portalsupplychain.emailmanager.com/#Report/Consolidated"
+1505272929974	geckodriver	INFO	Listening on 127.0.0.1:38107
+1505272931037	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :50.5
+1505273005990	geckodriver	INFO	Listening on 127.0.0.1:54993
+1505273007058	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :52.0
+1505273030410	geckodriver	INFO	Listening on 127.0.0.1:58957
+1505273031470	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1505273032460	Marionette	INFO	Enabled via --marionette
+1505273040740	Marionette	INFO	Listening on port 40701
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505273040809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505273040859	Marionette	DEBUG	loaded listener.js
+1505273040896	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505273041226	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505273041227	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505273041514	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505273041782	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505273041828	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505273041833	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505273041845	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505273042429	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505273050865	geckodriver	INFO	Listening on 127.0.0.1:46437
+1505273051996	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1505273053140	Marionette	INFO	Enabled via --marionette
+1505273056262	Marionette	INFO	Listening on port 33935
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505273056326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505273056383	Marionette	DEBUG	loaded listener.js
+1505273056406	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505273056668	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505273056669	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505273056970	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505273057093	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505273057114	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505273057119	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505273057122	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505273057621	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505273066949	Marionette	DEBUG	Received DOM event "hashchange" for "http://portalsupplychain.emailmanager.com/#Report/Consolidated"
+1505273119654	geckodriver	INFO	Listening on 127.0.0.1:56277
+1505273120714	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1505273121799	Marionette	INFO	Enabled via --marionette
+1505273124970	Marionette	INFO	Listening on port 45087
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505273125237	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505273125302	Marionette	DEBUG	loaded listener.js
+1505273125343	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505273125614	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505273125615	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505273125888	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505273126094	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505273126114	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505273126119	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505273126126	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505273126636	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://portalsupplychain.emailmanager.com/40.184/js/pt_BR/app.js, line 1: unreachable code after return statement
+JavaScript warning: http://portalsupplychain.emailmanager.com/40.184/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1505273136043	Marionette	DEBUG	Received DOM event "hashchange" for "http://portalsupplychain.emailmanager.com/#Report/Consolidated"
+JavaScript warning: http://portalsupplychain.emailmanager.com/40.184/js/pt_BR/app.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1505273145602	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505273148171	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505273153629	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505273156188	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505273160362	Marionette	DEBUG	Received DOM event "hashchange" for "http://portalsupplychain.emailmanager.com/#ControlPanel/Domain"
+1505273165469	Marionette	DEBUG	Received DOM event "hashchange" for "http://portalsupplychain.emailmanager.com/#ControlPanel/AccountSender"
+1505273171445	Marionette	DEBUG	Received DOM event "hashchange" for "http://portalsupplychain.emailmanager.com/#Dashboard"
+1505273319461	geckodriver	INFO	Listening on 127.0.0.1:41953
+1505273320573	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1505273321697	Marionette	INFO	Enabled via --marionette
+1505273324897	Marionette	INFO	Listening on port 36469
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505273325001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505273325054	Marionette	DEBUG	loaded listener.js
+1505273325079	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505273325346	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505273325347	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505273325625	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505273325825	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505273325846	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505273325852	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505273325855	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505273326370	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505273335848	Marionette	DEBUG	Received DOM event "hashchange" for "http://portalsupplychain.emailmanager.com/#Report/Consolidated"
+1505273518467	geckodriver	INFO	Listening on 127.0.0.1:37353
+1505273519532	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1505273520596	Marionette	INFO	Enabled via --marionette
+1505273523808	Marionette	INFO	Listening on port 39803
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505273523859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505273523910	Marionette	DEBUG	loaded listener.js
+1505273523945	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505273524217	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505273524217	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505273524516	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505273524734	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505273524793	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505273524798	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505273524801	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505273525278	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505273534625	Marionette	DEBUG	Received DOM event "hashchange" for "http://portalsupplychain.emailmanager.com/#Report/Consolidated"
+1505273983121	geckodriver	INFO	Listening on 127.0.0.1:48177
+1505273984183	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1505273985639	Marionette	INFO	Enabled via --marionette
+1505273989221	Marionette	INFO	Listening on port 35191
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505273989310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505273989361	Marionette	DEBUG	loaded listener.js
+1505273989418	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505273989721	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505273989722	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505273990010	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505273990238	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505273990274	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505273990278	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505273990283	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505273990756	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505274000154	Marionette	DEBUG	Received DOM event "hashchange" for "http://portalsupplychain.emailmanager.com/#Report/Consolidated"
+1505274081307	geckodriver	INFO	Listening on 127.0.0.1:47713
+1505274082392	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1505274083453	Marionette	INFO	Enabled via --marionette
+1505274087843	Marionette	INFO	Listening on port 38185
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505274087929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505274087982	Marionette	DEBUG	loaded listener.js
+1505274088047	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505274088511	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505274088512	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505274088793	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505274088915	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505274088932	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://portalsupplychain.emailmanager.com/"
+1505274088937	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505274088941	Marionette	DEBUG	Received DOM event "pageshow" for "http://portalsupplychain.emailmanager.com/"
+1505274089428	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505274098770	Marionette	DEBUG	Received DOM event "hashchange" for "http://portalsupplychain.emailmanager.com/#Report/Consolidated"

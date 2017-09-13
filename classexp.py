@@ -91,7 +91,15 @@ class Analise():
         for x in range(3):
             try:
                 if x > 0:
+                    self.driver.save_screenshot('/home/monolux/Desktop/ss.png')
+                    DEBUG = {'get_window_position' : self.driver.get_window_position(),
+
+
+                             }
+                    print(DEBUG)
+
                     elem = self.xpath('table', 'class', 'x-form-trigger-wrap', 1)
+
                     elem[0].click()
                     time.sleep(2)
                     elem = self.driver.find_elements_by_tag_name('li')
@@ -229,7 +237,13 @@ class Analise():
                 return values_en
             else:
                 return values
+
+
+
         ###################################### Listas, erros, cancelamentos e denuncias
+        
+        
+        print('dd')
         URL = self.URL
         self.driver.get(URL + '/#CampaignList')
         time.sleep(4)
@@ -246,7 +260,7 @@ class Analise():
                 x.click()
 
                 break
-        time.sleep(8)
+        time.sleep(10)
         elem = self.driver.find_elements_by_xpath("//div[@class='status red']")
         print(num_inter)
         hover = ActionChains(self.driver).move_to_element(elem[num_inter])
@@ -287,6 +301,7 @@ class Analise():
         hover = ActionChains(self.driver).move_to_element(elem[num_inter])
         hover.perform()
         elem = self.driver.find_elements_by_xpath("//li[@class='ac report']")
+        time.sleep(2)
         elem[num_inter].click()
         time.sleep(8)
         elem = self.driver.find_element_by_tag_name('h1')
