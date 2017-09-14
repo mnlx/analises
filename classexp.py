@@ -8,6 +8,8 @@ import datetime
 
 
 
+
+
 class Analise():
 
     aaa = 1
@@ -395,187 +397,280 @@ class Analise():
         self.del_completa = True
         print('No previous segments to be deleted')
 
-    def criar_seg(self,seg_num):
+    def criar_seg(self, seg_num):
         ######## Criando segmentações
         URL = self.URL
-        self.driver.get(URL + '/#DataMiningForm')
-        # time.sleep(3)
-        # elem = self.driver.find_elements_by_xpath("//button[@class='x-btn-center']")
-        # elem[3].click()
-        time.sleep(5)
-        if seg_num == 0:
-            bbb = self.driver.find_elements_by_xpath("//input[@class = 'x-form-field x-form-required-field x-form-text']")
-            bbb[0].send_keys('(EMMr CI12M)')
-        if seg_num == 1:
-            bbb = self.driver.find_elements_by_xpath("//input[@class = 'x-form-field x-form-required-field x-form-text']")
-            bbb[0].send_keys('(EMMr CI6M)')
-        if seg_num == 2:
-            bbb = self.driver.find_elements_by_xpath("//input[@class = 'x-form-field x-form-required-field x-form-text']")
-            bbb[0].send_keys('(EMMr SI2010)')
-        aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
-        aaa[0].click()
         time.sleep(2)
-        aaa = self.driver.find_elements_by_xpath("//div[@class = 'x-grid-cell-inner ']")
-        c = 0
-        for i in aaa:
+        self.driver.get(URL + '/#DataMiningForm')
 
-            print(i.get_attribute('innerHTML').lower().count('geral'))
-            if i.get_attribute('innerHTML').lower().count('geral'):
-                print('yyyesss')
-                self.driver.execute_script("document.getElementsByClassName('x-grid-cell-inner').item({0}).click();".format(c))
+        NOME_SEG_LIST = ['(EMMr CI12M)', '(EMMr CI6M)', '(EMMr SI2010)']
+        DIAS_SEG_LIST = [366, 180]
 
+        # xp(self.driver, 'empty', 'class', 'x-form-field x-form-required-field x-form-text', 'list')
+        time.sleep(5)
+        self.driver.execute_script(
+            "document.getElementsByClassName('x-form-field x-form-required-field x-form-text').item(0).value = '{0}';".format(
+                NOME_SEG_LIST[seg_num]))
+        time.sleep(0.5)
+        self.driver.execute_script(
+            "document.getElementsByClassName('x-trigger-index-0 x-form-trigger x-form-trigger-last x-unselectable').item(0).click(); ")
+        time.sleep(1)
+        self.driver.execute_script("document.getElementsByClassName('x-grid-cell-inner ').item(0).click();")
 
-            c+=1
+        if seg_num <= 1:
+            self.driver.execute_script(
+                "document.getElementsByClassName('x-trigger-index-0 x-form-trigger x-form-trigger-last x-unselectable').item(1).click(); ")
+            time.sleep(0.1)
+            self.driver.execute_script(
+                "document.getElementsByClassName('x-grid-row x-grid-tree-node-leaf').item(16).click();")
+            time.sleep(0.1)
+            self.driver.execute_script(
+                "document.getElementsByClassName('x-trigger-index-0 x-form-trigger x-form-trigger-last x-unselectable').item(2).click();")
+            time.sleep(0.1)
+            self.driver.execute_script(
+                "document.getElementsByClassName('x-boundlist-item').item(2).click();")
+            time.sleep(0.1)
 
-        xxx = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
-        xxx[1].click()
-        xxx = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
-        xxx[1].click()
-        xxx = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
-        xxx[1].click()
-        yyy = self.driver.find_elements_by_xpath("//button[@class = 'x-btn-center']")
-        hover1 = ActionChains(self.driver).move_to_element(yyy[10])
-        hover1.perform()
-        hover1 = ActionChains(self.driver).move_to_element(xxx[1])
-        hover1.perform()
-        yyy = self.driver.find_elements_by_xpath("//tr[@class = 'x-grid-row x-grid-tree-node-leaf']")
-        brk = 0
-        if seg_num ==0:
-            while brk != 2:
-                for l in yyy:
-
-                    self.driver.execute_script("return arguments[0].scrollIntoView();", l)
-                    hover1 = ActionChains(self.driver).move_to_element(xxx[1])
-                    hover1.perform()
-                    hover1 = ActionChains(self.driver).move_to_element(yyy[int(-len(yyy) / 4)])
-                    hover1.perform()
-                    yyy = self.driver.find_elements_by_xpath("//tr[@class = 'x-grid-row x-grid-tree-node-leaf']")
-
-                    for x in yyy:
-
-                        if x.text == 'Com (visualizações e cliques)':
-                            x.click()
-                            brk = 2
-                            break
-                        elif x.text == 'With (impressions and clicks)':
-                            x.click()
-                            brk = 2
-                            break
-
-                    if brk == 2:
-                        break
-            time.sleep(2)
-            aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
-            aaa[2].click()
-            aaa = self.driver.find_elements_by_xpath("//li[@class = 'x-boundlist-item']")
-            aaa[1].click()
-            a = datetime.date.today() - datetime.timedelta(days=365)
-            a = a.strftime("%d/%m/%Y")
+            a = datetime.date.today() - datetime.timedelta(days=DIAS_SEG_LIST[seg_num])
+            a = a.strftime("%Y-%m-%d")
             aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
             aaa[3].click()
             aaa[3].send_keys(a)
-            aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
-            aaa[3].click()
-            time.sleep(3)
-            aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
-            aaa[0].click()
-            time.sleep(3)
-            aaa = self.driver.find_elements_by_xpath("//div[@class='x-btn x-box-item x-toolbar-item x-btn-default-toolbar-large x-noicon x-btn-noicon x-btn-default-toolbar-large-noicon']")
-            aaa[0].click()
-            time.sleep(3)
-
-        ######## Criando segmentação (EMMr CI6M)
-        elif seg_num ==1:
-            while brk != 2:
-                for l in yyy:
-                    self.driver.execute_script("return arguments[0].scrollIntoView();", l)
-                    # hover = ActionChains(driver).move_to_element(l)
-                    # hover.perform()
-                    hover = ActionChains(self.driver).move_to_element(xxx[1])
-                    hover.perform()
-                    hover = ActionChains(self.driver).move_to_element(yyy[int(-len(yyy) / 4)])
-                    hover.perform()
-                    yyy = self.driver.find_elements_by_xpath("//tr[@class = 'x-grid-row x-grid-tree-node-leaf']")
-                    for x in yyy:
-                        # if x.text == 'Com (visualizações e cliques)':
-                        if x.text == 'Com (visualizações e cliques)':
-                            x.click()
-                            brk = 2
-                            break
-                        elif x.text == 'With (impressions and clicks)':
-                            x.click()
-                            brk = 2
-                            break
-                    if brk == 2:
-                        break
-            brk = 0
-            aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
-            aaa[2].click()
-            aaa = self.driver.find_elements_by_xpath("//li[@class = 'x-boundlist-item']")
-            aaa[1].click()
-            a = datetime.date.today() - datetime.timedelta(days=180)
-            a = a.strftime("%d/%m/%Y")
-            aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
-            aaa[3].click()
-            aaa[3].send_keys(a)
-            aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
-            aaa[3].click()
-            time.sleep(3)
-            aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
-            aaa[0].click()
-            time.sleep(3)
+            self.driver.execute_script(
+               """ document.querySelectorAll("[name*='field-date']").item(0).value = '{0}'""".format(a))
+            time.sleep(.5)
             aaa = self.driver.find_elements_by_xpath(
                 "//div[@class='x-btn x-box-item x-toolbar-item x-btn-default-toolbar-large x-noicon x-btn-noicon x-btn-default-toolbar-large-noicon']")
             aaa[0].click()
-            time.sleep(2)
 
-
-        elif seg_num==2:
-            while brk != 2:
-                for l in yyy:
-                    self.driver.execute_script("return arguments[0].scrollIntoView();", l)
-
-                    hover = ActionChains(self.driver).move_to_element(xxx[1])
-                    hover.perform()
-                    hover = ActionChains(self.driver).move_to_element(yyy[int(-len(yyy) / 4)])
-                    hover.perform()
-                    yyy = self.driver.find_elements_by_xpath("//tr[@class = 'x-grid-row x-grid-tree-node-leaf']")
-                    for x in yyy:
-
-                        if x.text == 'Sem':
-                            x.click()
-                            brk = 2
-                            break
-                        elif x.text == 'Without':
-                            x.click()
-                            brk = 2
-                            break
-                    if brk == 2:
-                        break
-            aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
-            aaa[2].click()
-            aaa = self.driver.find_elements_by_xpath("//li[@class = 'x-boundlist-item']")
-            aaa[1].click()
+        else:
+            self.driver.execute_script(
+                "document.getElementsByClassName('x-trigger-index-0 x-form-trigger x-form-trigger-last x-unselectable').item(1).click(); ")
+            time.sleep(0.1)
+            self.driver.execute_script(
+                "document.getElementsByClassName('x-grid-row x-grid-tree-node-leaf').item(18).click();")
+            time.sleep(0.1)
+            self.driver.execute_script(
+                "document.getElementsByClassName('x-trigger-index-0 x-form-trigger x-form-trigger-last x-unselectable').item(2).click();")
+            time.sleep(0.1)
+            self.driver.execute_script(
+                "document.getElementsByClassName('x-boundlist-item').item(2).click();")
+            time.sleep(0.1)
+            """DEBUG:START"""
+            self.driver.save_screenshot('/home/monolux/Desktop/selenium_debug/ss2.png')
+            """DEBUG:STOP"""
             aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
             aaa[3].click()
             aaa[3].send_keys('01/01/2010')
-            aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
-            aaa[3].click()
-            time.sleep(3)
-            aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
+            """DEBUG:START"""
+            self.driver.save_screenshot('/home/monolux/Desktop/selenium_debug/ss3.png')
+            """DEBUG:STOP"""
+            self.driver.execute_script(
+               """ document.querySelectorAll("[name*='field-date']").item(0).value = '2010-01-01'""")
+            """DEBUG:START"""
+            self.driver.save_screenshot('/home/monolux/Desktop/selenium_debug/ss4.png')
+            """DEBUG:STOP"""
+            time.sleep(1.5)
+            aaa = self.driver.find_elements_by_xpath(
+                "//div[@class='x-btn x-box-item x-toolbar-item x-btn-default-toolbar-large x-noicon x-btn-noicon x-btn-default-toolbar-large-noicon']")
             aaa[0].click()
-            time.sleep(2)
-            aaa = self.driver.find_elements_by_xpath("//div[@class='x-btn x-box-item x-toolbar-item x-btn-default-toolbar-large x-noicon x-btn-noicon x-btn-default-toolbar-large-noicon']")
+            """DEBUG:START"""
+            self.driver.save_screenshot('/home/monolux/Desktop/selenium_debug/ss5.png')
+            """DEBUG:STOP"""
+            time.sleep(1)
             aaa[0].click()
-            time.sleep(2)
+            """DEBUG:START"""
+            self.driver.save_screenshot('/home/monolux/Desktop/selenium_debug/ss6.png')
+            """DEBUG:STOP"""
+
+    #
+    # def criar_seg(self,seg_num):
+    #     ######## Criando segmentações
+    #     URL = self.URL
+    #     self.driver.get(URL + '/#DataMiningForm')
+    #     # time.sleep(3)
+    #     # elem = self.driver.find_elements_by_xpath("//button[@class='x-btn-center']")
+    #     # elem[3].click()
+    #     time.sleep(5)
+    #     if seg_num == 0:
+    #         bbb = self.driver.find_elements_by_xpath("//input[@class = 'x-form-field x-form-required-field x-form-text']")
+    #         bbb[0].send_keys('(EMMr CI12M)')
+    #     if seg_num == 1:
+    #         bbb = self.driver.find_elements_by_xpath("//input[@class = 'x-form-field x-form-required-field x-form-text']")
+    #         bbb[0].send_keys('(EMMr CI6M)')
+    #     if seg_num == 2:
+    #         bbb = self.driver.find_elements_by_xpath("//input[@class = 'x-form-field x-form-required-field x-form-text']")
+    #         bbb[0].send_keys('(EMMr SI2010)')
+    #     aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
+    #     aaa[0].click()
+    #     time.sleep(2)
+    #     aaa = self.driver.find_elements_by_xpath("//div[@class = 'x-grid-cell-inner ']")
+    #     c = 0
+    #     for i in aaa:
+    #
+    #         print(i.get_attribute('innerHTML').lower().count('geral'))
+    #         if i.get_attribute('innerHTML').lower().count('geral'):
+    #             print('yyyesss')
+    #             self.driver.execute_script("document.getElementsByClassName('x-grid-cell-inner').item({0}).click();".format(c))
+    #
+    #
+    #         c+=1
+    #
+    #     xxx = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
+    #     xxx[1].click()
+    #     xxx = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
+    #     xxx[1].click()
+    #     xxx = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
+    #     xxx[1].click()
+    #     yyy = self.driver.find_elements_by_xpath("//button[@class = 'x-btn-center']")
+    #     hover1 = ActionChains(self.driver).move_to_element(yyy[10])
+    #     hover1.perform()
+    #     hover1 = ActionChains(self.driver).move_to_element(xxx[1])
+    #     hover1.perform()
+    #     yyy = self.driver.find_elements_by_xpath("//tr[@class = 'x-grid-row x-grid-tree-node-leaf']")
+    #     brk = 0
+    #     if seg_num ==0:
+    #         while brk != 2:
+    #             for l in yyy:
+    #
+    #                 self.driver.execute_script("return arguments[0].scrollIntoView();", l)
+    #                 hover1 = ActionChains(self.driver).move_to_element(xxx[1])
+    #                 hover1.perform()
+    #                 hover1 = ActionChains(self.driver).move_to_element(yyy[int(-len(yyy) / 4)])
+    #                 hover1.perform()
+    #                 yyy = self.driver.find_elements_by_xpath("//tr[@class = 'x-grid-row x-grid-tree-node-leaf']")
+    #
+    #                 for x in yyy:
+    #
+    #                     if x.text == 'Com (visualizações e cliques)':
+    #                         x.click()
+    #                         brk = 2
+    #                         break
+    #                     elif x.text == 'With (impressions and clicks)':
+    #                         x.click()
+    #                         brk = 2
+    #                         break
+    #
+    #                 if brk == 2:
+    #                     break
+    #         time.sleep(2)
+    #         aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
+    #         aaa[2].click()
+    #         aaa = self.driver.find_elements_by_xpath("//li[@class = 'x-boundlist-item']")
+    #         aaa[1].click()
+    #         a = datetime.date.today() - datetime.timedelta(days=365)
+    #         a = a.strftime("%d/%m/%Y")
+    #         aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
+    #         aaa[3].click()
+    #         aaa[3].send_keys(a)
+    #         aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
+    #         aaa[3].click()
+    #         time.sleep(3)
+    #         aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
+    #         aaa[0].click()
+    #         time.sleep(3)
+    #         aaa = self.driver.find_elements_by_xpath("//div[@class='x-btn x-box-item x-toolbar-item x-btn-default-toolbar-large x-noicon x-btn-noicon x-btn-default-toolbar-large-noicon']")
+    #         aaa[0].click()
+    #         time.sleep(3)
+    #
+    #     ######## Criando segmentação (EMMr CI6M)
+    #     elif seg_num ==1:
+    #         while brk != 2:
+    #             for l in yyy:
+    #                 self.driver.execute_script("return arguments[0].scrollIntoView();", l)
+    #                 # hover = ActionChains(driver).move_to_element(l)
+    #                 # hover.perform()
+    #                 hover = ActionChains(self.driver).move_to_element(xxx[1])
+    #                 hover.perform()
+    #                 hover = ActionChains(self.driver).move_to_element(yyy[int(-len(yyy) / 4)])
+    #                 hover.perform()
+    #                 yyy = self.driver.find_elements_by_xpath("//tr[@class = 'x-grid-row x-grid-tree-node-leaf']")
+    #                 for x in yyy:
+    #                     # if x.text == 'Com (visualizações e cliques)':
+    #                     if x.text == 'Com (visualizações e cliques)':
+    #                         x.click()
+    #                         brk = 2
+    #                         break
+    #                     elif x.text == 'With (impressions and clicks)':
+    #                         x.click()
+    #                         brk = 2
+    #                         break
+    #                 if brk == 2:
+    #                     break
+    #         brk = 0
+    #         aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
+    #         aaa[2].click()
+    #         aaa = self.driver.find_elements_by_xpath("//li[@class = 'x-boundlist-item']")
+    #         aaa[1].click()
+    #         a = datetime.date.today() - datetime.timedelta(days=180)
+    #         a = a.strftime("%d/%m/%Y")
+    #         aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
+    #         aaa[3].click()
+    #         aaa[3].send_keys(a)
+    #         aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
+    #         aaa[3].click()
+    #         time.sleep(3)
+    #         aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
+    #         aaa[0].click()
+    #         time.sleep(3)
+    #         aaa = self.driver.find_elements_by_xpath(
+    #             "//div[@class='x-btn x-box-item x-toolbar-item x-btn-default-toolbar-large x-noicon x-btn-noicon x-btn-default-toolbar-large-noicon']")
+    #         aaa[0].click()
+    #         time.sleep(2)
+    #
+    #
+    #     elif seg_num==2:
+    #         while brk != 2:
+    #             for l in yyy:
+    #                 self.driver.execute_script("return arguments[0].scrollIntoView();", l)
+    #
+    #                 hover = ActionChains(self.driver).move_to_element(xxx[1])
+    #                 hover.perform()
+    #                 hover = ActionChains(self.driver).move_to_element(yyy[int(-len(yyy) / 4)])
+    #                 hover.perform()
+    #                 yyy = self.driver.find_elements_by_xpath("//tr[@class = 'x-grid-row x-grid-tree-node-leaf']")
+    #                 for x in yyy:
+    #
+    #                     if x.text == 'Sem':
+    #                         x.click()
+    #                         brk = 2
+    #                         break
+    #                     elif x.text == 'Without':
+    #                         x.click()
+    #                         brk = 2
+    #                         break
+    #                 if brk == 2:
+    #                     break
+    #         aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
+    #         aaa[2].click()
+    #         aaa = self.driver.find_elements_by_xpath("//li[@class = 'x-boundlist-item']")
+    #         aaa[1].click()
+    #         aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
+    #         aaa[3].click()
+    #         aaa[3].send_keys('01/01/2010')
+    #         aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
+    #         aaa[3].click()
+    #         time.sleep(3)
+    #         aaa = self.driver.find_elements_by_xpath("//td[@class = 'x-form-trigger-input-cell']")
+    #         aaa[0].click()
+    #         time.sleep(2)
+    #         aaa = self.driver.find_elements_by_xpath("//div[@class='x-btn x-box-item x-toolbar-item x-btn-default-toolbar-large x-noicon x-btn-noicon x-btn-default-toolbar-large-noicon']")
+    #         aaa[0].click()
+    #         time.sleep(2)
 
     def seg_values(self):
         # URL = self.URL
         # self.driver.get(URL + '/#DataMining')
         time.sleep(5)
         print('ggg2')
+        """DEBUG:START"""
+        self.driver.save_screenshot('/home/monolux/Desktop/selenium_debug/ss7.png')
+        """DEBUG:STOP"""
         self.driver.execute_script("document.getElementsByClassName('x-form-field x-form-text x-form-empty-field').item(2).value='(EMMr'")
         time.sleep(1)
+        """DEBUG:START"""
+        self.driver.save_screenshot('/home/monolux/Desktop/selenium_debug/ss8.png')
+        """DEBUG:STOP"""
         print('ggg3')
         self.driver.execute_script("document.getElementsByClassName('x-trigger-index-1 x-form-trigger x-form-search-trigger x-form-trigger-last x-unselectable').item(1).click()")
         # self.driver.execute_script("document.getElementsByClassName('x-trigger-index-1 x-form-trigger x-form-search-trigger x-form-trigger-last x-unselectable').item(1).click()")
