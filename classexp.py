@@ -16,7 +16,7 @@ class Analise():
 
     def __init__(self,dominio,psswrd):
         print('started')
-        self.driver = webdriver.Firefox()
+        self.driver = webdriver.Chrome()
         self.URL = "http://{0}.emailmanager.com".format(dominio)
         self.del_completa = False
         self.psswrd = psswrd
