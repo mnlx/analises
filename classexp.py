@@ -4,6 +4,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import os
 import datetime
 
 
@@ -16,7 +17,12 @@ class Analise():
 
     def __init__(self,dominio,psswrd):
         print('started')
+
+
+
+        webdriver.ChromeOptions.binary_location = os.environ['GOOGLE_CHROME_SHIM']
         self.driver = webdriver.Chrome()
+
         self.URL = "http://{0}.emailmanager.com".format(dominio)
         self.del_completa = False
         self.psswrd = psswrd
