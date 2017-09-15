@@ -21,7 +21,8 @@ class Analise():
 
         print(os.environ['GOOGLE_CHROME_BIN'])
         webdriver.ChromeOptions.binary_location = os.environ['GOOGLE_CHROME_BIN']
-        self.driver = webdriver.Chrome(chrome_options={'binary_location' : os.environ['GOOGLE_CHROME_BIN']})
+        
+        self.driver = webdriver.Chrome()
 
         self.URL = "http://{0}.emailmanager.com".format(dominio)
         self.del_completa = False
