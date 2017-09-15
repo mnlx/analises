@@ -63,8 +63,10 @@ class Analise():
         elem = self.driver.find_element_by_name("login")
         elem.clear()
         elem.send_keys("andre.duarte/admin")
-        elem2 = self.driver.find_element_by_id('pass')
-        elem2.send_keys(self.psswrd)
+        self.driver.execute_script("$('pass').value = '{0}'".format(self.psswrd))
+
+        # elem2 = self.driver.find_element_by_id('pass')
+        # elem2.send_keys(self.psswrd)
         self.click('bt-gr-orange')
         time.sleep(8)
 
