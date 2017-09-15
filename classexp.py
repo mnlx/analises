@@ -20,7 +20,7 @@ class Analise():
 
 
 
-        webdriver.ChromeOptions.binary_location = os.environ['GOOGLE_CHROME_SHIM']
+        webdriver.ChromeOptions.binary_location = os.environ['GOOGLE_CHROME_BIN']
         self.driver = webdriver.Chrome()
 
         self.URL = "http://{0}.emailmanager.com".format(dominio)
