@@ -22,7 +22,7 @@ while 1:
             u = [i for i in a]
             id = u[0]['id']
             x = u[0]['client']
-
+            print(x)
             a = db.query("SELECT * FROM clients WHERE id>{0} AND client='{1}' ".format(id,x))
             u = [i for i in a]
             count = len(u)
@@ -43,36 +43,36 @@ while 1:
                 continue
             else:
 
-                while True:
-                    try:
-                        analise.consolidado()
-                    except IndexError as e:
-                        print(e)
-                        continue
-                    break
-                while True:
-                    try:
-                        analise.acc_info()
-                    except IndexError as e:
-                        print(e)
-                        continue
-                    break
-
-                while True:
-                    try:
-                        analise.specific_report(count)
-                    except IndexError as e:
-                        print(e)
-                        continue
-                    break
-                while not analise.del_completa:
-                    try:
-                        analise.del_seg()
-                    except (IndexError) as e:
-                        print(e)
-                        break
+                # while True:
+                #     try:
+                #         analise.consolidado()
+                #     except IndexError as e:
+                #         print(e)
+                #         continue
+                #     break
+                # while True:
+                #     try:
+                #         analise.acc_info()
+                #     except IndexError as e:
+                #         print(e)
+                #         continue
+                #     break
+                #
+                # while True:
+                #     try:
+                #         analise.specific_report(count)
+                #     except IndexError as e:
+                #         print(e)
+                #         continue
+                #     break
+                # while not analise.del_completa:
+                #     try:
+                #         analise.del_seg()
+                #     except (IndexError) as e:
+                #         print(e)
+                #         break
                 num_seg=0
-                while num_seg != 3 :
+                while num_seg < 3 :
                     # try:
                     print(num_seg)
                     analise.criar_seg(num_seg)
